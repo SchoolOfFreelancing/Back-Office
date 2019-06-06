@@ -1,4 +1,4 @@
-## [School Of Freelancing](http://www.schooloffreelancing.com/) is practical project management freelancing ecosystem to provide linux related freelancing training from home using freelancer.com, fiverr.com, peopleperhour.com and guru.com
+[School Of Freelancing](http://www.schooloffreelancing.com/) is practical project management freelancing ecosystem to provide linux related freelancing training from home using freelancer.com, fiverr.com, peopleperhour.com and guru.com
 
 A team of top professional founded "School Of Freelancing" to develop giant linux freelancer.
 
