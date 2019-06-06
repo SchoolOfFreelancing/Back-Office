@@ -1,0 +1,45 @@
+Return-Path: <john@achivecone.space>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id ZBXcD1oGrFzqKioA+UFKaw
+	(envelope-from <john@achivecone.space>)
+	for <school@s1.bitsboxhost.com>; Tue, 09 Apr 2019 08:41:30 +0600
+Return-path: <john@achivecone.space>
+Envelope-to: adnan@schooloffreelancing.com
+Delivery-date: Tue, 09 Apr 2019 08:41:30 +0600
+Received: from achivecone.space ([142.93.237.177]:48498)
+	by s1.bitsboxhost.com with esmtp (Exim 4.91)
+	(envelope-from <john@achivecone.space>)
+	id 1hDghU-00Bamu-UP
+	for adnan@schooloffreelancing.com; Tue, 09 Apr 2019 08:41:30 +0600
+Received: by achivecone.space (Postfix, from userid 1000)
+	id EBE7BC576C; Tue,  9 Apr 2019 02:30:58 +0000 (UTC)
+Date: Tue, 09 Apr 2019 02:30:58 +0000
+From: john@achivecone.space
+To: adnan@schooloffreelancing.com
+Subject: Good day!
+Message-ID: <20190409023058.VwVQWYvEY%john@achivecone.space>
+User-Agent: s-nail v14.8.6
+X-Spam-Status: No, score=2.0
+X-Spam-Score: 20
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hi All, Have a Nice Day!. - John 
+ 
+ Content analysis details:   (2.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+X-Spam-Flag: NO
+
+ Hi All, Have a Nice Day!. - John

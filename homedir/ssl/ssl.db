@@ -1,0 +1,79 @@
+--- 
+files: 
+  certificate: 
+    chat_schooloffreelancing_com_c0e03_421e3_1563983071_5376516329d4ea865624f2d1300ba307: 
+      created: '1532447071'
+      domains: 
+        - chat.schooloffreelancing.com
+        - www.chat.schooloffreelancing.com
+      friendly_name: Cert for “chat.schooloffreelancing.com”
+      id: chat_schooloffreelancing_com_c0e03_421e3_1563983071_5376516329d4ea865624f2d1300ba307
+      is_self_signed: 1
+      issuer.commonName: chat.schooloffreelancing.com
+      issuer.organizationName: ~
+      modulus: c0e03808d2196d3a77e57637580ccb2669b125ed5a6e01625d190b8ccd46e81e41f3677103a656c13d57798f389f329eea63f55ed71108436d8b889731e26d5b19a6916aa6faa9639d7ae03544efc694ab06498f3be2c43f18992176b6d837f29e4bde664586830787a5c0429045266359435404b48ab70743e56bcfc915040409728f26ba11737ea5ef757010a9d7a3b1f606afaf2168020093b92749c13e190facaf0855068e55d1dae54272024d3cd2d127868ee6a13b1de8d30c84dfa7ba4c160e8787dca4ad68a9de857c8309ab4ab7904783d27bdada197862d10d1047e5e3735d8e9a51004b3bc0881ff01d732e1ad4477fa7569e39d2b932258421e3
+      modulus_length: 2048
+      not_after: '1563983071'
+      not_before: '1532447071'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: chat.schooloffreelancing.com
+      validation_type: ~
+    schooloffreelancing_com_b4dbe_39fc1_1565946238_7102640c113b5e7eeda6b369e595bc5c: 
+      created: '1558173839'
+      domains: 
+        - autodiscover.schooloffreelancing.com
+        - cpanel.schooloffreelancing.com
+        - mail.schooloffreelancing.com
+        - schooloffreelancing.com
+        - webdisk.schooloffreelancing.com
+        - webmail.schooloffreelancing.com
+        - www.schooloffreelancing.com
+      friendly_name: autodiscover.schooloffreelancing.com, cpanel.schooloffreelancing.com, mail.schooloffreelancing.com, schooloffreelancing.com, webdisk.schooloffreelancing.com, webmail.schooloffreelancing.com, and www.schooloffreelancing.com 1558173839.0
+      id: schooloffreelancing_com_b4dbe_39fc1_1565946238_7102640c113b5e7eeda6b369e595bc5c
+      is_self_signed: 0
+      issuer.commonName: Let's Encrypt Authority X3
+      issuer.organizationName: Let's Encrypt
+      modulus: b4dbe6cae69a9c99670c1cd28c9ad426241c8dd81ade691c2953b128ead602c14860bfd8dbcc6f9eb0d8da4f41ce386b6df6ae60b28335ed946acd6aa5cf504dcbd5236b39c03134e1ab58b0261f4ab2333c077c3348473bfe03dff61d676724940cdd9d925f1cb32644920176ea1d6c0dc32ce1e54483a2641934dcd3b5cc4814eadfa3ffb22ab1f87dae8153cd21df784b56223454a134fc9515f9d0b76156fa945a23ebebd7e0bfcb2faa19b897e54b5e9849f5ae04f0d309b6d6bff3985a9cf2ac71d392decc892c69db15c38fd10c321a93fb622370d13519e65e4a7a5c0807fe54102febade8a7f5aa28e88c38506d809427d9ccca613ba555eac39fc1
+      modulus_length: 2048
+      not_after: '1565946238'
+      not_before: '1558170238'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: schooloffreelancing.com
+      validation_type: dv
+  key: 
+    b919e_f7fd3_a860563a695ce77b449557cde3f1d9bb: 
+      created: '1517392087'
+      friendly_name: mail.schooloffreelancing.com, schooloffreelancing.com, and www.schooloffreelancing.com
+      id: b919e_f7fd3_a860563a695ce77b449557cde3f1d9bb
+      modulus: b919ea8a00bb780f1a3736601c1e54edda2c38cd7f4231bac7fc36ee7574d8be677a6e180aa6536839f77b29ac502e503d14283eaa3d4ee4e924b62b495e3bddf9bf23e4f4d39f524ea9c83dfa86d2a4c0e140d1761ecab94d9e7970583e71b852187a05bf5b1afc916a9eb615d7020a5c956155b0abab42105237dcbb36bf438b7e217ff963c4b64b6d67b473d7bd63f1fa44a7eebc83803a3415d7442864b2e6f6a7313861575c24357915977ec53dc82ebcb40d18a5822d096f01f14496f383cd926e969ac9727ed7aaeb9cbb5448880776836cff7484411c792759fac7316a494669ec328b17f3ca7dd7344d0c29bcada0f90425e3b3791a538bdf4f7fd3
+      modulus_length: 2048
+    c0e03_421e3_18e4d64fc89afecb646155563ccbd3fa: 
+      created: '1532447071'
+      friendly_name: Key for “chat.schooloffreelancing.com”
+      id: c0e03_421e3_18e4d64fc89afecb646155563ccbd3fa
+      modulus: c0e03808d2196d3a77e57637580ccb2669b125ed5a6e01625d190b8ccd46e81e41f3677103a656c13d57798f389f329eea63f55ed71108436d8b889731e26d5b19a6916aa6faa9639d7ae03544efc694ab06498f3be2c43f18992176b6d837f29e4bde664586830787a5c0429045266359435404b48ab70743e56bcfc915040409728f26ba11737ea5ef757010a9d7a3b1f606afaf2168020093b92749c13e190facaf0855068e55d1dae54272024d3cd2d127868ee6a13b1de8d30c84dfa7ba4c160e8787dca4ad68a9de857c8309ab4ab7904783d27bdada197862d10d1047e5e3735d8e9a51004b3bc0881ff01d732e1ad4477fa7569e39d2b932258421e3
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      b4dbe6cae69a9c99670c1cd28c9ad426241c8dd81ade691c2953b128ead602c14860bfd8dbcc6f9eb0d8da4f41ce386b6df6ae60b28335ed946acd6aa5cf504dcbd5236b39c03134e1ab58b0261f4ab2333c077c3348473bfe03dff61d676724940cdd9d925f1cb32644920176ea1d6c0dc32ce1e54483a2641934dcd3b5cc4814eadfa3ffb22ab1f87dae8153cd21df784b56223454a134fc9515f9d0b76156fa945a23ebebd7e0bfcb2faa19b897e54b5e9849f5ae04f0d309b6d6bff3985a9cf2ac71d392decc892c69db15c38fd10c321a93fb622370d13519e65e4a7a5c0807fe54102febade8a7f5aa28e88c38506d809427d9ccca613ba555eac39fc1: 
+        schooloffreelancing_com_b4dbe_39fc1_1565946238_7102640c113b5e7eeda6b369e595bc5c: ~
+      c0e03808d2196d3a77e57637580ccb2669b125ed5a6e01625d190b8ccd46e81e41f3677103a656c13d57798f389f329eea63f55ed71108436d8b889731e26d5b19a6916aa6faa9639d7ae03544efc694ab06498f3be2c43f18992176b6d837f29e4bde664586830787a5c0429045266359435404b48ab70743e56bcfc915040409728f26ba11737ea5ef757010a9d7a3b1f606afaf2168020093b92749c13e190facaf0855068e55d1dae54272024d3cd2d127868ee6a13b1de8d30c84dfa7ba4c160e8787dca4ad68a9de857c8309ab4ab7904783d27bdada197862d10d1047e5e3735d8e9a51004b3bc0881ff01d732e1ad4477fa7569e39d2b932258421e3: 
+        chat_schooloffreelancing_com_c0e03_421e3_1563983071_5376516329d4ea865624f2d1300ba307: ~
+    subject.commonName: 
+      chat.schooloffreelancing.com: 
+        chat_schooloffreelancing_com_c0e03_421e3_1563983071_5376516329d4ea865624f2d1300ba307: ~
+      schooloffreelancing.com: 
+        schooloffreelancing_com_b4dbe_39fc1_1565946238_7102640c113b5e7eeda6b369e595bc5c: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “chat.schooloffreelancing.com”: chat_schooloffreelancing_com_c0e03_421e3_1563983071_5376516329d4ea865624f2d1300ba307
+      autodiscover.schooloffreelancing.com, cpanel.schooloffreelancing.com, mail.schooloffreelancing.com, schooloffreelancing.com, webdisk.schooloffreelancing.com, webmail.schooloffreelancing.com, and www.schooloffreelancing.com 1558173839.0: schooloffreelancing_com_b4dbe_39fc1_1565946238_7102640c113b5e7eeda6b369e595bc5c
+  key: 
+    friendly_name: 
+      Key for “chat.schooloffreelancing.com”: c0e03_421e3_18e4d64fc89afecb646155563ccbd3fa
+      mail.schooloffreelancing.com, schooloffreelancing.com, and www.schooloffreelancing.com: b919e_f7fd3_a860563a695ce77b449557cde3f1d9bb
+    modulus: 
+      b919ea8a00bb780f1a3736601c1e54edda2c38cd7f4231bac7fc36ee7574d8be677a6e180aa6536839f77b29ac502e503d14283eaa3d4ee4e924b62b495e3bddf9bf23e4f4d39f524ea9c83dfa86d2a4c0e140d1761ecab94d9e7970583e71b852187a05bf5b1afc916a9eb615d7020a5c956155b0abab42105237dcbb36bf438b7e217ff963c4b64b6d67b473d7bd63f1fa44a7eebc83803a3415d7442864b2e6f6a7313861575c24357915977ec53dc82ebcb40d18a5822d096f01f14496f383cd926e969ac9727ed7aaeb9cbb5448880776836cff7484411c792759fac7316a494669ec328b17f3ca7dd7344d0c29bcada0f90425e3b3791a538bdf4f7fd3: b919e_f7fd3_a860563a695ce77b449557cde3f1d9bb
+      c0e03808d2196d3a77e57637580ccb2669b125ed5a6e01625d190b8ccd46e81e41f3677103a656c13d57798f389f329eea63f55ed71108436d8b889731e26d5b19a6916aa6faa9639d7ae03544efc694ab06498f3be2c43f18992176b6d837f29e4bde664586830787a5c0429045266359435404b48ab70743e56bcfc915040409728f26ba11737ea5ef757010a9d7a3b1f606afaf2168020093b92749c13e190facaf0855068e55d1dae54272024d3cd2d127868ee6a13b1de8d30c84dfa7ba4c160e8787dca4ad68a9de857c8309ab4ab7904783d27bdada197862d10d1047e5e3735d8e9a51004b3bc0881ff01d732e1ad4477fa7569e39d2b932258421e3: c0e03_421e3_18e4d64fc89afecb646155563ccbd3fa

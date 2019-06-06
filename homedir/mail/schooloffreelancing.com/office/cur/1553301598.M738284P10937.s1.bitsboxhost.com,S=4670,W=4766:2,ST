@@ -1,0 +1,96 @@
+Return-Path: <aaccou52@gmail.com>
+Delivered-To: office@schooloffreelancing.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id i5UGK16AlVy5KgAA+UFKaw
+	(envelope-from <aaccou52@gmail.com>)
+	for <office@schooloffreelancing.com>; Sat, 23 Mar 2019 06:39:58 +0600
+Return-path: <aaccou52@gmail.com>
+Envelope-to: office@schooloffreelancing.com
+Delivery-date: Sat, 23 Mar 2019 06:39:58 +0600
+Received: from mail-qt1-f182.google.com ([209.85.160.182]:36444)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <aaccou52@gmail.com>)
+	id 1h7UhY-0002dm-Rb
+	for office@schooloffreelancing.com; Sat, 23 Mar 2019 06:39:58 +0600
+Received: by mail-qt1-f182.google.com with SMTP id y36so4592196qtb.3
+        for <office@schooloffreelancing.com>; Fri, 22 Mar 2019 17:39:36 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=oZ9MWOM5Oa2H1quj6EXWvunOK95isEmpDjzwBvEih2c=;
+        b=AglT6JBmvNaIY+nFIG29KCIIBdSe32TlGY6F8KQlAvz07m5dS2h9Uh7kckGCHgPL2I
+         beCsHOG8xM2ZVcTiul6XQq8oTVq3qpR16nu4GYfAcj8W3LGHf7DrnHfOnctUWjfta6cp
+         quO0vnObmc/FKmnoay+Mq6vzxFXz8Ygc3wuj4cfJuI1XFrbKYXmbtOKJQzUA0IAk0cQM
+         4qLtpDf0rsFJsFexmaGWO/ykmxLrU6p17upva72XF6otHyZ8TF7JYFuS7a7pqW8+TFOM
+         7/clSMGenfYIOiO2DU+yJMRdR2RDBKoNMX/VfLSt2FlX6MTJIqZNbD5hVJ7v51Mla36J
+         u7KA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=oZ9MWOM5Oa2H1quj6EXWvunOK95isEmpDjzwBvEih2c=;
+        b=KCysMIfLmc6MvYkswwjnwSPRhRh3rXOT2hCsSeE4DlWH84KXGEbzkNqPENZUw2p6VP
+         mV3Px82oqVPfRy/4yRdO8iorzPYwOHLIKOOKbxNGip87iEEPJc0Mv+tDZMLi9eUB/7rU
+         si0UDvuOnOcYteezkXGXTnTKAH71koVRJA3OkmSY5Cz1LoJRXThPLpCUJZk0LzI1/qKi
+         LUocTQOQAbA0SCc0QZxRb9NnsW3L2fuqZXetkaB8xrEM0KJJkvwhWNily76V1gNjUdvK
+         I22gCI7yLSkUHARFuTk7vCvjE9TThrGOwbdn5iCUCO5ThAZfp5kAj7YNGpCPwtHITd/z
+         23Vw==
+X-Gm-Message-State: APjAAAUH9mn2wjid+1yLm1CphKeu+/tPXPL0rihlINiMUc1pSuZBIk+A
+	VjkvnEdv2rimglOqLuicEBa4GXKsL2J5pHefp7wKlCWg
+X-Google-Smtp-Source: APXvYqz8vWdfOfmeovI+7c3Ybve8/t8/8WUMCan+qD4MwozlXAS81XQYOpkcR/+WelRs9Vcu+bXNSOOVbN2e581cub8=
+X-Received: by 2002:ac8:3554:: with SMTP id z20mr10623427qtb.150.1553301555872;
+ Fri, 22 Mar 2019 17:39:15 -0700 (PDT)
+MIME-Version: 1.0
+From: All Accounts <aaccou52@gmail.com>
+Date: Sat, 23 Mar 2019 06:39:05 +0600
+Message-ID: <CABtWxB42jDp5hWj0wV1NkPVvRYvPPCy8=Ty1K64StXBZH2=ZeA@mail.gmail.com>
+Subject: test
+To: office@schooloffreelancing.com
+Content-Type: multipart/alternative; boundary="0000000000007788250584b83330"
+X-Spam-Status: No, score=2.0
+X-Spam-Score: 20
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  test test 
+ 
+ Content analysis details:   (2.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [209.85.160.182 listed in list.dnswl.org]
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit (aaccou52[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider (aaccou52[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+X-Spam-Flag: NO
+
+--0000000000007788250584b83330
+Content-Type: text/plain; charset="UTF-8"
+
+test
+
+--0000000000007788250584b83330
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">test</div>
+
+--0000000000007788250584b83330--

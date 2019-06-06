@@ -1,0 +1,96 @@
+Return-Path: <ritawillians@gmail.com>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id iGt0Bgsf0VwuYAAA+UFKaw
+	(envelope-from <ritawillians@gmail.com>)
+	for <school@s1.bitsboxhost.com>; Tue, 07 May 2019 12:00:43 +0600
+Return-path: <ritawillians@gmail.com>
+Envelope-to: hei@schooloffreelancing.com
+Delivery-date: Tue, 07 May 2019 12:00:43 +0600
+Received: from mail-vk1-f193.google.com ([209.85.221.193]:34222)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <ritawillians@gmail.com>)
+	id 1hNt9d-0006ZB-3K
+	for hei@schooloffreelancing.com; Tue, 07 May 2019 12:00:43 +0600
+Received: by mail-vk1-f193.google.com with SMTP id w18so2667245vke.1
+        for <hei@schooloffreelancing.com>; Mon, 06 May 2019 23:00:21 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to;
+        bh=FBgDNO0m4wTcRlBLqEgfXeMr7M5UMi92oegWBcR+g6I=;
+        b=aZtpH+uvkcRrJ1qRFx0eKZaRqVDJ1fhxQY9o0jMfBMg8zjGTT8emaY04ydYpNVYLdl
+         DSIN1hIfDQRjgymQVlNppJS0ZY+ZRVaIyeeNazuQQuFcv1xt/Xf8RNDLXLAUh4+99erZ
+         hh7XVCjZmeuYZzQPQ5X4qQj5MYlzwvxbj9iFM/QP+swYaSjz8jwBahcIPhxTFsaPW/dX
+         47auQ3mocy9ilW2SihuRjYElAd6/R8u4FEPlVjMfsEW9oJsIvVQSZ8/sFvm23CAhcmWl
+         hf6UaUXZrl7GZQUNWw5b7vA0q90w7V50CE3s2+lfic9No217e7nAmuXfGg5u813VAgZT
+         NUPA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to;
+        bh=FBgDNO0m4wTcRlBLqEgfXeMr7M5UMi92oegWBcR+g6I=;
+        b=S8xH+NR0bZvkX6boQ79C+NQeh46JFNdQOcPcdenLMqWDhjz7S+P9POM8tuz8jKyrAY
+         YQ5ByH1PrNXpAiijAclyHkCE/S29ur9Q4FwLTVH1lULMNsjcvafDr+FiPGW5Px6E0JN8
+         drqtvPVuW9Ob5+VbB7D6RA7dm3vLzHdbjA4ZVCKbDZluGS+aoO4V9cpm4s8XUMmo3SYL
+         4WAfBGmfgz+Rgbs6rT7fhnOVBFyEsdrabOGsYd2dw6tkVor4skqFerE96otyUjxxXM23
+         QO4z14eGLAF27qQZjAf5gxgL5O6D5rVgwo6UmSQDeWRKk3kudUxQwuAjsGaj17Q2xFcV
+         kY1g==
+X-Gm-Message-State: APjAAAVrhZYH6WhYRuxYYLSccn84ZfgX6xqydoPdZcKLV/UPIEdLNeOW
+	RQqSSRNuVN/Hct28Vk881ZlYlU1+9mkMcyHJCbE=
+X-Google-Smtp-Source: APXvYqy6kWNHpseKJaX/SZBEfPJWg7E1iBpExT7ftBRS8gEgZzh84fr86PIPacDVTIQTr+OAO9fdlqV6E6HjjH1hoDg=
+X-Received: by 2002:a1f:e185:: with SMTP id y127mr15538413vkg.20.1557208799811;
+ Mon, 06 May 2019 22:59:59 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:ab0:1605:0:0:0:0:0 with HTTP; Mon, 6 May 2019 22:59:59 -0700 (PDT)
+Reply-To: paul.adouther@yahoo.com
+From: Paul Adouther <ritawillians@gmail.com>
+Date: Tue, 7 May 2019 06:59:59 +0100
+Message-ID: <CANz4Ew2oE8DqJcPDB6zziKd=4HACeCh7T02GnOUC8_9pCTd+6w@mail.gmail.com>
+Subject: Hello
+To: undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Bcc: hei@schooloffreelancing.com
+X-Spam-Status: No, score=0.8
+X-Spam-Score: 8
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hello, Did you receive my previous email? please kindly confirm
+    if the bank have transferred the money as instructed, paul.adouther@yahoo.com
+    Regards, 
+ 
+ Content analysis details:   (0.8 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_MSPIKE_H2      RBL: Average reputation (+2)
+                             [209.85.221.193 listed in wl.mailspike.net]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider (ritawillians[at]gmail.com)
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  1.0 FREEMAIL_REPLYTO       Reply-To/From or Reply-To/body contain
+                             different freemails
+X-Spam-Flag: NO
+
+Hello,
+
+Did you receive my previous email?
+please kindly confirm if the bank have transferred the money as instructed,
+
+paul.adouther@yahoo.com
+Regards,
+
+Pastor Paul Adouther

@@ -1,0 +1,46 @@
+Return-Path: <john@zestset.space>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id 4o/+NFk2tlxIPwsA+UFKaw
+	(envelope-from <john@zestset.space>)
+	for <school@s1.bitsboxhost.com>; Wed, 17 Apr 2019 02:08:57 +0600
+Return-path: <john@zestset.space>
+Envelope-to: jamil.uddin@schooloffreelancing.com
+Delivery-date: Wed, 17 Apr 2019 02:08:57 +0600
+Received: from zestset.space ([104.248.148.240]:42630)
+	by s1.bitsboxhost.com with esmtp (Exim 4.91)
+	(envelope-from <john@zestset.space>)
+	id 1hGUO0-0035cL-GO
+	for jamil.uddin@schooloffreelancing.com; Wed, 17 Apr 2019 02:08:57 +0600
+Received: by zestset.space (Postfix, from userid 1000)
+	id A5CB114B5DF; Tue, 16 Apr 2019 15:03:15 +0000 (UTC)
+Date: Tue, 16 Apr 2019 15:03:15 +0000
+From: john@zestset.space
+To: jamil.uddin@schooloffreelancing.com
+Subject: Good day!
+Message-ID: <20190416150315.akEG-dvq7%john@zestset.space>
+User-Agent: s-nail v14.8.6
+X-Spam-Status: No, score=3.1
+X-Spam-Score: 31
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hi All, Have a Nice Day!. - John 
+ 
+ Content analysis details:   (3.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  1.1 DATE_IN_PAST_03_06     Date: is 3 to 6 hours before Received: date
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+X-Spam-Flag: NO
+
+ Hi All, Have a Nice Day!. - John

@@ -1,0 +1,112 @@
+Return-Path: <prueba@embnicc.com>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id WKQUJqePwFzybi4A+UFKaw
+	(envelope-from <prueba@embnicc.com>)
+	for <school@s1.bitsboxhost.com>; Wed, 24 Apr 2019 22:32:39 +0600
+Return-path: <prueba@embnicc.com>
+Envelope-to: hei@schooloffreelancing.com
+Delivery-date: Wed, 24 Apr 2019 22:32:39 +0600
+Received: from mx.embnicc.com ([70.35.146.146]:56257)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <prueba@embnicc.com>)
+	id 1hJKp0-00CllM-CS
+	for hei@schooloffreelancing.com; Wed, 24 Apr 2019 22:32:39 +0600
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mx.embnicc.com (Postfix) with ESMTP id CC5B31444D84;
+	Wed, 24 Apr 2019 12:31:45 -0400 (CDT)
+X-Virus-Scanned: Debian amavisd-new at mx.embnicc.com
+Received: from mx.embnicc.com ([127.0.0.1])
+	by localhost (mx.embnicc.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id DReJIBznLvyl; Wed, 24 Apr 2019 12:31:45 -0400 (CDT)
+Received: from embnicc.com (localhost [IPv6:::1])
+	by mx.embnicc.com (Postfix) with ESMTP id DF5931444C4D;
+	Wed, 24 Apr 2019 12:31:38 -0400 (CDT)
+Received: from 175.100.50.18
+        (SquirrelMail authenticated user prueba@embnicc.com)
+        by embnicc.com with HTTP;
+        Wed, 24 Apr 2019 12:31:39 -0400
+Message-ID: <5ff939139cdb2d27e3b084a55ff8dc9b.squirrel@embnicc.com>
+Date: Wed, 24 Apr 2019 12:31:39 -0400
+From: "Anvanith Gui" <prueba@embnicc.com>
+Reply-To: infogui4@gmail.com
+User-Agent: SquirrelMail/1.4.23 [SVN]
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+Return-Receipt-To: prueba@embnicc.com
+X-Spam-Status: Yes, score=10.0
+X-Spam-Score: 100
+X-Spam-Bar: ++++++++++
+X-Spam-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Attention: Greetings, I am Anvanith Gui,the Manager of Foreign
+    Trade Bank of Cambodia .I am writing to request your assistance in transferring
+    the sum of $32,640.000.00 (Thirty Two million, Six Hundred And Fourty Thousand
+    [...] 
+ 
+ Content analysis details:   (10.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 MILLION_USD            BODY: Talks about millions of dollars
+  0.0 HK_SCAM_N2             BODY: No description available.
+  1.2 MISSING_HEADERS        Missing To: header
+  1.6 SUBJ_ALL_CAPS          Subject is all capitals
+  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in
+                             digit (infogui4[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  1.9 REPLYTO_WITHOUT_TO_CC  No description available.
+  2.5 KAM_NIGERIAN           Nigerian Scam and Variants
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+  0.0 T_MONEY_PERCENT        X% of a lot of money for you
+  0.0 MONEY_FRAUD_8          Lots of money and very many fraud phrases
+  0.0 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+X-Spam-Flag: YES
+Subject:  ***SPAM***  TREAT AS URGENT
+
+Attention: Greetings,
+
+I am Anvanith Gui,the Manager of Foreign Trade Bank of Cambodia .I am
+writing to request your assistance in transferring the sum of
+$32,640.000.00 (Thirty Two million, Six Hundred And Fourty Thousand United
+States dollars)in your account,this fund belongs to deceased client of
+mine that shares  the same name as yours died as a result of heart-related
+condition on march 2005.His heart condition was duo to the death of the
+members of his family in the tsunami disaster on the 26 December 2004 in
+Sumatra Indonesia where they all lost their lives.
+
+Meanwhile,I have done personal investigations and found out that all his
+family members were involved in the disaster. and after bank's board of
+meeting concern the fund,bank has given an ultimatum and if the next of
+kin did not apply for the claims,the fund will be claimed by the bank.
+
+I only seek to present you as the next of kin of the fund and i will also
+provide the entire relevant documents that will be requested to indicate
+you the rightful next of kin of this legacy and FTB Bank will release the
+fund to you without any further delay,upon your consideration and
+acceptance of this offer.The total sum will be shared as follows: 50% for
+me and 50% for you.
+
+I am assuring you that this transfer is 100% risk free on both sides hence
+you are going to follow my instruction till the fund transferred to your
+account. More details information will be forwarded to you to breakdown
+explaining comprehensively what require of you.
+
+Yours sincerely
+Mr Anvanith Gui
+Board of Director
+Foreign Trade Bank of Cambodia
+Phnom Penh.
+
+
+

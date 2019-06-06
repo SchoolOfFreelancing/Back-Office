@@ -1,0 +1,99 @@
+Return-Path: <no-reply@persians.com>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id +GYWGfqN7VxGKCMA+UFKaw
+	(envelope-from <no-reply@persians.com>)
+	for <school@s1.bitsboxhost.com>; Wed, 29 May 2019 01:37:30 +0600
+Return-path: <no-reply@persians.com>
+Envelope-to: info@schooloffreelancing.com
+Delivery-date: Wed, 29 May 2019 01:37:30 +0600
+Received: from [31.217.20.176] (port=20172 helo=si189.144.32.176.persians.com)
+	by s1.bitsboxhost.com with esmtp (Exim 4.91)
+	(envelope-from <no-reply@persians.com>)
+	id 1hVhua-009fEW-Gy
+	for info@schooloffreelancing.com; Wed, 29 May 2019 01:37:30 +0600
+From: "Austria and Sweden" <no-reply@persians.com>
+To: "info" <info@schooloffreelancing.com>
+Content-Type: multipart/alternative; boundary="yrgag5uiKo=_LuvUDbo61PJqiH4PEARLyY"
+MIME-Version: 1.0
+Date: Tue, 28 May 2019 21:37:23 +0200
+X-Spam-Status: Yes, score=12.9
+X-Spam-Score: 129
+X-Spam-Bar: ++++++++++++
+X-Spam-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Immigrate to Austria or Sweden and receive European Residence
+    Permit within 2-3 months. Live in any country of European Union! Low cost
+    of procedures and very fast legal process. Details: www.residenc [...] 
+ 
+ Content analysis details:   (12.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: residence-permits.info]
+  1.9 URIBL_ABUSE_SURBL      Contains an URL listed in the ABUSE SURBL
+                             blocklist
+                             [URIs: residence-permits.info]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  1.0 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+  0.0 DIGEST_MULTIPLE        Message hits more than one network digest check
+  0.8 KAM_INFOUSMEBIZ        Prevalent use of .info|.us|.me|.me.uk|.biz
+                             domains in spam/malware
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Immigrate to Austria or Sweden (European Union)
+
+This is a multi-part message in MIME format
+
+--yrgag5uiKo=_LuvUDbo61PJqiH4PEARLyY
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Immigrate to Austria or Sweden and receive European Residence Permit w=
+ithin 2-3 months.
+Live in any country of European Union!
+Low cost of procedures and very fast legal process.
+Details:
+www.residence-permits.info
+
+
+--yrgag5uiKo=_LuvUDbo61PJqiH4PEARLyY
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<HTML lang=3Den><HEAD><TITLE></TITLE>
+<META content=3D"text/html; charset=3Dwindows-1251" http-equiv=3DConte=
+nt-Type>
+<META name=3Dviewport content=3Dinitial-scale=3D1.0></HEAD>
+<BODY style=3D"FONT-FAMILY: Helvetica, Arial, sans-serif; PADDING-BOTT=
+OM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIG=
+HT: 0px" leftMargin=3D0 topMargin=3D0 marginheight=3D"0" marginwidth=3D=
+"0">
+<P>Immigrate to Austria or Sweden and receive European Residence Permi=
+t within 2-3 months.</P>
+<P>Live in any country of European Union!</P>
+<P>Low cost of procedures and very fast legal process.</P>
+<P>Details:<BR><A href=3D"http://www.residence-permits.info">www.resid=
+ence-permits.info</A></P></BODY></HTML>
+
+
+--yrgag5uiKo=_LuvUDbo61PJqiH4PEARLyY--
+

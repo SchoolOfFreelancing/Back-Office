@@ -1,0 +1,210 @@
+Return-Path: <candace.miranda@spotitsolution.com>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id YESEO/XGwVwtiwIA+UFKaw
+	(envelope-from <candace.miranda@spotitsolution.com>)
+	for <school@s1.bitsboxhost.com>; Thu, 25 Apr 2019 20:40:53 +0600
+Return-path: <candace.miranda@spotitsolution.com>
+Envelope-to: hei@schooloffreelancing.com
+Delivery-date: Thu, 25 Apr 2019 20:40:54 +0600
+Received: from mail-lf1-f65.google.com ([209.85.167.65]:46659)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <candace.miranda@spotitsolution.com>)
+	id 1hJfYS-000hVK-Mc
+	for hei@schooloffreelancing.com; Thu, 25 Apr 2019 20:40:53 +0600
+Received: by mail-lf1-f65.google.com with SMTP id k18so17680708lfj.13
+        for <hei@schooloffreelancing.com>; Thu, 25 Apr 2019 07:40:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=spotitsolution.com; s=google;
+        h=mime-version:sender:from:date:message-id:subject:to;
+        bh=GJf7gar1ibVHWXYIrcJ2TkaGEqxIwFmEThVGIqF3gyI=;
+        b=NAnQacuL9s5Dg3V7Faosbv6IBOkxu3eM11yP/l6FuSx8zKOIJi/lWJt4exc4DJd0Lc
+         LqbvPYw2dIMUV5yPZilBebjZ3Mow95zAae1EgVl8I6Danv/J02msR533s7E5jyOMY1ts
+         3/OMeNYUugrTPQrWopUFXhBk271PKaN8gbQznZhIT+PvanIdU6YXi+wCv7UxOBOtox8/
+         A1HhOvm6ts+aejT1Bxso5eZkzUz/CxxmcdxW5cNcoBIXJBWQk4NyTHYFEaG/pC5fL75r
+         fmgpphGcWv6SVLSchpFCkTsTNyYI716m+g9dlSEe2ij+0tq8NLjdKUKH+RRgpl1Mv2/A
+         R2rw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:sender:from:date:message-id:subject
+         :to;
+        bh=GJf7gar1ibVHWXYIrcJ2TkaGEqxIwFmEThVGIqF3gyI=;
+        b=jyPUqMkt5w51gO8uNIzguflZOA1+mJXJovPidZ9Mqf8UVxM7IErmBNGlJ4VbyXdlvc
+         6z/1tPoLadr2w2dN07wYYviz6ShWKhaX6o61Amc0EDFpL5vv4IMs/1EPb+k5gQdxTfDe
+         t5kL1WzmHieht8db3cj5lGcXP9kTse29uj2ejH6PHsN2IIItW4ZJ/HFBdr9TJXFnfmoC
+         ZcqcRyrJ9xWoK0LLIHmMLjfi7ny5tgDrYCg4t1WTnaQYHMGtPD/OPl7LF/Ueh8Go9UD8
+         YjmslnRmTnEB6urhZWUzPF4EqMtrGmqaGqLe7XtlvU1YRcq7PxF++deEttk+XEvWtPPF
+         o6ig==
+X-Gm-Message-State: APjAAAUrqLwcqzouTPOInKHdz8EgmXrFIjodd3grKjQ3wxJ84kdTpnVl
+	Z1mOJSGthWiLZg4BaWixPrJn5gkradT+MrmQeYYJ5wOZ
+X-Google-Smtp-Source: APXvYqwpQg4hTV6PcqY1XyoVlhD+L/TNLGOV3xqKqh808WdSQlk/w0vU83C2zoQnyF385jasTk7PG1tHAsHsyyNkkKU=
+X-Received: by 2002:ac2:5495:: with SMTP id t21mr21203895lfk.3.1556203211614;
+ Thu, 25 Apr 2019 07:40:11 -0700 (PDT)
+Received: from 204250123617 named unknown by gmailapi.google.com with
+ HTTPREST; Thu, 25 Apr 2019 07:40:10 -0700
+MIME-Version: 1.0
+Sender: candace.miranda@spotitsolution.com
+From: candace.miranda@spotitsolution.com
+Date: Thu, 25 Apr 2019 07:40:10 -0700
+X-Google-Sender-Auth: EFHUcNTlIM7hwXjd4F1M-RTmLXg
+Message-ID: <CAA-3TUzqwceWfJ0U-uOe9O_Vm0cs5t_UfSFMJjLioGFsv6ZZuw@mail.gmail.com>
+Subject: Targeted Odoo B2B List
+To: hei@schooloffreelancing.com
+Content-Type: multipart/alternative; boundary="000000000000a06d1f05875bcb20"
+X-Spam-Status: No, score=-0.4
+X-Spam-Score: -3
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hi, Would you be interested in *Targeted Odoo B2B List*? We
+    are happy to provide the database across globe, specifically North America,
+    EMEA, APAC and Latin America. *We also have other users like:* NetSuite ERP,
+    SAP ERP, Acumatica, SYSPRO, Rootstock and many more. 
+ 
+ Content analysis details:   (-0.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: spotitsolution.com]
+ -0.2 RCVD_IN_MSPIKE_H2      RBL: Average reputation (+2)
+                             [209.85.167.65 listed in wl.mailspike.net]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.0 UNPARSEABLE_RELAY      Informational: message has unparseable relay
+                             lines
+X-Spam-Flag: NO
+
+--000000000000a06d1f05875bcb20
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+
+
+Would you be interested in *Targeted Odoo B2B List*? We are happy to
+provide the database across globe, specifically North America, EMEA, APAC
+and Latin America.
+
+
+
+*We also have other users like:* NetSuite ERP, SAP ERP, Acumatica, SYSPRO,
+Rootstock and many more.
+
+
+
+Please review and let me know your thoughts, I will get back to you with
+counts pricing and more information in my next email.
+
+
+
+Await your response.
+
+
+
+Regards
+
+*Candace Miranda*
+
+Marketing Manager
+
+
+
+To opt-out replay in subject line.
+
+--000000000000a06d1f05875bcb20
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"gmail-MsoNoSpacing" style=3D"margin:0in 0in 0.=
+0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"color:=
+rgb(0,32,96)">Hi,</span></p>
+
+<p class=3D"gmail-MsoNoSpacing" style=3D"margin:0in 0in 0.0001pt;font-size:=
+11pt;font-family:Calibri,sans-serif"><span style=3D"color:rgb(0,32,96)">=C2=
+=A0</span></p>
+
+<p class=3D"gmail-MsoNoSpacing" style=3D"margin:0in 0in 0.0001pt;font-size:=
+11pt;font-family:Calibri,sans-serif"><span style=3D"color:rgb(0,32,96)">Wou=
+ld you be interested in <b>Targeted Odoo B2B List</b>? We are happy to
+provide the database across globe, specifically North America, EMEA, APAC a=
+nd
+Latin America.</span></p>
+
+<p class=3D"gmail-MsoNoSpacing" style=3D"margin:0in 0in 0.0001pt;font-size:=
+11pt;font-family:Calibri,sans-serif"><span style=3D"color:rgb(0,32,96)">=C2=
+=A0</span></p>
+
+<p class=3D"gmail-MsoNoSpacing" style=3D"margin:0in 0in 0.0001pt;font-size:=
+11pt;font-family:Calibri,sans-serif"><b><span style=3D"color:rgb(0,32,96)">=
+We also have other users like:</span></b><span style=3D"color:rgb(0,32,96)"=
+> NetSuite ERP, SAP ERP, Acumatica, SYSPRO, Rootstock and
+many more. </span></p>
+
+<p class=3D"gmail-MsoNoSpacing" style=3D"margin:0in 0in 0.0001pt;font-size:=
+11pt;font-family:Calibri,sans-serif"><span style=3D"color:rgb(0,32,96)">=C2=
+=A0</span></p>
+
+<p class=3D"gmail-MsoNoSpacing" style=3D"margin:0in 0in 0.0001pt;font-size:=
+11pt;font-family:Calibri,sans-serif"><span style=3D"color:rgb(0,32,96)">Ple=
+ase review and let me know
+your thoughts, I will get back to you with counts pricing and more informat=
+ion
+in my next email.</span></p>
+
+<p class=3D"gmail-MsoNoSpacing" style=3D"margin:0in 0in 0.0001pt;font-size:=
+11pt;font-family:Calibri,sans-serif"><span style=3D"color:rgb(0,32,96)">=C2=
+=A0</span></p>
+
+<p class=3D"gmail-MsoNoSpacing" style=3D"margin:0in 0in 0.0001pt;font-size:=
+11pt;font-family:Calibri,sans-serif"><span style=3D"color:rgb(0,32,96)">Awa=
+it your response.</span></p>
+
+<p class=3D"gmail-MsoNoSpacing" style=3D"margin:0in 0in 0.0001pt;font-size:=
+11pt;font-family:Calibri,sans-serif"><span style=3D"color:rgb(0,32,96)">=C2=
+=A0</span></p>
+
+<p class=3D"gmail-MsoNoSpacing" style=3D"margin:0in 0in 0.0001pt;font-size:=
+11pt;font-family:Calibri,sans-serif"><span style=3D"color:rgb(0,32,96)">Reg=
+ards</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.75pt;line-height:normal;ba=
+ckground-image:initial;background-position:initial;background-size:initial;=
+background-repeat:initial;background-origin:initial;background-clip:initial=
+;font-size:11pt;font-family:Calibri,sans-serif"><b><span style=3D"font-size=
+:10pt;font-family:Arial,sans-serif;color:rgb(0,32,96)">Candace Miranda</spa=
+n></b></p>
+
+<p class=3D"gmail-MsoNoSpacing" style=3D"margin:0in 0in 0.0001pt;font-size:=
+11pt;font-family:Calibri,sans-serif"><span style=3D"color:rgb(0,32,96)">Mar=
+keting Manager</span></p>
+
+<p class=3D"gmail-MsoNoSpacing" style=3D"margin:0in 0in 0.0001pt;font-size:=
+11pt;font-family:Calibri,sans-serif"><span style=3D"color:rgb(0,32,96)">=C2=
+=A0</span></p>
+
+<p class=3D"gmail-MsoNoSpacing" style=3D"margin:0in 0in 0.0001pt;font-size:=
+11pt;font-family:Calibri,sans-serif"><span style=3D"color:rgb(0,32,96)">To =
+opt-out replay in subject
+line.</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;line-height:107%;font-si=
+ze:11pt;font-family:Calibri,sans-serif"><span style=3D"color:rgb(0,32,96)">=
+=C2=A0</span></p></div>
+
+--000000000000a06d1f05875bcb20--

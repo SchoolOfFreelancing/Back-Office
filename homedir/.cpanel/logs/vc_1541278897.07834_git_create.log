@@ -1,0 +1,6 @@
+Running command: /usr/local/cpanel/3rdparty/bin/git clone --origin=origin https://github.com/SchoolOfFreelancing /home/school/repositories/SchoolOfFreelancing
+
+Cloning into '/home/school/repositories/SchoolOfFreelancing'...
+remote: Not Found
+fatal: repository 'https://github.com/SchoolOfFreelancing/' not found
+/home/school/repositories/SchoolOfFreelancing may exist, and may need to be cleaned up.

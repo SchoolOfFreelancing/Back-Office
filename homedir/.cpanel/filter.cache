@@ -1,0 +1,1 @@
+{"filter":[{"filtername":"Generated Apache SpamAssassin™ Discard Rule","actions":[{"dest":"/dev/null","action":"save"}],"rules":[{"part":"$h_X-Spam-Bar:","opt":"or","match":"contains","val":"+++++"}]}],"version":2.2}

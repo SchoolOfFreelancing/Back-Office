@@ -1,0 +1,85 @@
+Return-Path: <bounces+848413-8d4a-hei=schooloffreelancing.com@sgmail.github.com>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id fYJXNlcTulybIwcA+UFKaw
+	(envelope-from <bounces+848413-8d4a-hei=schooloffreelancing.com@sgmail.github.com>)
+	for <school@s1.bitsboxhost.com>; Sat, 20 Apr 2019 00:28:39 +0600
+Return-path: <bounces+848413-8d4a-hei=schooloffreelancing.com@sgmail.github.com>
+Envelope-to: hei@schooloffreelancing.com
+Delivery-date: Sat, 20 Apr 2019 00:28:39 +0600
+Received: from o4.sgmail.github.com ([192.254.112.99]:21916)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <bounces+848413-8d4a-hei=schooloffreelancing.com@sgmail.github.com>)
+	id 1hHYFZ-001xZA-QQ
+	for hei@schooloffreelancing.com; Sat, 20 Apr 2019 00:28:39 +0600
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=github.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s20150108; bh=KZXdEjImlTfA259Omus4eDlpqvU=; b=t1nNzkgakkcV0lZz
+	97DwRtOMiDUvDjm6zjguhwBK+gNTeYwa3e3D5w7OYHMEE1pj0HBrcneTUlwiGSaC
+	g48WN2mk6hYUfNcb8DHDAU9zdReVX7gngrq5/xmFI1GuuraZCW2G6DeLE7atTbFi
+	JJqUj8p0xt/9hRdj4M6czInptY0=
+Received: by filter0599p1iad2.sendgrid.net with SMTP id filter0599p1iad2-8910-5CBA132B-A
+        2019-04-19 18:27:55.267390812 +0000 UTC m=+932188.907540159
+Received: from github-lowworker-6313c1a.cp1-iad.github.net (unknown [192.30.252.46])
+	by ismtpd0001p1iad2.sendgrid.net (SG) with ESMTP id 9ua_dopITsqOX2jQYYBpBQ
+	Fri, 19 Apr 2019 18:27:55.240 +0000 (UTC)
+Received: from github.com (localhost [127.0.0.1])
+	by github-lowworker-6313c1a.cp1-iad.github.net (Postfix) with ESMTP id 2D44238006B;
+	Fri, 19 Apr 2019 11:27:55 -0700 (PDT)
+Date: Fri, 19 Apr 2019 18:27:55 +0000 (UTC)
+From: GitHub <noreply@github.com>
+To: Masum Chowdhury <schooloffreelancing@gmail.com>
+Message-ID: <5cba132b2cca6_35bf3fc90eccd96053554@github-lowworker-6313c1a.cp1-iad.github.net.mail>
+Subject: [GitHub] A third-party OAuth application has been added to your
+ account
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Auto-Response-Suppress: All
+categories: account-security,new-oauth-authorization
+X-SG-EID: vx6gdHZeAg5cxZAVRnT3VaNsc9XoROGpz1G7AJii5WJZ7laaOeICvF2GbUZKhdARCA1soqVCOr4szx
+ tNdKOMtQSrplfUb3uvePxar7Te6PFBOwpunC33SsXZjIAD2/dFE5wccPt6ia5K1ec38ErL/DGQ5dGF
+ qXAQIymNHvtsKuzvF3XXsZL1B+tbB6YwpEkfRjlt+18vW9W+LvdqVpWQVQ==
+X-SG-ID: HjuyJHjWedrv+ZABmVoKqJUGcbnIrpG8Dl8TZw63o/tYHvHAZuj7fE3sBkCPSNz92pSnrCLqO00MaT
+ UToqoVhg==
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hey saydulk! A third-party OAuth application (Filestack) with
+    repo scope was recently authorized to access your account. Visit https://github.com/settings/connections/applications/72ff6b5efec69558eb7a
+    for more inf [...] 
+ 
+ Content analysis details:   (-0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+X-Spam-Flag: NO
+
+Hey saydulk!
+
+A third-party OAuth application (Filestack) with repo scope was recently authorized to access your account.
+Visit https://github.com/settings/connections/applications/72ff6b5efec69558eb7a for more information.
+
+To see this and other security events for your account, visit https://github.com/settings/security
+
+If you run into problems, please contact support by visiting https://github.com/contact
+
+Thanks,
+Your friends at GitHub

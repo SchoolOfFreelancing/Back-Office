@@ -1,0 +1,113 @@
+Return-Path: <sundavu@gmail.com>
+Delivered-To: office@schooloffreelancing.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id D9SRHIjqtFzJXzcA+UFKaw
+	(envelope-from <sundavu@gmail.com>)
+	for <office@schooloffreelancing.com>; Tue, 16 Apr 2019 02:33:12 +0600
+Return-path: <sundavu@gmail.com>
+Envelope-to: office@schooloffreelancing.com
+Delivery-date: Tue, 16 Apr 2019 02:33:12 +0600
+Received: from mail-wr1-f45.google.com ([209.85.221.45]:34824)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <sundavu@gmail.com>)
+	id 1hG8Ht-00FDvH-1s
+	for office@schooloffreelancing.com; Tue, 16 Apr 2019 02:33:11 +0600
+Received: by mail-wr1-f45.google.com with SMTP id w1so23699533wrp.2
+        for <office@schooloffreelancing.com>; Mon, 15 Apr 2019 13:32:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=JCtvQCqMAy+rwy1XUYIZGqYEMSPyy4ptvf9pJ2qFRGE=;
+        b=UQKSSeZEIWjVZ7e4W/w0IrqaqN/PGC8btzcKw/3UMbqRhqhZDmuJD93c4TUTHgJ2UP
+         Ctp39R8rsyReZIIlqSu6tm3hGBklbQoidoIBp2ZrX8rS1bUiNp6jPvfOpQCVcbOCXRNK
+         b2u4GkS+OF40l9GIsna27GD5fN/Tx+R8NMrgz9c4PyxORhmYh1YC/KWrmhyvfxSNNtlY
+         HXjTLCTAOulrmGl4fxqiJzM/dmuM4NyqFV6Na6SJpmbp4fABqv4rrSw3dE4yasFKXRgJ
+         spc5KcA/SZM38qOYyg/s1aYKva0/6X6RlgZtoWmDBYOREnEmKvBr9DRtwnsgjHuY74k5
+         dWqA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=JCtvQCqMAy+rwy1XUYIZGqYEMSPyy4ptvf9pJ2qFRGE=;
+        b=tD5OfTKfVkREbEXLEhsEyClOnYv1u+1O+bwYHfkx8wZQhcoPSmKrF7dtJyWns/Q8JA
+         coLdVYYD8Q4sdeepkDdLnwiOq/CJentlpWK8CBBqxbF7TnzUauoYRVt88IW4heB1/kh3
+         6ESxUNzqmzykWjXYZ7z/nN3jwgLoDN33UFztEPINFjPfmCFgzNQi0fnXaPAmfC38v3gB
+         AagnKk3LFKKu8MRX6zcuwh7vMnIP0ed9HZ+nyx5UsR4nTi8a6GJNuzymS8CnysS2n8+t
+         B6GuvpuhGdGV+oESEwO4nHVMHxveh6SRgKRY/gayTjIFHjr1SK58LGQgaGEsFkLN73Vk
+         E9Vw==
+X-Gm-Message-State: APjAAAWYmg2JwR6efnk7vG5tgEnn1ux5+iB0sAwwt3Ux3tYFCpVTZZKE
+	fuiNYrkNT5uvF6618Fbu1FxeNyIBl2QVdVvT0HDIGVhaJzY=
+X-Google-Smtp-Source: APXvYqxDYq3c7HtpoHKb717Wganf09mCPB0wS53/zRsrFWzKUeDzapyxMzyME8dW+74jCXwDDQu6Ox3B+4FjAmFClTA=
+X-Received: by 2002:adf:f3ce:: with SMTP id g14mr13662043wrp.129.1555360348291;
+ Mon, 15 Apr 2019 13:32:28 -0700 (PDT)
+MIME-Version: 1.0
+From: Sunil <sundavu@gmail.com>
+Date: Mon, 15 Apr 2019 15:32:17 -0500
+Message-ID: <CADviXUDGG4XP8tdSLKr7TbynXsLSGRD0X_5ooPK9Ld323QvuTA@mail.gmail.com>
+Subject: Message for Saydul K
+To: office@schooloffreelancing.com
+Content-Type: multipart/alternative; boundary="0000000000000ec6930586978d63"
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hello, I am trying to reach Saydul K ( https://www.freelancer.com/u/LinuxGun).
+    My name is Sunil and I am looking for someone who has worked on OSQuery.
+   I came across your profile on Freelancer but was [...] 
+ 
+ Content analysis details:   (-0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider (sundavu[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: freelancer.com]
+X-Spam-Flag: NO
+
+--0000000000000ec6930586978d63
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+             I am trying to reach Saydul K (
+https://www.freelancer.com/u/LinuxGun). My name is Sunil and I am looking
+for someone who has worked on OSQuery. I came across your profile on
+Freelancer but was unable to send a message via it. I wanted to know if you
+could provide some details about OSQuery experience. Kindly let me know as
+soon as possible.
+
+Thanks
+Sunil
+
+--0000000000000ec6930586978d63
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello,<div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0I am trying to reach Saydul K (<a href=3D"https://www.freelancer.com/u/L=
+inuxGun">https://www.freelancer.com/u/LinuxGun</a>). My name is Sunil and I=
+ am looking for someone who has worked on OSQuery. I came across your profi=
+le on Freelancer but was unable to send a message via it. I wanted to know =
+if you could provide some details about OSQuery experience. Kindly let me k=
+now as soon as possible.</div><div><br></div><div>Thanks</div><div>Sunil</d=
+iv></div>
+
+--0000000000000ec6930586978d63--

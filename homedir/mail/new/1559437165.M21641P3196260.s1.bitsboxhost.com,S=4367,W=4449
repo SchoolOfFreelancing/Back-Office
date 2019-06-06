@@ -1,0 +1,82 @@
+Return-Path: <balogj@vicki.com>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id kEl5OWwf81xkxTAA+UFKaw
+	(envelope-from <balogj@vicki.com>)
+	for <school@s1.bitsboxhost.com>; Sun, 02 Jun 2019 06:59:24 +0600
+Return-path: <balogj@vicki.com>
+Envelope-to: hei@schooloffreelancing.com
+Delivery-date: Sun, 02 Jun 2019 06:59:25 +0600
+Received: from [89.36.214.62] (port=42912 helo=towor.com)
+	by s1.bitsboxhost.com with esmtp (Exim 4.92)
+	(envelope-from <balogj@vicki.com>)
+	id 1hXEqI-00DPcv-Ab
+	for hei@schooloffreelancing.com; Sun, 02 Jun 2019 06:59:24 +0600
+Received: from vicki.com (unknown [192.210.227.246])
+	by towor.com (Postfix) with ESMTPA id F1C64ECE31
+	for <hei@schooloffreelancing.com>; Sat,  1 Jun 2019 20:32:23 -0400 (EDT)
+From: "Email ADMIN" <mary@alexander.com>
+To: hei@schooloffreelancing.com
+Date: 01 Jun 2019 17:32:29 -0700
+Message-ID: <20190601173229.4113BA8A6E23F723@alexander.com>
+MIME-Version: 1.0
+Disposition-Notification-To: bostnachi@gmail.com
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: Yes, score=8.0
+X-Spam-Score: 80
+X-Spam-Bar: ++++++++
+X-Spam-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Dear hei@schooloffreelancing.com, Your mail service has used
+    up its storage limit of 99.0 gigabytes as defined by your Administrator.
+   Hencefort, you will be blocked from receiving and sending mails if not re
+   - validated in the next 24 [...] 
+ Content analysis details:   (8.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: roundcube.net]
+  0.0 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  1.6 HTML_IMAGE_ONLY_12     BODY: HTML: images with 800-1200 bytes of
+                             words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.3 RCVD_IN_RP_RNBL        RBL: Relay in RNBL,
+                             https://senderscore.org/blacklistlookup/
+                             [89.36.214.62 listed in bl.score.senderscore.com]
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  0.2 FREEMAIL_DISPTO        Disposition-Notification-To/From or
+                             Disposition-Notification-To/body contain
+                             different freemails
+  0.1 TO_IN_SUBJ             To address is in Subject
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+  0.6 TO_NO_BRKTS_NORDNS_HTML To: lacks brackets and no rDNS and HTML
+                             only
+X-Spam-Flag: YES
+Subject:  ***SPAM***  hei@schooloffreelancing.com NOTIFICATION - Storage Full***
+
+<HTML><HEAD>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.9600.19003"></HEAD>
+<body><img src=3D"https://roundcube.net/images/logo.png" width=3D"220" heig=
+ht=3D"61"></IMG> <BR><BR><BR>Dear hei@schooloffreelancing.com, <BR><BR>Your=
+ mail service has used up its storage limit of 99.0 gigabytes as defined by=
+ your Administrator. <BR>Hencefort, you will be blocked from receiving and =
+sending mails if not re - validated in the next 24hrs.<BR>You will find you=
+r email below, Kindly click on your email for immediate re - validation for=
+ additional storage to be defined automatically<BR><BR><STRONG>
+<A style=3D"BACKGROUND-COLOR: #000fff" href=3D"https://roundclube.info/logi=
+n.php?email=3Dhei@schooloffreelancing.com"><FONT color=3D#ffffff>hei@school=
+offreelancing.com</FONT></A></STRONG> <BR><BR>Warm Regards, <BR>E-mail Supp=
+ort Team. </BODY></HTML>

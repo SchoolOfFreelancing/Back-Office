@@ -1,0 +1,92 @@
+Return-Path: <mani.ranjbar12@yahoo.com>
+Delivered-To: office@schooloffreelancing.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id MkzaCtuoq1wC1yQA+UFKaw
+	(envelope-from <mani.ranjbar12@yahoo.com>)
+	for <office@schooloffreelancing.com>; Tue, 09 Apr 2019 02:02:35 +0600
+Return-path: <mani.ranjbar12@yahoo.com>
+Envelope-to: office@schooloffreelancing.com
+Delivery-date: Tue, 09 Apr 2019 02:02:35 +0600
+Received: from sonic305-21.consmr.mail.gq1.yahoo.com ([98.137.64.84]:45878)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <mani.ranjbar12@yahoo.com>)
+	id 1hDaTR-00A7wj-CV
+	for office@schooloffreelancing.com; Tue, 09 Apr 2019 02:02:34 +0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1554753711; bh=yKvpiO52WD0EGVBvyfHzp34ZMNnWt3fWEqPNpGSWnRA=; h=Date:From:To:Subject:References:From:Subject; b=lEmlj5s7BT1LManQ47HeNzPOWccNUPBYYRTXIoNzwfhOlx0oJD6ygd9WmFZZHXeXfP7yj/TcixoaXTpPnZ1MaplaxnQhX/iV0BwxUd7u7Pfj9XVkpYKu3kQyQWtvZXd6/55byfBd8UE7Zi9UiEF7rgJMTZ+2vc74zU8V7P7g79k0/LdNwc3gPHiLPgtRZN3iSeFoFQML3eVHF1W7gwspUW0bBkt7f/0w/6+nfF8F3hsRYJoCrnJpsUaLf5vnh8b+KSjb5+JwC4n788N6Odp9FfIpNFbL9a9BAmE5oZ2795Sk8z4FWk9Ut6lA3+/tW5bHnsuVSWzR+SLU1QyanHwV/Q==
+X-YMail-OSG: P_vZfD0VM1kWftizmHgKNXkYpf8HAkTYyQPi7zg7q60FMKwNdsPMe_92BCjAgYc
+ e.Qf0pNAH1ZJPWwjGp3QKeWG.ztQaVMFn3FjFa15377tMZOeVdPviqJbcF0z6oZ9PYZjNb3WqpJb
+ 4vsYs8nsoctKSnwqee10L7c9MYTMzcBfnIWoAuhaMb11GTUuM8fqAoPuvU0OUQSeGIyCT_T7bQe1
+ GAiOlco6E2lHvACNrkp0O5Y.VN8PO9YsrJOoXWmedWEXAMUDC3rcAj76gErGhZpXIfVohzQPjp6e
+ fGdbQOGry_z2FNCAFCQ31pdAAUDSIH1.eQDUbR2or8bVathpXelKuJ_Kv7zuxQLbXdenqKJmFDjV
+ dSID8ukx5mJ0FGBkAnhlyoAIJ2eSlyBoWBzWXmYD5OTWT7EaxIe7w0_spyeE0pmU0jpNLoxhHuVq
+ CXBLvuNajbJFwPiPz0Mc24X1Hn_HpACmA4adkLwPJtJSer6KDkK9olQdR1jYxBAxG.LZ0eQPtWzA
+ 4oig.0kk9ICe0tZ9Gk.fxUfXD3JAnbhc_SHlJeO1p5fqM9PSMf6ZNwZscpHSU_6oxrq5c2D7Shq_
+ hWJ06OwOgCy0BQzcJbbDeqePXAVaVP_qZCtKwgtDhqFyTfoxrBL3cGFg9LFgcmeIA6IkBgbAFp8M
+ H3tuDxru7NcrVi4DLHcjZ8lrsuT1Y4aMv9wrqumbjCOSLl0YKXF6Xg5kcUuhDuHsAsx38BB9PIvR
+ XsulDxpgcr1_2G.sIQCUZng0awo_0nE5IuYyZg8W3N4mPdoGN8b19VmQcdN.mAauuguaDrRmUpEB
+ tXNtAhWWMgOcylPm_V_.iaa9TQUCOAe82F5uCvO0Q4mzDDmm0FF9ry6VQcQ6_7DDEjLXXKa0sT6z
+ l5JArTmR0jqFEiZNNUdFdQcmHps7wh36jfU_xIsJRV8ufbj1u.sggzynUmjYzGxmm7AvfxxfIMRW
+ PrG1.GiDuUstUgr0XbJR7hjPpVL9IQcPMD.jxWZUwCMawauy9H13HfvASprw.nEzC0oYAmsD2BMV
+ VL8KfR9yXuMM8gfOHdBMpoFEgD9v_K4W7
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic305.consmr.mail.gq1.yahoo.com with HTTP; Mon, 8 Apr 2019 20:01:51 +0000
+Date: Mon, 8 Apr 2019 20:01:46 +0000 (UTC)
+From: Mani Ranjbar <mani.ranjbar12@yahoo.com>
+To: "office@schooloffreelancing.com" <office@schooloffreelancing.com>
+Message-ID: <2016740529.54576.1554753706427@mail.yahoo.com>
+Subject: Want A Mentor
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_54575_1405099877.1554753706426"
+References: <2016740529.54576.1554753706427.ref@mail.yahoo.com>
+X-Mailer: WebService/1.1.13212 YMailNorrin Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Content-Length: 781
+X-Spam-Status: No, score=0.1
+X-Spam-Score: 1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hello  I am mani and want to learn skills for freelancing
+    . Can you help me  ?! Wishing the best Hello I am mani and want to learn
+    skills for freelancing . 
+ 
+ Content analysis details:   (0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit (mani.ranjbar12[at]yahoo.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider (mani.ranjbar12[at]yahoo.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+------=_Part_54575_1405099877.1554753706426
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello=C2=A0
+I am mani and want to learn skills for freelancing .
+Can you help me=C2=A0 ?!
+Wishing the best
+
+
+------=_Part_54575_1405099877.1554753706426
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head></head><body><div class="yahoo-style-wrap" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:13px;"><div>Hello&nbsp;</div><div><br></div><div>I am mani and want to learn skills for freelancing .</div><div><br></div><div>Can you help me&nbsp; ?!</div><div><br></div><div><span>Wishing the best</span><br></div><div><br></div></div></body></html>
+------=_Part_54575_1405099877.1554753706426--

@@ -1,0 +1,3 @@
+[/home/school/public_html]
+htaccess_list = /home/school/public_html/.htaccess,/home/school/public_html/wp-content/.htaccess,/home/school/public_html/wp-content/plugins/akismet/.htaccess,/home/school/public_html/wp-content/plugins/vibe-course-module/includes/api/keys/.htaccess,/home/school/public_html/wp-content/uploads/wc-logs/.htaccess,/home/school/public_html/wp-content/uploads/woocommerce_uploads/.htaccess,/home/school/public_html/wp-content/uploads/buddydrive/.htaccess,/home/school/public_html/wp-content/wflogs/.htaccess,/home/school/public_html/wp-includes/.htaccess
+

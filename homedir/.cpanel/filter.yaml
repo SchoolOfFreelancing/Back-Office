@@ -1,0 +1,15 @@
+--- 
+filter: 
+  - 
+    actions: 
+      - 
+        action: save
+        dest: /dev/null
+    filtername: Generated Apache SpamAssassin™ Discard Rule
+    rules: 
+      - 
+        match: contains
+        opt: or
+        part: "$h_X-Spam-Bar:"
+        val: +++++
+version: '2.2'

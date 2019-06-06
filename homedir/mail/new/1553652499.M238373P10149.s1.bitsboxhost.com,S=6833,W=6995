@@ -1,0 +1,162 @@
+Return-Path: <prvs=8989612c2d=ROJEDA@clinic.cat>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id 6FzGDRPbmlylJwAA+UFKaw
+	(envelope-from <prvs=8989612c2d=ROJEDA@clinic.cat>)
+	for <school@s1.bitsboxhost.com>; Wed, 27 Mar 2019 08:08:19 +0600
+Return-path: <prvs=8989612c2d=ROJEDA@clinic.cat>
+Envelope-to: hei@schooloffreelancing.com
+Delivery-date: Wed, 27 Mar 2019 08:08:19 +0600
+Received: from mailrelay04.clinic.cat ([84.88.67.85]:60324)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <prvs=8989612c2d=ROJEDA@clinic.cat>)
+	id 1h8xzE-0002Sa-Tu
+	for hei@schooloffreelancing.com; Wed, 27 Mar 2019 08:08:18 +0600
+X-AuditID: ac15672d-d5bff700000016ab-31-5c9adae545f9
+Received: from CSCMLFE5.csc.es (cscmlfe5.csc.es [172.22.2.82])
+	(using TLS with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(Client did not present a certificate)
+	by mailrelay04.clinic.cat (Symantec Messaging Gateway HCP) with SMTP id 46.9F.05803.5EADA9C5; Wed, 27 Mar 2019 03:07:33 +0100 (CET)
+To: undisclosed-recipients:;
+Received: from CSCMLBE5.csc.es ([172.22.2.58]) by CSCMLFE5.csc.es
+ ([172.22.2.82]) with mapi id 14.03.0439.000; Wed, 27 Mar 2019 03:07:33 +0100
+From: <ROJEDA@clinic.cat>
+Subject: Re:Proposal
+Thread-Topic: Re:Proposal
+Thread-Index: AdTkQCQtZGWPOPz/RcS5+PSINh4rjg==
+Date: Wed, 27 Mar 2019 02:07:33 +0000
+Message-ID: <8B8B3EF3B79DE141BB78B4B4856FE684CDD42A57@CSCMLBE5.csc.es>
+Reply-To: <ridhakfred@cfl.rr.com>
+Accept-Language: en-US, es-ES, ca-ES
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [172.21.103.56]
+Content-Type: multipart/alternative;
+	boundary="_000_8B8B3EF3B79DE141BB78B4B4856FE684CDD42A57CSCMLBE5csces_"
+MIME-Version: 1.0
+X-Brightmail-Tracker: H4sIAAAAAAAAA02Sa0iTYRTHed7rvMWbTXuSEFP7UmkWBieIioJ4CcLIILqAvtrQwVyxWWQQ
+	aVkyzbVKN9zcTC1vXdBlXlLLvGQzM7OLtvJSW+aVIp2m2cW1Pvjtxzk//udwOCLSu5z2E0nl
+	iRKFXJAFMu7UbV9iX8hnq/5ImGoGYK6wkoJrE50U6K5uhvbUUhI0Hx8S4BiqICE/4wENJuNB
+	+JrWQEDurJEAQ8Fx6O/3hMa6DgrG9dUIJqvmWRgtzGGg/KKWhLIGCwGpqiEEBi2CHlUWBV9a
+	NBT0Zk8z0DU4xkBueycBRWkzFLzTB8LN5w00DFceBm2fg4I7rdk0jPcaWJh29CK4dK2egWpd
+	DwU3THHQWDzBgi1jYUhraSYJ9/snWejs+02DtvYVAnN/Ow3vC4oRaDPN1PYQvrAki+bP2yZJ
+	vmv0B8Nf6P7F8AN1pSxv+XCO5j9N1TJ8kzWT5SfUOQSv1TXSfE/RGMXP3LnM8l+q7Sxfq+9j
+	+UczFxjedqmD2YsPeWyJERJPRkrj5Ou3RnvE/3zKHJ/1PdX2rYtORiZxOnITYS4ct1ZZUTpy
+	F3lztwjcVPKQdjbE3EpsNNhoV0ODcM+5ogVLJGK4FTgzV+J0lnFiPJw6Sbr8FfiKpZxxcSju
+	qzUQTqa41bhZnfuv7sXtwin1f0hnjDe3CqtaDjjLiAvGzSYHcjLJLcdWex7h2o3DN+pfkC72
+	wSO237SLV+HBxtn/fgJWzV+hXfFLsSXHTmmQt35RlH6Rpl+kXUdkGfJNEKQyhUQmJIWFh8bK
+	pHJpbGiskGhGzsfziQupQa8v729ChMitCWGRu59YKZEflSiEE4nxUc7bRikXjuuXjPIPbEwL
+	yJmLXBIW/NWsdotcZ2jbdHZLa82xkaDxuOoqS1DNvfTBCVP7ozfzz+Z+qEuXhH5S7KzZEZiX
+	EnCzYvqPPSVo4K1/RK9QMrWtWftRHHNm/1QRsTnmmH3t49NG4eVuQ7TRU7PHat2ljcrLSi7u
+	bs5OIsfutn1/ovbSRfjrvgdSynhhwxpSoRT+AhnKRuJDAwAA
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Our search indicates that you may be a potential business
+   partner, I represent a group of investors with a very good financial Background
+    seeking means of expanding business across the world. Please g [...] 
+ 
+ Content analysis details:   (0.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [84.88.67.85 listed in list.dnswl.org]
+  0.0 T_SPF_PERMERROR        SPF: test of record failed (permerror)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+X-Spam-Flag: NO
+
+--_000_8B8B3EF3B79DE141BB78B4B4856FE684CDD42A57CSCMLBE5csces_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Our search indicates that you may be a potential business partner, I repres=
+ent a group of investors with a very good financial Background seeking mean=
+s of expanding business across the world.  Please get back to me at your ea=
+rliest convenience for further details.
+
+Thanks.
+
+Dr Ridha Kouri
+
+
+--_000_8B8B3EF3B79DE141BB78B4B4856FE684CDD42A57CSCMLBE5csces_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"margin-bottom:10.0pt;line-height:115%;text-=
+autospace:none">
+<span lang=3D"EN">Our search indicates that you may be a potential business=
+ partner, I represent a group of investors with a very good financial Backg=
+round seeking means of expanding business across the world.&nbsp; Please ge=
+t back to me at your earliest convenience
+ for further details.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:10.0pt;line-height:115%;text-=
+autospace:none">
+<span lang=3D"EN">Thanks.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN">Dr Ridha Kouri</span><o:p></o:p></=
+p>
+</div>
+</body>
+</html>
+
+--_000_8B8B3EF3B79DE141BB78B4B4856FE684CDD42A57CSCMLBE5csces_--

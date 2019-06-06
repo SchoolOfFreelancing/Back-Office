@@ -1,0 +1,623 @@
+Return-Path: <bounce-5360_HTML-89039152-8036-100008114-484954@bounce.s10.mc.pd25.com>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id Xh1DHz0umlydcgAA+UFKaw
+	(envelope-from <bounce-5360_HTML-89039152-8036-100008114-484954@bounce.s10.mc.pd25.com>)
+	for <school@s1.bitsboxhost.com>; Tue, 26 Mar 2019 19:50:53 +0600
+Return-path: <bounce-5360_HTML-89039152-8036-100008114-484954@bounce.s10.mc.pd25.com>
+Envelope-to: hey@schooloffreelancing.com
+Delivery-date: Tue, 26 Mar 2019 19:50:53 +0600
+Received: from fh222.mc.pd25.com ([13.111.53.222]:55243)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <bounce-5360_HTML-89039152-8036-100008114-484954@bounce.s10.mc.pd25.com>)
+	id 1h8mTb-0007QI-Ti
+	for hey@schooloffreelancing.com; Tue, 26 Mar 2019 19:50:53 +0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=thehothmarketing.com;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:
+ List-Unsubscribe:List-ID; i=hello@thehothmarketing.com;
+ bh=FtKOCol9jsAK9yFkknWIK1MUxuAgTnC5IOzvOsqXdJQ=;
+ b=K2vGpDkOJYycjapsZQ4kAvH6lu/2WgxvRLX6/HBh/8Kc0U6niEIjDKWctgiaGBdXPaiBZ4s2BDyI
+   dhNNEq0PceLLfEjloX+g5RD4+YteUEk9g8D5CsOpW+1b0SQmy1HZoPSjO/ojCjHp6QMQOxihSTd+
+   ILBaCvXOaO3huopnC8U=
+Received: by fh222.mc.pd25.com id hj8n3m2fmd4q for <hey@schooloffreelancing.com>; Tue, 26 Mar 2019 13:50:10 +0000 (envelope-from <bounce-5360_HTML-89039152-8036-100008114-484954@bounce.s10.mc.pd25.com>)
+X-Virus-Scanned: amavisd-new at orionsmtp-130.s10.exacttarget.com
+Message-ID: <58cd2970-08fe-4bd3-a233-038da3d7c14f@dfw1s10mta50.xt.local>
+Date: Tue, 26 Mar 2019 07:50:09 -0600
+Subject: 3 Hacks To Get Awesome Content Without Writing It Yourself
+From: The HOTH <hello@thehothmarketing.com>
+Reply-To: hello@thehothmarketing.com
+To: hey@schooloffreelancing.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1553608161_8c8df40b1a7a2742bafa35fe7825ee9f_=_"
+X-Source-Ref-Id: 723573804
+X-Report-Abuse-To: abuse@pd25.com
+X-Pardot-Route: 160:502191:723573804
+List-Unsubscribe: <https://link.thehoth.com/listUnsubscribeHeader/u/502191/9e462e14392a9c5665b96e2a7d707535788db54cabff5d21100722a1c55badd9/723573804>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-ID: <100008114.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 100008114_8036
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Ramp Up Your Content Are you still writing content yourself?
+    If you're like me, one day of writing quickly turned into three, and just
+    as you posted your article you realized it was time to start the next one.
+    
+ 
+ Content analysis details:   (-0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [13.111.53.222 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+X-Spam-Flag: NO
+
+--_=_swift_v4_1553608161_8c8df40b1a7a2742bafa35fe7825ee9f_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Ramp Up Your Content
+
+Are you still writing content yourself?=20
+
+If =
+you're like me, one day of writing quickly turned into three, and just as y=
+ou posted your article you realized it was time to start the next one.=20
+=
+
+Writing takes time and that's not something most business owners have a =
+lot of. =20
+
+But getting awesome content without writing it yourself isn'=
+t easy.=20
+
+That's why today I'm going to show you my top 3 hacks for ram=
+ping up your content production:
+
+=20
+
+Get The 3 Content Hacks
+
+h=
+ttps://link.thehoth.com/e/502191/blog-getting-awesome-content-/npshl5/72357=
+3804?h=3DVDKvUOaGF_R60THJmjumpiPt_ZFBhSv6ej8V63JkaXk
+
+In today's articl=
+e, we'll show you:
+
+=09The trick to get articles written exactly how yo=
+u want them
+
+=09How to get the perfect writer
+
+=09The secret weapon=
+ of every professional content producer
+
+=20
+
+Ramp Up Your Content No=
+w
+
+https://link.thehoth.com/e/502191/blog-getting-awesome-content-/npsh=
+l5/723573804?h=3DVDKvUOaGF_R60THJmjumpiPt_ZFBhSv6ej8V63JkaXk
+
+Cheers!=
+
+
+The HOTH Crew
+
+Book an SEO strategy call with us
+
+https://lin=
+k.thehoth.com/e/502191/meet-/npshl7/723573804?h=3DVDKvUOaGF_R60THJmjumpiPt_=
+ZFBhSv6ej8V63JkaXk
+
+Check out our 1000+ reviews
+
+https://link.theho=
+th.com/e/502191/reviews-/npshl9/723573804?h=3DVDKvUOaGF_R60THJmjumpiPt_ZFBh=
+Sv6ej8V63JkaXk
+
+P.S. Our March Content sale is almost over. Get 25% off=
+ HOTH Blogger Pro
+
+https://link.thehoth.com/e/502191/seo-discount-/npsh=
+lc/723573804?h=3DVDKvUOaGF_R60THJmjumpiPt_ZFBhSv6ej8V63JkaXk
+
+ and 50% =
+off HOTH Syndication
+
+https://link.thehoth.com/e/502191/seo-discount-/n=
+pshlf/723573804?h=3DVDKvUOaGF_R60THJmjumpiPt_ZFBhSv6ej8V63JkaXk
+
+ until=
+ March 31st!
+
+=09=09=09=09=09=09=09=09=09Copyright The HOTH =C2=A9 2019=
+, All rights reserved.
+
+=09=09=09=09=09=09=09=09=09Mailing Address:
+=
+
+=09=09=09=09=09=09=09=09=09The HOTH
+
+=09=09=09=09=09=09=09=09=09111 =
+2nd Ave NE
+
+=09=09=09=09=09=09=09=09=09#1500
+
+=09=09=09=09=09=09=09=
+=09=09St Petersburg, Florida 33701
+
+=09=09=09=09=09=09=09=09=09unsubscr=
+ibe
+
+https://link.thehoth.com/unsubscribe/u/502191/9e462e14392a9c5665b9=
+6e2a7d707535788db54cabff5d21100722a1c55badd9/723573804
+
+    subscriptio=
+n preferences
+
+https://link.thehoth.com/emailPreference/502191/9e462e14=
+392a9c5665b96e2a7d707535788db54cabff5d21100722a1c55badd9/723573804
+
+ =
+
+
+
+
+--_=_swift_v4_1553608161_8c8df40b1a7a2742bafa35fe7825ee9f_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">
+<head>
+    <meta content=3D"text/html; charset=3Dut=
+f-8" http-equiv=3D"Content-Type" />
+    <!-- Facebook sharing information=
+ tags -->
+=09<meta property=3D"og:title" content=3D"3 Hacks To Get Awesom=
+e Content Without Writing It Yourself" />
+
+    <title>3 Hacks To Get Aw=
+esome Content Without Writing It Yourself</title>
+   =20
+
+</head>
+
+=
+<body bgcolor=3D"#ffffff" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; height: 100% !important; width: 100% !important; backgr=
+ound-color: #ffffff; margin: 0; padding: 0;">
+<style type=3D"text/css">#o=
+utlook a {
+          padding: 0;
+      }
+      .body{
+          wid=
+th: 100% !important;
+          -webkit-text-size-adjust: 100%;
+        =
+  -ms-text-size-adjust: 100%;
+          margin: 0;
+          padding: 0=
+;
+      }
+      .ExternalClass {
+          width:100%;
+      }
+  =
+    .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,=
+
+      .ExternalClass font,
+      .ExternalClass td,
+      .ExternalC=
+lass div {
+          line-height: 100%;
+      }
+      img {
+       =
+   outline: none;
+          text-decoration: none;
+          -ms-interp=
+olation-mode: bicubic;
+      }
+      a img {
+          border: none;=
+
+      }
+      p {
+          margin: 1em 0;
+      }
+      table t=
+d {
+          border-collapse: collapse;
+      }
+      /* hide unsubs=
+cribe from forwards*/
+      blockquote .original-only, .WordSection1 .ori=
+ginal-only {
+        display: none !important;
+      }
+
+      @medi=
+a only screen and (max-width: 480px){
+        body, table, td, p, a, li, =
+blockquote{-webkit-text-size-adjust:none !important;} /* Prevent Webkit pla=
+tforms from changing default text sizes */
+                body{width:100=
+% !important; min-width:100% !important;} /* Prevent iOS Mail from adding p=
+adding to the body */
+
+        #bodyCell{padding:10px !important;}
+=
+
+        #templateContainer{
+          max-width:600px !important;
+  =
+        width:100% !important;
+        }
+
+        h1{
+          fon=
+t-size:24px !important;
+          line-height:100% !important;
+        =
+}
+
+        h2{
+          font-size:20px !important;
+          line-=
+height:100% !important;
+        }
+
+        h3{
+          font-size:=
+18px !important;
+          line-height:100% !important;
+        }
+
+=
+        h4{
+          font-size:16px !important;
+          line-height:=
+100% !important;
+        }
+       =20
+        li{
+            margin:=
+ 50px !important;
+        }
+
+        #templatePreheader{display:none =
+!important;} /* Hide the template preheader to save space */
+
+        #=
+headerImage{
+          height:auto !important;
+          max-width:600p=
+x !important;
+          width:100% !important;
+        }
+
+        .=
+headerContent{
+          font-size:20px !important;
+          line-heig=
+ht:125% !important;
+        }
+
+        .bodyContent{
+          font=
+-size:18px !important;
+          line-height:125% !important;
+        }=
+
+
+        .footerContent{
+          font-size:14px !important;
+    =
+      line-height:115% !important;
+        }
+
+        .footerContent =
+a{display:block !important;} /* Place footer social and utility links on th=
+eir own lines, for easier access */
+      }
+</style>
+<table align=3D"=
+center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"bodyTable" s=
+tyle=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; backgro=
+und-color: #ffffff; border-collapse: collapse !important; height: 100% !imp=
+ortant; margin: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0=
+; width: 100% !important" width=3D"100%">
+=09<tbody>
+=09=09<tr>
+=09=
+=09=09<td align=3D"center" id=3D"bodyCell" style=3D"-webkit-text-size-adjus=
+t: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; height: 100% !important; width: 100% !important; border-top-width: =
+0px; border-top-color: #ffffff; border-top-style: solid; margin: 0; padding=
+: 0px;" valign=3D"top"><!-- BEGIN TEMPLATE // -->
+=09=09=09<table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"templateContainer" style=
+=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-l=
+space: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important; wi=
+dth: 600px; border: 0px solid #ffffff;">
+=09=09=09=09<tbody>
+=09=09=09=
+=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" style=3D"-webkit-text-s=
+ize-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-ta=
+ble-rspace: 0pt;" valign=3D"top"><!-- BEGIN PREHEADER // -->
+=09=09=09=09=
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"templat=
+ePreheader" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: =
+100%; background-color: #FFFFFF; border-collapse: collapse !important; mso-=
+table-lspace: 0pt; mso-table-rspace: 0pt" width=3D"100%">
+=09=09=09=09=09=
+=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr style=3D"">
+=09=09=09=09=09=
+=09=09=09=09<td align=3D"left" class=3D"preheaderContent" pardot-region=3D"=
+preheader_content00" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #808080=
+; font-family: Roboto, Roboto, Helvetica; font-size: 10px; line-height: 12.=
+5px; text-align: left; padding: 10px 20px;" valign=3D"top"><img alt=3D"" bo=
+rder=3D"0" height=3D"43" src=3D"https://link.thehoth.com/l/502191/2018-03-0=
+5/n5ktbg/502191/112643/hoth_link_building_logo.png" style=3D"width: 120px; =
+height: 43px; border-width: 0px; border-style: solid;" width=3D"120"></td>=
+
+=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"preheaderContent"=
+ pardot-region=3D"preheader_content01" style=3D"-webkit-text-size-adjust: 1=
+00%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0=
+pt; color: #808080; font-family: Roboto, Helvetica; font-size: 10px; line-h=
+eight: 12.5px; text-align: left; padding: 10px 20px 10px 0;" valign=3D"top"=
+ width=3D"180">&nbsp;</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=
+=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<!-- // =
+END PREHEADER --></td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=
+=09=09=09=09=09<td align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+" valign=3D"top"><!-- BEGIN HEADER // -->
+=09=09=09=09=09=09<table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"templateHeader" style=3D"-=
+ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color=
+: #FFFFFF; border-bottom-color: #ffffff; border-bottom-style: solid; border=
+-bottom-width: 0px; border-collapse: collapse !important; mso-table-lspace:=
+ 0pt; mso-table-rspace: 0pt" width=3D"100%">
+=09=09=09=09=09=09=09<tbody>=
+
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=
+=09=09=09<!-- // END HEADER --></td>
+=09=09=09=09=09</tr>
+=09=09=09=09=
+=09<tr>
+=09=09=09=09=09=09<td align=3D"center" style=3D"-webkit-text-size=
+-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table=
+-rspace: 0pt;" valign=3D"top"><!-- BEGIN BODY // -->
+=09=09=09=09=09=09<t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"templateBody" s=
+tyle=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; backgro=
+und-color: #FFFFFF; border-bottom-color: #ffffff; border-bottom-style: soli=
+d; border-bottom-width: 0px; border-collapse: collapse !important; border-t=
+op-color: #FFFFFF; border-top-style: solid; border-top-width: 1px; mso-tabl=
+e-lspace: 0pt; mso-table-rspace: 0pt" width=3D"100%">
+=09=09=09=09=09=09=
+=09<tbody>
+=09=09=09=09=09=09=09=09<tr pardot-repeatable=3D"" style=3D"">=
+
+=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"bodyContent" pard=
+ot-data=3D"line-height:26px;" pardot-region=3D"body_content" style=3D"text-=
+size-adjust: 100%; color: rgb(51, 51, 51); font-family: Helvetica; font-siz=
+e: 16px; line-height: 26px; text-align: left; padding: 20px;" valign=3D"top=
+"><h1 style=3D"color: #202020 !important; display: block; font-family: Helv=
+etica; font-size: 26px; font-style: normal; font-weight: bold; letter-spaci=
+ng: normal; line-height: 26px; margin: 0; padding-bottom:10px; text-align: =
+left">Ramp Up Your Content</h1>
+
+<p dir=3D"ltr">Are you still writing c=
+ontent yourself?&nbsp;<br>
+<br>
+If you're like me,&nbsp;one day of writ=
+ing quickly turned into three, and just as you posted your&nbsp;article&nbs=
+p;you realized it was time to start the next one.&nbsp;<br>
+<br>
+Writin=
+g takes time and that's not something&nbsp;most business owners have a lot =
+of.&nbsp;&nbsp;<br>
+<br>
+But getting awesome content without writing it=
+ yourself isn't easy.&nbsp;<br>
+<br>
+That's why today I'm going to show=
+ you my top 3 hacks for ramping up your content production:<br>
+&nbsp;</p=
+>
+
+<div><!--[if mso]>
+  <v:roundrect xmlns:v=3D"urn:schemas-microsoft=
+-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https:/=
+/www.thehoth.com/blog/getting-awesome-content/" style=3D"height:42px;v-text=
+-anchor:middle;width:160px;" arcsize=3D"10%" stroke=3D"f" fillcolor=3D"#ef3=
+d2f">
+    <w:anchorlock></w:anchorlock>
+    <center>
+  <![endif]--><a=
+ href=3D"https://link.thehoth.com/e/502191/blog-getting-awesome-content-/np=
+shl5/723573804?h=3DVDKvUOaGF_R60THJmjumpiPt_ZFBhSv6ej8V63JkaXk" style=3D"ba=
+ckground-color:#ef3d2f;border-radius:4px;color:#ffffff;display:inline-block=
+;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:42px;te=
+xt-align:center;text-decoration:none;width:300px;-webkit-text-size-adjust:n=
+one;">Get The 3 Content Hacks</a> <!--[if mso]>
+    </center>
+  </v:rou=
+ndrect>
+<![endif]--></div>
+<br>
+<br>
+In today's article, we'll show=
+ you:
+<ul>
+=09<li>The trick to get articles written exactly how you wan=
+t them</li>
+=09<li>How to get the perfect writer</li>
+=09<li>The secret=
+ weapon of every professional content producer</li>
+</ul>
+&nbsp;
+
+<=
+div><!--[if mso]>
+  <v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml=
+" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://www.the=
+hoth.com/blog/getting-awesome-content/" style=3D"height:42px;v-text-anchor:=
+middle;width:160px;" arcsize=3D"10%" stroke=3D"f" fillcolor=3D"#ef3d2f">
+=
+    <w:anchorlock></w:anchorlock>
+    <center>
+  <![endif]--><a href=3D=
+"https://link.thehoth.com/e/502191/blog-getting-awesome-content-/npshl5/723=
+573804?h=3DVDKvUOaGF_R60THJmjumpiPt_ZFBhSv6ej8V63JkaXk" style=3D"background=
+-color:#ef3d2f;border-radius:4px;color:#ffffff;display:inline-block;font-fa=
+mily:sans-serif;font-size:13px;font-weight:bold;line-height:42px;text-align=
+:center;text-decoration:none;width:300px;-webkit-text-size-adjust:none;">Ra=
+mp Up Your Content Now</a> <!--[if mso]>
+    </center>
+  </v:roundrect>=
+
+<![endif]--></div>
+<br>
+<br>
+Cheers!<br>
+The HOTH Crew<br>
+<a =
+href=3D"https://link.thehoth.com/e/502191/meet-/npshl7/723573804?h=3DVDKvUO=
+aGF_R60THJmjumpiPt_ZFBhSv6ej8V63JkaXk">Book an SEO strategy call with us</a=
+><br>
+<a href=3D"https://link.thehoth.com/e/502191/reviews-/npshl9/723573=
+804?h=3DVDKvUOaGF_R60THJmjumpiPt_ZFBhSv6ej8V63JkaXk">Check out our 1000+ re=
+views</a><br>
+<br>
+P.S. Our March Content sale is almost over. Get <a h=
+ref=3D"https://link.thehoth.com/e/502191/seo-discount-/npshlc/723573804?h=
+=3DVDKvUOaGF_R60THJmjumpiPt_ZFBhSv6ej8V63JkaXk">25% off HOTH Blogger Pro</a=
+> and <a href=3D"https://link.thehoth.com/e/502191/seo-discount-/npshlf/723=
+573804?h=3DVDKvUOaGF_R60THJmjumpiPt_ZFBhSv6ej8V63JkaXk">50% off HOTH Syndic=
+ation</a>&nbsp;until March 31st!</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=
+=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=
+=09<!-- // END BODY --></td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>=
+
+=09=09=09=09=09=09<td align=3D"center" style=3D"-webkit-text-size-adjust=
+: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace=
+: 0pt;" valign=3D"top"><!-- BEGIN FOOTER // -->
+=09=09=09=09=09=09<table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"templateFooter" styl=
+e=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background=
+-color: #FFFFFF; border-collapse: collapse !important; border-top-color: #F=
+FFFFF; border-top-style: solid; border-top-width: 1px; mso-table-lspace: 0p=
+t; mso-table-rspace: 0pt" width=3D"100%">
+=09=09=09=09=09=09=09<tbody>
+=
+=09=09=09=09=09=09=09=09<tr style=3D"">
+=09=09=09=09=09=09=09=09=09<td al=
+ign=3D"left" class=3D"footerContent" pardot-region=3D"footer_content01" sty=
+le=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table=
+-lspace: 0pt; mso-table-rspace: 0pt; color: #808080; font-family: Helvetica=
+; font-size: 10px; line-height: 15px; text-align: left; padding: 0 20px 20p=
+x;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09<hr style=3D"box-sizing: c=
+ontent-box; -webkit-tap-highlight-color: rgba(255,255,255,0); background-co=
+lor: #e4e4e4; height: 1px; overflow: visible; margin: 32px 0; border: 0;"><=
+em>Copyright The HOTH =C2=A9 2019, All rights reserved.</em><br>
+=09=09=
+=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09<strong>Mailing Addr=
+ess:</strong><br>
+=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=
+=09=09The HOTH<br>
+=09=09=09=09=09=09=09=09=09111 2nd Ave NE<br>
+=09=09=
+=09=09=09=09=09=09=09#1500<br>
+=09=09=09=09=09=09=09=09=09St Petersburg, =
+Florida 33701</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=
+=09<tr style=3D"">
+=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D=
+"footerContent original-only" pardot-region=3D"footer_content02" style=3D"-=
+webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt; color: #808080; font-family: Helvetica; font-=
+size: 10px; line-height: 15px; text-align: left; padding: 0 20px 40px;" val=
+ign=3D"top"><a href=3D"https://link.thehoth.com/unsubscribe/u/502191/9e462e=
+14392a9c5665b96e2a7d707535788db54cabff5d21100722a1c55badd9/723573804" style=
+=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #606=
+060; font-weight: normal; text-decoration: underline;">unsubscribe</a>&nbsp=
+;&nbsp;&nbsp;<a href=3D"https://link.thehoth.com/emailPreference/502191/9e4=
+62e14392a9c5665b96e2a7d707535788db54cabff5d21100722a1c55badd9/723573804" st=
+yle=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #=
+606060; font-weight: normal; text-decoration:
+underline;"> subscription p=
+references</a>&nbsp;</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=
+=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<!-- // END=
+ FOOTER --></td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09<=
+/table>
+=09=09=09<!-- // END TEMPLATE --></td>
+=09=09</tr>
+=09</tbody=
+>
+</table>
+<img alt=3D"" src=3D"https://link.thehoth.com/r/502191/1/723=
+573804/open/1" /></body>
+</html>
+
+--_=_swift_v4_1553608161_8c8df40b1a7a2742bafa35fe7825ee9f_=_--
+
+

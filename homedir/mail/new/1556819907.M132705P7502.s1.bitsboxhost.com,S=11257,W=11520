@@ -1,0 +1,263 @@
+Return-Path: <priscilla.alexis@globalprohub.com>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id ECK8B8Mvy1xOHQAA+UFKaw
+	(envelope-from <priscilla.alexis@globalprohub.com>)
+	for <school@s1.bitsboxhost.com>; Thu, 02 May 2019 23:58:27 +0600
+Return-path: <priscilla.alexis@globalprohub.com>
+Envelope-to: queries@schooloffreelancing.com
+Delivery-date: Thu, 02 May 2019 23:58:27 +0600
+Received: from n1nlsmtp03.shr.prod.ams1.secureserver.net ([188.121.43.193]:50536)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <priscilla.alexis@globalprohub.com>)
+	id 1hMFyT-0001y0-BY
+	for queries@schooloffreelancing.com; Thu, 02 May 2019 23:58:27 +0600
+Received: from n3plcpnl0299.prod.ams3.secureserver.net ([160.153.156.48])
+	by : HOSTING RELAY : with ESMTP
+	id MFwqhsP3NRzlGMFwqhdloT; Thu, 02 May 2019 10:56:44 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=globalprohub.com; s=default; h=Content-Type:MIME-Version:Message-ID:Date:
+	Subject:To:From:Reply-To:Sender:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=26fy/jFdX5s9yf/8u1mdOYOOrvDqQdWXRxbmODhkCC0=; b=xAkhHl0CUjhCmOThMW0axr6a3g
+	6aJcTjiVT2+57UoKfsKs0186o+CPAotpre257DbpMhYimBgIWi4Lvu7vf4Ub1pqQPFmBYTbLyyBRI
+	bEC22z3oEPyhrxV6M8S4H5t2PvORU25BcJ5jlk5quzCRD/PiRYOudxWH8dw8p3leJJq/jBEksRawt
+	p2rGaWp9salZPbzDJT0s8/451Sqdd633P0s5SHxd6x955srI+B3mptFO/ATy8QzcBI2KeBOhAkGHz
+	G+35zAhfP/Rn0t8diRf4yscgWOzYhgADj0A5LaFEqUWfg4DiERVuZHJHOVJMUL+unLPDYiLifXRAQ
+	Ai6LRtjw==;
+Received: from 228.ip-144-217-84.net ([144.217.84.228]:52716 helo=WS23)
+	by n3plcpnl0299.prod.ams3.secureserver.net with esmtpsa (TLSv1:AES128-SHA:128)
+	(Exim 4.91)
+	(envelope-from <priscilla.alexis@globalprohub.com>)
+	id 1hMFwp-009xOC-Mx
+	for queries@schooloffreelancing.com; Thu, 02 May 2019 10:56:44 -0700
+Reply-To: <priscilla.alexis@globalprohub.com>
+From: "Priscilla Alexis" <priscilla.alexis@globalprohub.com>
+To: <queries@schooloffreelancing.com>
+Subject: Snort Users List 
+Date: Thu, 2 May 2019 23:24:56 +0530
+Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAAG3vHEtaeghNnuLD5ILOnhvCgAAAEAAAAFZmBv+PTZxDp8eFpC+cmRkBAAAAAA==@globalprohub.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_15CD_01D5013E.56729E50"
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AdUBECMis0Th34oQTI6pjze5bbbRvQ==
+Content-Language: en-us
+Disposition-Notification-To: "Priscilla Alexis" <priscilla.alexis@globalprohub.com>
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - n3plcpnl0299.prod.ams3.secureserver.net
+X-AntiAbuse: Original Domain - schooloffreelancing.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - globalprohub.com
+X-Get-Message-Sender-Via: n3plcpnl0299.prod.ams3.secureserver.net: authenticated_id: priscilla.alexis@globalprohub.com
+X-Authenticated-Sender: n3plcpnl0299.prod.ams3.secureserver.net: priscilla.alexis@globalprohub.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-CMAE-Envelope: MS4wfGa2fgF/uSlCQG/49EA2oK2zIufQHsjbueJj4jzACJe8uwVTEv6nHKBPdpPJFKbPdWVvBQ2QtYvBTiQt6rKSK+iBl9M13l7ZOi4FAIjVWaUQCfiC7ck3
+ 9KETXkPoBbbBtTQYJlUW1aDoiEBx9fCP13T3mP7t8V6l2a9wjP32rIcY7RU+6FsK73+h84J8TEiIgDdhGEEJJ1UMti//OCSiG7vozN4qoJn5exzrVK77eJVz
+ hazD1sY0piHAx4nTrlW3Yw==
+X-Spam-Status: No, score=0.1
+X-Spam-Score: 1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hi, Hope you are doing well! Would you like to acquire contacts
+    of Snort Users List to promote your products and services? 
+ 
+ Content analysis details:   (0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: globalprohub.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+X-Spam-Flag: NO
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_15CD_01D5013E.56729E50
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+ 
+
+Hope you are doing well!
+
+ 
+
+Would you like to acquire contacts of Snort Users List to promote your
+products and services?
+
+ 
+
+Information fields: First Name, Last Name, Title, Email Address, Phone
+Number, Company Name, Company URL, Company physical address, SIC Code,
+Industry, Company Size (Revenue and Employee).
+
+ 
+
+If you are interested please let me know your Target Geography: __________?
+So that I can get back to you with the Counts and Pricing Structure.
+
+ 
+
+Kind Regards,
+
+Priscilla Alexis
+
+Manager - Demand Generation
+
+ 
+
+If you do not wish to receive further emails kindly reply with "Unsubscribe"
+
+ 
+
+ 
+
+ 
+
+
+------=_NextPart_000_15CD_01D5013E.56729E50
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 15 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.xmsonormal, li.xmsonormal, div.xmsonormal
+	{mso-style-name:x_msonormal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.xmsonospacing, li.xmsonospacing, div.xmsonospacing
+	{mso-style-name:x_msonospacing;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style></head><body lang=3DEN-US><div class=3DWordSection1><p =
+class=3Dxmsonormal style=3D'text-autospace:none'><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";color:#20386=
+4'>Hi,</span><span =
+style=3D'font-size:14.0pt;font-family:"Calibri","sans-serif";color:#20386=
+4'><o:p></o:p></span></p><p class=3Dxmsonormal =
+style=3D'text-autospace:none'><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";color:#20386=
+4'>&nbsp;<o:p></o:p></span></p><p class=3Dxmsonormal =
+style=3D'text-autospace:none'><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";color:#20386=
+4'>Hope you are doing well!<o:p></o:p></span></p><p class=3Dxmsonormal =
+style=3D'text-autospace:none'><span =
+style=3D'font-size:14.0pt;font-family:"Calibri","sans-serif";color:#20386=
+4'><o:p>&nbsp;</o:p></span></p><p class=3Dxmsonormal =
+style=3D'text-autospace:none'><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";color:#20386=
+4'>Would you like to acquire contacts of <b>Snort Users List</b> to =
+promote your products and services?<o:p></o:p></span></p><p =
+class=3Dxmsonormal style=3D'text-autospace:none'><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";color:#20386=
+4'>&nbsp;</span><span =
+style=3D'font-size:14.0pt;font-family:"Calibri","sans-serif";color:#20386=
+4'><o:p></o:p></span></p><p class=3Dxmsonormal =
+style=3D'text-autospace:none'><b><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";color:#20386=
+4'>Information fields:</span></b><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";color:#20386=
+4'> First Name, Last Name, Title, Email Address, Phone Number, Company =
+Name, Company URL, Company physical address, SIC Code, Industry, Company =
+Size (Revenue and Employee).</span><span =
+style=3D'font-size:14.0pt;font-family:"Calibri","sans-serif";color:#20386=
+4'><o:p></o:p></span></p><p class=3Dxmsonormal =
+style=3D'text-autospace:none'><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";color:#20386=
+4'>&nbsp;</span><span =
+style=3D'font-size:14.0pt;font-family:"Calibri","sans-serif";color:#20386=
+4'><o:p></o:p></span></p><p class=3Dxmsonormal =
+style=3D'text-autospace:none'><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";color:#20386=
+4'>If you are interested please let me know your <b>Target Geography: =
+__________?</b> So that I can get back to you with the Counts and =
+Pricing Structure.<o:p></o:p></span></p><p class=3Dxmsonormal =
+style=3D'text-autospace:none'><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";color:#20386=
+4'><o:p>&nbsp;</o:p></span></p><p class=3Dxmsonormal =
+style=3D'text-autospace:none'><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";color:#20386=
+4'>Kind Regards,</span><span =
+style=3D'font-size:14.0pt;font-family:"Calibri","sans-serif";color:#20386=
+4'><o:p></o:p></span></p><p class=3Dxmsonormal =
+style=3D'text-autospace:none'><b><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";color:#20386=
+4'>Priscilla Alexis</span></b><span =
+style=3D'font-size:14.0pt;font-family:"Calibri","sans-serif";color:#20386=
+4'><o:p></o:p></span></p><p class=3Dxmsonormal =
+style=3D'text-autospace:none'><b><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";color:#20386=
+4'>Manager - Demand Generation</span></b><span =
+style=3D'font-size:14.0pt;font-family:"Calibri","sans-serif";color:#20386=
+4'><o:p></o:p></span></p><p class=3Dxmsonormal =
+style=3D'text-autospace:none'><span =
+style=3D'font-size:10.5pt;color:#002060'>&nbsp;</span><span =
+style=3D'font-size:14.0pt;color:black'><o:p></o:p></span></p><p =
+class=3Dxmsonospacing><span =
+style=3D'font-size:8.0pt;font-family:"Calibri","sans-serif";color:#203864=
+'>If you do not wish to receive further emails kindly reply with =
+&quot;Unsubscribe&quot;</span><span =
+style=3D'font-size:14.0pt;color:#203864'><o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_15CD_01D5013E.56729E50--
+

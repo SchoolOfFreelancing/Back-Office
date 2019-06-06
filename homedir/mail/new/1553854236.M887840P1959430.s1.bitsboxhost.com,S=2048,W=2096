@@ -1,0 +1,48 @@
+Return-Path: <john@bigpoints.info>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id ic20NBzvnVwG5h0A+UFKaw
+	(envelope-from <john@bigpoints.info>)
+	for <school@s1.bitsboxhost.com>; Fri, 29 Mar 2019 16:10:36 +0600
+Return-path: <john@bigpoints.info>
+Envelope-to: farbaj.mohammad@schooloffreelancing.com
+Delivery-date: Fri, 29 Mar 2019 16:10:36 +0600
+Received: from bigpoints.info ([206.189.21.58]:46308)
+	by s1.bitsboxhost.com with esmtp (Exim 4.91)
+	(envelope-from <john@bigpoints.info>)
+	id 1h9oT6-008Daw-FW
+	for farbaj.mohammad@schooloffreelancing.com; Fri, 29 Mar 2019 16:10:36 +0600
+Received: by bigpoints.info (Postfix, from userid 1000)
+	id AE04653C838; Thu, 28 Mar 2019 10:15:04 +0000 (UTC)
+Date: Thu, 28 Mar 2019 10:15:04 +0000
+From: john@bigpoints.info
+To: farbaj.mohammad@schooloffreelancing.com
+Subject: Good day!
+Message-ID: <20190328101504.IIO8y0jDJ%john@bigpoints.info>
+User-Agent: s-nail v14.8.6
+X-Spam-Status: No, score=3.5
+X-Spam-Score: 35
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hi All, Have a Nice Day!. - John 
+ 
+ Content analysis details:   (3.5 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.8 DATE_IN_PAST_12_24     Date: is 12 to 24 hours before Received: date
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  0.8 KAM_INFOUSMEBIZ        Prevalent use of .info|.us|.me|.me.uk|.biz
+                             domains in spam/malware
+X-Spam-Flag: NO
+
+ Hi All, Have a Nice Day!. - John

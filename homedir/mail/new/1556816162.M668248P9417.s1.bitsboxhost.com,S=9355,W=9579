@@ -1,0 +1,224 @@
+Return-Path: <karla.armstrong@marketmedialinks.com>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id iWW5JyIhy1zJJAAA+UFKaw
+	(envelope-from <karla.armstrong@marketmedialinks.com>)
+	for <school@s1.bitsboxhost.com>; Thu, 02 May 2019 22:56:02 +0600
+Return-path: <karla.armstrong@marketmedialinks.com>
+Envelope-to: hei@schooloffreelancing.com
+Delivery-date: Thu, 02 May 2019 22:56:02 +0600
+Received: from n1nlsmtp01.shr.prod.ams1.secureserver.net ([188.121.43.201]:34758)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <karla.armstrong@marketmedialinks.com>)
+	id 1hMF04-0002H2-Rh
+	for hei@schooloffreelancing.com; Thu, 02 May 2019 22:56:02 +0600
+Received: from n3plcpnl0267.prod.ams3.secureserver.net ([160.153.155.23])
+	by : HOSTING RELAY : with ESMTP
+	id MEyRh60fgJqjtMEyRhkIQr; Thu, 02 May 2019 09:54:19 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=marketmedialinks.com; s=default; h=Content-Type:MIME-Version:Message-ID:
+	Date:Subject:To:From:Reply-To:Sender:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=YZFdSTH7wZX9Ij/xvq92sTLpfFEc6qnPLmeNCoIVXbk=; b=XR+r+e9md8r1Wz9WY7/PUaGCO+
+	ku2vkyNF8hL2l1cheFw63ksvEQagsYwZXigCiWYu1LeXCnP8gWXihW8xPpMfs0P7ZLEKxsL1KkuGc
+	cWiyc2Xn+wXA+tCIqgb0eKjyApFl7flaTqYO7eA1sOD66/TtTprz9JHv0083WIxCsrEwqDO+3VXCd
+	Xs5LuTPD+eQaSXJM3LJWRque5Xh8wxScI5Rmvo0E08zxIgcJ9yE7KRdqhdAgZ6Gqg6IKCOPb2SxYT
+	shsPVHtHiofUBKDruDDGo36AX8NsfBzf/l3AmrJQZ+fjow2Iund0OieXfPTJVMawUXZ8ntrG5fp9/
+	dfk5TiLg==;
+Received: from [193.9.113.165] (port=52590 helo=WS46)
+	by n3plcpnl0267.prod.ams3.secureserver.net with esmtpsa (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.91)
+	(envelope-from <karla.armstrong@marketmedialinks.com>)
+	id 1hMEyQ-00DXIW-Ue
+	for hei@schooloffreelancing.com; Thu, 02 May 2019 09:54:19 -0700
+Reply-To: <karla.armstrong@marketmedialinks.com>
+From: "Karla Armstrong" <karla.armstrong@marketmedialinks.com>
+To: <hei@schooloffreelancing.com>
+Subject: DigitalOcean Users Contacts
+Date: Thu, 2 May 2019 22:22:54 +0530
+Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAADwnOTuYWqtJv3oMDEwKXsfCgAAAEAAAAFXCXYFGec5DgOe7YFRFAHEBAAAAAA==@marketmedialinks.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_1D5D_01D50135.9E6F81E0"
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AdUBB3muKXQkES5+QqeO/pmIT6bVaw==
+Content-Language: en-us
+Disposition-Notification-To: "Karla Armstrong" <karla.armstrong@marketmedialinks.com>
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - n3plcpnl0267.prod.ams3.secureserver.net
+X-AntiAbuse: Original Domain - schooloffreelancing.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - marketmedialinks.com
+X-Get-Message-Sender-Via: n3plcpnl0267.prod.ams3.secureserver.net: authenticated_id: karla.armstrong@marketmedialinks.com
+X-Authenticated-Sender: n3plcpnl0267.prod.ams3.secureserver.net: karla.armstrong@marketmedialinks.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-CMAE-Envelope: MS4wfIjWUKvG2Gd77Y9tkZd4ODj6tPHhuIFeX1BRYJLaWs21tJHsItw/5EobybrM2/DfrQIqgMnSEBA+v6QUUmnwvJDMiSuQjGx8i8ja1L4dcbb//dYCl1Wx
+ 5FdbFn8YCOl15nzJ0fyMZof23HbSSOPQT42MwV1ng6JIKJCCeIEaVAp6qQ8f9OxATFERGn6fjNj+Zo/QT2CnvSLw6Z4eGvQK5v9EJ9wTnp/FSjUD4I6KvEWu
+ C0hPKAKsxt/4uDtxiPSzfA==
+X-Spam-Status: No, score=0.1
+X-Spam-Score: 1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hi, I wanted to check if you'd be interested in purchasing
+    2019 updated DigitalOcean Users Contact for your marketing initiatives? Help
+    me out with your Target Geography: _____ (USA, UK etc.). 
+ 
+ Content analysis details:   (0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: marketmedialinks.com]
+X-Spam-Flag: NO
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_1D5D_01D50135.9E6F81E0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+ 
+
+I wanted to check if you'd be interested in purchasing 2019 updated
+DigitalOcean Users Contact for your marketing initiatives?
+
+ 
+
+Help me out with your Target Geography: _____ (USA, UK etc.).    
+
+ 
+
+Let me know you're interested, so that I will get you back with more
+information, Counts and Pricing for your review.
+
+ 
+
+Note: I could provide Any Industry, Any Job title of contact lists as per
+your requirements.
+
+ 
+
+Regards,
+
+Karla Armstrong
+
+Manager-Demand Generation
+
+ 
+
+If you're not interested please reply with "Not Interested" In the Subject
+Line.
+
+ 
+
+
+------=_NextPart_000_1D5D_01D50135.9E6F81E0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 15 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US><div =
+class=3DWordSection1><p class=3DMsoNoSpacing><span =
+style=3D'color:#002060'>Hi,<o:p></o:p></span></p><p =
+class=3DMsoNoSpacing><span =
+style=3D'color:#002060'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNoSpacing><span style=3D'color:#002060'>I wanted to check if =
+you&#8217;d be interested in purchasing 2019 updated <b>DigitalOcean =
+Users Contact</b> for your marketing =
+initiatives?<o:p></o:p></span></p><p class=3DMsoNoSpacing><span =
+style=3D'color:#002060'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNoSpacing><span style=3D'color:#002060'>Help me out with your =
+<b>Target Geography</b>: _____ (USA, UK etc.).&nbsp;&nbsp;&nbsp; =
+</span><o:p></o:p></p><p class=3DMsoNoSpacing><span =
+style=3D'color:#002060'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNoSpacing><span =
+style=3D'color:#002060;background:#FBFBFB'>Let me know you&#8217;re =
+interested, so that I will get you back with more information, <b>Counts =
+and Pricing </b>for your review.<o:p></o:p></span></p><p =
+class=3DMsoNoSpacing><span =
+style=3D'color:#002060;background:#FBFBFB'><o:p>&nbsp;</o:p></span></p><p=
+ class=3DMsoNoSpacing><b><span style=3D'color:#007033'>Note: I could =
+provide Any Industry, Any Job title of contact lists as per your =
+requirements.<o:p></o:p></span></b></p><p class=3DMsoNoSpacing><span =
+style=3D'color:#002060'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNoSpacing><b><span =
+style=3D'color:#002060'>Regards,<o:p></o:p></span></b></p><p =
+class=3DMsoNoSpacing><b><span =
+style=3D'color:#002060;background:white'>Karla =
+Armstrong<o:p></o:p></span></b></p><p class=3DMsoNoSpacing><b><span =
+style=3D'color:#002060'>Manager-Demand =
+Generation<o:p></o:p></span></b></p><p class=3DMsoNoSpacing><span =
+style=3D'color:#002060'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNoSpacing><span style=3D'font-size:9.0pt;color:#A6A6A6'>If =
+you&#8217;re not interested please reply with &#8220;Not =
+Interested&#8221; In the Subject Line.<o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_1D5D_01D50135.9E6F81E0--
+

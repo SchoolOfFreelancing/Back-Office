@@ -1,0 +1,92 @@
+Return-Path: <alex_charles@mail.ru>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id pKI4HAjTvlzOZRMA+UFKaw
+	(envelope-from <alex_charles@mail.ru>)
+	for <school@s1.bitsboxhost.com>; Tue, 23 Apr 2019 14:55:36 +0600
+Return-path: <alex_charles@mail.ru>
+Envelope-to: hei@schooloffreelancing.com
+Delivery-date: Tue, 23 Apr 2019 14:55:36 +0600
+Received: from f538.i.mail.ru ([94.100.184.129]:60896)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <alex_charles@mail.ru>)
+	id 1hIrDC-005Kl3-Ua
+	for hei@schooloffreelancing.com; Tue, 23 Apr 2019 14:55:36 +0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=+yY02aka/+pRgc1NzAI8MKEtAkjTg4F7wWGPmAQiV+o=;
+	b=be2C0sracfhPYpliTAuzq0CXJOGJK16/OPpUUj8KzcU8+dbirmXy5buOOJ/hCZGtME0nWgg5cOM/eP9XSrMILBnXywwxok4LN4MR61RGlHOzperSSI+G8AVSUtxjAci6AxNEl9jobLGQnmfuct4T6xkzNpp8vW4k1RhHF1oVhi8=;
+Received: by f538.i.mail.ru with local (envelope-from <alex_charles@mail.ru>)
+	id 1hIrCV-0002tr-Uc; Tue, 23 Apr 2019 11:54:52 +0300
+Received: by e.mail.ru with HTTP;
+	Tue, 23 Apr 2019 11:54:51 +0300
+From: =?UTF-8?B?RG9uYWxkIFRheWxvcg==?= <alex_charles@mail.ru>
+To: alex_charles@mail.ru
+Subject: =?UTF-8?B?RndkOiBCb25uZSBqb3VybsOpZQ==?=
+MIME-Version: 1.0
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Tue, 23 Apr 2019 11:54:51 +0300
+Reply-To: =?UTF-8?B?RG9uYWxkIFRheWxvcg==?= <alex_charles@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1556009691.163528137@f538.i.mail.ru>
+Content-Type: multipart/alternative;
+	boundary="--ALT--zIE5xMhgWebiZs00WrqfI41lXkhHSn3G1556009691"
+Authentication-Results: f538.i.mail.ru; auth=pass smtp.auth=alex_charles@mail.ru smtp.mailfrom=alex_charles@mail.ru
+X-77F55803: 6672BE8CEBEC45887F9F52485CB584D7ADE63D71A4B1B0B869C3A1F7D452CBFEE8B2557047A2ACE8F2AFE18B7E69DFD7F8D9167951635F18
+X-7FA49CB5: 70AAF3C13DB70168C09775C1D3CA48CFBE7EC2B12A8B858ECEDC9CE4EAAF8441BD4B6F7A4D31EC0B5B47ED7565F4D52D9742502CCDD46D0DF254576263B31EA9B2086D80B05047785571747095F342E8C7A0BC55FA0FE5FC74B32FD82EAF201CB6AB7CAAA6F0BCF060A4735BC009661322CA9DD8327EE4931B544F03EFBC4D571BF79E040BA554281A5646E9A7869530731C566533BA786A40A5AABA2AD371193C9F3DD0FB1AF5EB830E8EE6CB02E7B22623479134186CDE6BA297DBC24807EABDAD6C7F3747799A
+X-Mailru-MI: 800
+X-Mailru-Sender: EC3616DD22F3FA70443A4954E13C8B7DA31E9D40EE4D0A9A44AF8EA4CC7967D2E2BD5524701FB9A0840F870654B0C8B375E89B9EB25B13706D0E066EEF2A445E9825FA830A7EC7779A79A8FDF817FEA06D73A348EFD424BFD04F690AB28757A747744898488BD6100D4ABDE8C577C2ED
+X-Mras: OK
+X-Spam: undefined
+X-Spam-Status: No, score=0.9
+X-Spam-Score: 9
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Please did you got my message sent to you last week? Please
+    did you got my message sent to you last week? 
+ 
+ Content analysis details:   (0.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider (alex_charles[at]mail.ru)
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 FROM_EXCESS_BASE64     From: base64 encoded unnecessarily
+  1.0 KAM_HTMLNOISE          Spam containing useless HTML padding
+X-Spam-Flag: NO
+
+
+----ALT--zIE5xMhgWebiZs00WrqfI41lXkhHSn3G1556009691
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+ClBsZWFzZSBkaWQgeW91IGdvdCBteSBtZXNzYWdlIHNlbnQgdG8geW91IGxhc3Qgd2Vlaz8KCg==
+
+----ALT--zIE5xMhgWebiZs00WrqfI41lXkhHSn3G1556009691
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+CjxIVE1MPjxCT0RZPjxkaXYgY2xhc3M9ImpzLWhlbHBlciBqcy1yZWFkbXNnLW1zZyI+PGRpdj48
+ZGl2IGlkPSJzdHlsZV8xNTUzMzM1NzQzMDAwMDAwMDc3Ml9CT0RZIj48ZGl2IGNsYXNzPSJjbGFz
+c18xNTU2MDMzODQxIj48cD5QbGVhc2UgZGlkIHlvdSBnb3QgbXkgbWVzc2FnZSBzZW50IHRvIHlv
+dSBsYXN0IHdlZWs/PGJyPjxicj48L3A+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PHN0eWxlIHR5
+cGU9InRleHQvY3NzIj48L3N0eWxlPjxzdHlsZT48L3N0eWxlPjxzdHlsZT48L3N0eWxlPjwvQk9E
+WT48L0hUTUw+Cg==
+
+----ALT--zIE5xMhgWebiZs00WrqfI41lXkhHSn3G1556009691--

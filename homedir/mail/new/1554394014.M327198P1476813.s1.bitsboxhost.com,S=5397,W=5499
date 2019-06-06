@@ -1,0 +1,102 @@
+Return-Path: <khalis3580429830342@vera.com.uy>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id GDpUE54rplzNiBYA+UFKaw
+	(envelope-from <khalis3580429830342@vera.com.uy>)
+	for <school@s1.bitsboxhost.com>; Thu, 04 Apr 2019 22:06:54 +0600
+Return-path: <khalis3580429830342@vera.com.uy>
+Envelope-to: hei@schooloffreelancing.com
+Delivery-date: Thu, 04 Apr 2019 22:06:54 +0600
+Received: from smtp-s06-b.vera.com.uy ([200.40.31.25]:45554 helo=mail.vera.com.uy)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <khalis3580429830342@vera.com.uy>)
+	id 1hC4t9-006C8r-Vm
+	for hei@schooloffreelancing.com; Thu, 04 Apr 2019 22:06:54 +0600
+Received: from avas07.in.vera.com.uy (avas07.in.vera.com.uy [172.24.32.35])
+	by mta06.in.vera.com.uy (Postfix) with ESMTPS id AFF9F306F23;
+	Thu,  4 Apr 2019 13:06:07 -0300 (UYT)
+Received: from mail.vera.com.uy (unknown [172.24.31.12])
+	by avas07.in.vera.com.uy (Postfix) with ESMTPS;
+	Thu,  4 Apr 2019 13:05:59 -0300 (-03)
+Received: from mbox05.in.vera.com.uy (slbcorreolez-hsrp-reals.in.vera.com.uy [172.24.31.1])
+	by mta03.in.vera.com.uy (Postfix) with ESMTP id 2C60F223FA8;
+	Thu,  4 Apr 2019 13:05:18 -0300 (UYT)
+DKIM-Filter: OpenDKIM Filter v2.9.0 mta03.in.vera.com.uy EFECE2242A4
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=vera.com.uy;
+	s=72E86E58-1335-11E4-BC8D-0ED04F92C007; t=1554393959;
+	bh=4ItSHxUdt+TpmGutuLZl3fKZD8+neaOdWJpswH5ClOM=;
+	h=Date:From:Reply-To:Message-ID:Subject:MIME-Version:Content-Type;
+	b=UHZ31vHMaN8m7U8MrjSMNdRpEZ4NQx6RCC2eg86n3894pAPKbB2P0fz4cis2ItFQm
+	 fnFqtM6l6NxcW3LzOJHWkI7VUjrfLhEDQT/XStIwPSMOJx/4KyT/loGYslpOSHXinb
+	 AyZcEBzfzAlaw3qJPF97s5AdIlFQMKS8qa8RNe1M=
+Date: Thu, 4 Apr 2019 13:05:18 -0300 (UYT)
+From: Sarah Adams <khalis3580429830342@vera.com.uy>
+Reply-To: "nonyeric777@gmail.com" <nonyeric777@gmail.com>
+Message-ID: <474022529.59795305.1554393918070.JavaMail.zimbra@vera.com.uy>
+Subject: 
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_59795304_1098267594.1554393918068"
+X-Originating-IP: [172.24.31.31]
+Thread-Topic: 
+Thread-Index: 9yeApghVvShwn+jQdNwQuGQOQfaG9Q==
+To: undisclosed-recipients:;
+X-Spam-Status: No, score=4.2
+X-Spam-Score: 42
+X-Spam-Bar: ++++
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  I am Mrs Sarah Adams and am seriously in pain, I need your
+    help for distributing of a donation of $3Million, Please do respond if you
+    will accomplish this desire of mine. I am Mrs Sarah Adams and am seriously
+    in pain, I need your help for distributing of a donation of $3Million, Please
+    do respond if you will accomplish this desire of mine. 
+ 
+ Content analysis details:   (4.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: vera.com.uy]
+  0.0 FROM_LOCAL_DIGITS      From: localpart has long digit sequence
+  0.3 FROM_LOCAL_HEX         From: localpart has long hexadecimal sequence
+  1.3 RCVD_IN_RP_RNBL        RBL: Relay in RNBL,
+                             https://senderscore.org/blacklistlookup/
+                             [200.40.31.25 listed in bl.score.senderscore.com]
+  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in
+                             digit (nonyeric777[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+X-Spam-Flag: NO
+
+------=_Part_59795304_1098267594.1554393918068
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+I am Mrs Sarah Adams and am seriously in pain, I need your help for distributing of a donation of $3Million, Please do respond if you will accomplish this desire of mine. 
+
+------=_Part_59795304_1098267594.1554393918068
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><body><div style="font-family: times new roman, new york, times, serif; font-size: 12pt; color: #000000"><div>I am Mrs Sarah Adams and am seriously in pain, I need your help for distributing of a donation of $3Million, Please do respond if you will accomplish this desire of mine.</div></div></body></html>
+------=_Part_59795304_1098267594.1554393918068--
+

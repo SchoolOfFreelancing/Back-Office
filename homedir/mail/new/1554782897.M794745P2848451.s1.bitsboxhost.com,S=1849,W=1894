@@ -1,0 +1,45 @@
+Return-Path: <john@bubbleonly.site>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id 25stL7EarFzDdisA+UFKaw
+	(envelope-from <john@bubbleonly.site>)
+	for <school@s1.bitsboxhost.com>; Tue, 09 Apr 2019 10:08:17 +0600
+Return-path: <john@bubbleonly.site>
+Envelope-to: shaker.nayeem@schooloffreelancing.com
+Delivery-date: Tue, 09 Apr 2019 10:08:17 +0600
+Received: from bubbleonly.site ([157.230.237.20]:42246)
+	by s1.bitsboxhost.com with esmtp (Exim 4.91)
+	(envelope-from <john@bubbleonly.site>)
+	id 1hDi3V-00BwbZ-1K
+	for shaker.nayeem@schooloffreelancing.com; Tue, 09 Apr 2019 10:08:17 +0600
+Received: by bubbleonly.site (Postfix, from userid 1000)
+	id EC56E5FF80; Tue,  9 Apr 2019 03:31:32 +0000 (UTC)
+Date: Tue, 09 Apr 2019 03:31:32 +0000
+From: john@bubbleonly.site
+To: shaker.nayeem@schooloffreelancing.com
+Subject: Good day!
+Message-ID: <20190409033132.q66QG2VpO%john@bubbleonly.site>
+User-Agent: s-nail v14.8.6
+X-Spam-Status: No, score=2.0
+X-Spam-Score: 20
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hi All, Have a Nice Day!. - John 
+ 
+ Content analysis details:   (2.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+X-Spam-Flag: NO
+
+ Hi All, Have a Nice Day!. - John

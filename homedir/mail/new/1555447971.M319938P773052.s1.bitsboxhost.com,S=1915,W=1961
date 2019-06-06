@@ -1,0 +1,46 @@
+Return-Path: <john@gestgreat.site>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id EgrfEqNAtly8ywsA+UFKaw
+	(envelope-from <john@gestgreat.site>)
+	for <school@s1.bitsboxhost.com>; Wed, 17 Apr 2019 02:52:51 +0600
+Return-path: <john@gestgreat.site>
+Envelope-to: fatin.ishrak@schooloffreelancing.com
+Delivery-date: Wed, 17 Apr 2019 02:52:51 +0600
+Received: from gestgreat.site ([104.248.166.255]:37552)
+	by s1.bitsboxhost.com with esmtp (Exim 4.91)
+	(envelope-from <john@gestgreat.site>)
+	id 1hGV4U-003EzN-4A
+	for fatin.ishrak@schooloffreelancing.com; Wed, 17 Apr 2019 02:52:51 +0600
+Received: by gestgreat.site (Postfix, from userid 1000)
+	id 6415553C1CB; Tue, 16 Apr 2019 12:31:55 +0000 (UTC)
+Date: Tue, 16 Apr 2019 12:31:55 +0000
+From: john@gestgreat.site
+To: fatin.ishrak@schooloffreelancing.com
+Subject: Good day!
+Message-ID: <20190416123155.s9hMF3goD%john@gestgreat.site>
+User-Agent: s-nail v14.8.6
+X-Spam-Status: No, score=3.1
+X-Spam-Score: 31
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hi All, Have a Nice Day!. - John 
+ 
+ Content analysis details:   (3.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.1 DATE_IN_PAST_06_12     Date: is 6 to 12 hours before Received: date
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+X-Spam-Flag: NO
+
+ Hi All, Have a Nice Day!. - John

@@ -1,0 +1,96 @@
+Return-Path: <josephakim114@gmail.com>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id jzzoHoE50VxcQwAA+UFKaw
+	(envelope-from <josephakim114@gmail.com>)
+	for <school@s1.bitsboxhost.com>; Tue, 07 May 2019 13:53:37 +0600
+Return-path: <josephakim114@gmail.com>
+Envelope-to: hei@schooloffreelancing.com
+Delivery-date: Tue, 07 May 2019 13:53:37 +0600
+Received: from mail-ua1-f65.google.com ([209.85.222.65]:37220)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <josephakim114@gmail.com>)
+	id 1hNuuu-0005AP-8T
+	for hei@schooloffreelancing.com; Tue, 07 May 2019 13:53:37 +0600
+Received: by mail-ua1-f65.google.com with SMTP id l17so5659759uar.4
+        for <hei@schooloffreelancing.com>; Tue, 07 May 2019 00:53:16 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to;
+        bh=xfbz52Hjj8bPjpEEY5A9QGFjbgs1DQvEWBAyX2n94UU=;
+        b=r7y3nivvSGa+I61xWQkrU9aoiTKnpw2lxDWCpwuO6+ijNAV+KuoFBBot26Xp0rr9fx
+         Frio8tTArrUVYbQOrcAkaV7pB0aYBKmMw2PJ1MVJAuE0Xr3smDlzd4wj1+HWT6LbNYWQ
+         IwuOroDU1QzEWYLKbnfnK5RX1gpcjkJ+G9+HcrSRRotIJzWTHS5fzXI4SZOuofw2jEDk
+         Cwqvqokt1VjUmJpQ6VDKQtZFuODwABmIH8osglYZ+pYCD9O0Rb3GgvR+FP4z5dHQCkdD
+         4z9vDetId68VXOBY3LAfi9ehOVrfObR440y+hM3jvQQVq85bQ1gJ2FiimoOUAKFZX274
+         zzIQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to;
+        bh=xfbz52Hjj8bPjpEEY5A9QGFjbgs1DQvEWBAyX2n94UU=;
+        b=WlWLaysEe+IGqtFyn7rVjzfyft4c7me3MAyGQkNMKlAP+0VvfoDRlBPz2WfawASxeM
+         iNCUb/ecrtq/5tPxNpp/FxCN9YCpDo01dPSpcSLIKTzNljvkwSi6hpVW8HATNBopPEgV
+         X9RqSt8A+Qq7dLI9f375rD4Tmf8+3ckcN/CMZSTeRgQJqui0oijbJUgKm1bDsIfv3mVP
+         ckHymywNrXHA99X2x8QEtxyxHiZc2PZT6CaWPA3rHPL+HgBSxi1pa+2OsZVdIGQSaSMn
+         xanih7BnG0/ToV3Vh8Gp337mC1Z0gNXp1KQnZaabW6tksXDEUFq0KKUVTm2H/my/VB4M
+         JA6Q==
+X-Gm-Message-State: APjAAAVR15p47pYZMFiaGTIUwi85A8eiPasiNSMsfY6T3PhWOSDhrYp0
+	OH4FpPSpRoKW0X8lUxTVLfD+ks65JlJgwjuzQDoG9g==
+X-Google-Smtp-Source: APXvYqx/zBohZx/9lZV4WvrbcFruL2iX+6DvJed2GCDCuigAs2EqbXgVnMUr81rTBsrOT1a9Lw+7ko9XniILnizPlfE=
+X-Received: by 2002:ab0:304c:: with SMTP id x12mr15261483ual.128.1557215574942;
+ Tue, 07 May 2019 00:52:54 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a67:c98b:0:0:0:0:0 with HTTP; Tue, 7 May 2019 00:52:54 -0700 (PDT)
+Reply-To: barr.alhajiaboutrikahhamzaesq@gmail.com
+From: Alhaji Aboutrikah Hamza <josephakim114@gmail.com>
+Date: Tue, 7 May 2019 08:52:54 +0100
+Message-ID: <CAHVCV_NkS-dp1VaifBbV9qZuRqQb6P6H+NCPpngmE5Uap2J1pw@mail.gmail.com>
+Subject: 
+To: undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Bcc: hei@schooloffreelancing.com
+X-Spam-Status: No, score=1.0
+X-Spam-Score: 10
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hello , How are you today ? Why are you not replying my emails
+    ? I have a good business to discuss with you . Sincerely, Alhaji Aboutrikah
+    Hamza 
+ 
+ Content analysis details:   (1.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_MSPIKE_H2      RBL: Average reputation (+2)
+                             [209.85.222.65 listed in wl.mailspike.net]
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit (josephakim114[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider (josephakim114[at]gmail.com)
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  1.0 FREEMAIL_REPLYTO       Reply-To/From or Reply-To/body contain
+                             different freemails
+X-Spam-Flag: NO
+
+Hello ,
+
+How are you today ? Why are you not replying my emails ? I have a good
+business to discuss with you .
+
+Sincerely,
+Alhaji Aboutrikah Hamza

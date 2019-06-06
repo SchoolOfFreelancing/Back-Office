@@ -1,0 +1,599 @@
+Return-Path: <info@gagboo.com>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id jPiUD5eJ1FzqOAAA+UFKaw
+	(envelope-from <info@gagboo.com>)
+	for <school@s1.bitsboxhost.com>; Fri, 10 May 2019 02:12:07 +0600
+Return-path: <info@gagboo.com>
+Envelope-to: hei@schooloffreelancing.com
+Delivery-date: Fri, 10 May 2019 02:12:07 +0600
+Received: from 142-4-4-84.unifiedlayer.com ([142.4.4.84]:54138 helo=142-4-4-84.bluehost-ob.net)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <info@gagboo.com>)
+	id 1hOpOd-0003cA-QZ
+	for hei@schooloffreelancing.com; Fri, 10 May 2019 02:12:07 +0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=gagboo.com;
+	 s=default; h=Content-Type:Mime-Version:Message-ID:To:Reply-To:From:Subject:
+	Date:Sender:Cc:Content-Transfer-Encoding:Content-ID:Content-Description:
+	Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:
+	In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=qKx/k9Qml8qE+yeFdorEjIowESqCcYD0u6SIWcZlvis=; b=WL9TRVW+AH1kYevARYFjyQTJn5
+	OUMTpPa6rOdRbVJ96fJqWR4cipO1MS3VEGERLXpdZFAjrfgkt/l58mo5DwzpAdGFoK9jY6D/jsbr+
+	qufn9hL93UGi/CIqZpl55UAikOySjFVQl8Z+2K2YpcVSr0M17ZByYAPJaDhoCStxrD0xkeUL1Im91
+	grxh6sxF+Pz+BYYxVKurc5k6l4A+xy/MNfjQ2ma1V7V9jUxONmfGrrEPREIsd3U1tBGzLBwXY5GOs
+	iv96U1a5ZmZm9RrVly5VEiQq8iEX2ayzSp4UgqlzgQVWVGUTX9biW8MyxUdjN+mBoO5aqsD3OB6SJ
+	hO1w/v3w==;
+Received: from gagboo by 142-4-4-84.bluehost-ob.net with local (Exim 4.91)
+	(envelope-from <info@gagboo.com>)
+	id 1hOpNx-0005XE-0k
+	for hei@schooloffreelancing.com; Thu, 09 May 2019 20:11:21 +0000
+User-Agent: Samara IT
+Date: Thu, 9 May 2019 20:11:20 +0000
+From: "Private Exam BD" <info@gagboo.com>
+Reply-To: "raziagroup@gmail.com" <raziagroup@gmail.com>
+To: hei@schooloffreelancing.com
+X-Sender: info@gagboo.com
+X-Mailer: Samara IT
+X-Priority: 1 (Highest)
+Message-ID: <5cd48968f2824@gagboo.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5cd48968f2873"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - 142-4-4-84.bluehost-ob.net
+X-AntiAbuse: Original Domain - schooloffreelancing.com
+X-AntiAbuse: Originator/Caller UID/GID - [500 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - gagboo.com
+X-Get-Message-Sender-Via: 142-4-4-84.bluehost-ob.net: authenticated_id: gagboo/from_h
+X-Authenticated-Sender: 142-4-4-84.bluehost-ob.net: info@gagboo.com
+X-Source: /opt/cpanel/ea-php54/root/usr/bin/php-cgi
+X-Source-Args: /opt/cpanel/ea-php54/root/usr/bin/php-cgi /home/gagboo/public_html/index.php 
+X-Source-Dir: gagboo.com:/public_html
+X-Spam-Status: Yes, score=9.1
+X-Spam-Score: 91
+X-Spam-Bar: +++++++++
+X-Spam-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  View this email in your browser &nbsp; প্রাইভেটভাবে
+    ডিগ্রী দরকার?&nbsp;শিক্ষা জীবনে
+    ফেল করেছেন?পড়ালেখায়&nbsp; ড্রপ
+   করেছ� [...] 
+ 
+ Content analysis details:   (9.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: mailchimp.com]
+  0.0 TVD_RCVD_IP            Message was received from an IP address
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.1 DKIM_ADSP_ALL          No valid author signature, domain signs all mail
+  1.8 FUZZY_XPILL            BODY: Attempt to obfuscate words in spam
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  2.6 RDNS_DYNAMIC           Delivered to internal network by host with
+                             dynamic-looking rDNS
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+  1.0 FREEMAIL_REPLYTO       Reply-To/From or Reply-To/body contain
+                             different freemails
+X-Spam-Flag: YES
+Subject:  ***SPAM***  =?utf-8?Q?=e0=a6=aa=e0=a7=8d=e0=a6=b0=e0=a6=be=e0=a6=87=e0=a6=ad=e0=a7?=
+ =?utf-8?Q?=87=e0=a6=9f=e0=a6=ad=e0=a6=be=e0=a6=ac=e0=a7=87_=e0=a6=a1=e0?=
+ =?utf-8?Q?=a6=bf=e0=a6=97=e0=a7=8d=e0=a6=b0=e0=a7=80_=e0=a6=a6=e0=a6=b0?=
+ =?utf-8?Q?=e0=a6=95=e0=a6=be=e0=a6=b0=3f__=e0=a6=b6=e0=a6=bf=e0=a6=95=e0?=
+ =?utf-8?Q?=a7=8d=e0=a6=b7=e0=a6=be_=e0=a6=9c=e0=a7=80=e0=a6=ac=e0=a6=a8?=
+ =?utf-8?Q?=e0=a7=87_=e0=a6=ab=e0=a7=87=e0=a6=b2_=e0=a6=95=e0=a6=b0=e0=a7?=
+ =?utf-8?Q?=87=e0=a6=9b=e0=a7=87=e0=a6=a8=3f?=
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5cd48968f2873
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+View this email in your browser
+
+&nbsp;
+
+প্রাইভেটভাবে ডিগ্রী
+দরকার?&nbsp;শিক্ষা জীবনে ফেল
+করেছেন?পড়ালেখায়&nbsp; ড্রপ
+করেছেন?&nbsp;
+প্রত্যেক মানুষের জীবনেই
+একটি স্বীকৃতির প্রয়োজন,
+প্রয়োজন ব্যক্তিগত
+মর্যাদার। আমাদের সমাজে সেই
+স্বীকৃতি অর্জনের
+সর্বশ্রেষ্ঠ ধাপ হচ্ছে ভালো
+শিক্ষাগত যোগ্যতার একটি
+প্রমাণ পত্র। আরও ভালোভাবে
+বললে&nbsp; একটি সার্টিফিকেট।
+একটি সার্টিফিকেট পারে আপনার
+জীবনের মোড় ঘুরিয়ে দিতে
+।&nbsp;যেকোন ফ্রি পরামর্শ /
+তথ্যের জন্য:&nbsp;01997-500500, 01780-031800
+&nbsp;
+DIPLOMA, SSC, HSC, DEGREE, HONOURS, BBA, MBA, MASTERS.
+
+&nbsp;
+
+&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;
+
+নানা কারনে আমাদের শিক্ষা
+জীবন অনেক সময় অনিশ্চিত হয়ে
+যায়। তাই পড়ালেখার
+অপূর্ণতাকে দূর করে হয়ে উঠুন
+পরিপূর্ণ একজন সম্মানিত
+মানুষ। জাতীয়
+বিশ্ববিদ্যালয়, ঢাকা বোর্ড ও
+উন্মুক্ত বিশ্ববিদ্যালয়ের
+মাধ্যমে পাশের ব্যবস্হা।
+আপনার স্টাডি গ্যাপ
+এক্ষেত্রে কোন প্রতিবন্ধকতা
+নয়। যারা ইরেগুলার বা অনেক
+আগেই লেখাপড়া ছেড়েছেন, তারাই
+পরীক্ষা দিতে পারবেন।&nbsp;
+
+Credit Transfer facility to any Private University. You can get service from
+us for admission, coaching, Credit Transfer facilities etc.
+
+Copyright &copy; 2019,Private Exam BD.&nbsp; All rights reserved.SKY TECH
+BD.SSC হতে Masters পর্যন্ত যে কোন
+বিষয়ের সার্টিফিকেট অল্প
+পরিশ্রমে এবং অল্প
+সময়েরঅধ্যায়নে পেতে পারেন।
+তাই সুযোগকে হেলায় হারাবেন
+না।এখনই চলে আসুন যেকোন ফ্রি
+পরামর্শ / তথ্যের জন্য।Our mailing
+address is:For Private Exam,Please call:&nbsp;01997-500500,
+01780-031800Email:&nbsp;privatestudybd@gmail.comhttp://privateexam.com.bd/Want
+to change how you receive these emails?You can update your preferences
+or&nbsp;unsubscribe from this list&nbsp;
+
+
+--B_ALT_5cd48968f2873
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table id=3D"bodyTable" style=3D"border-collapse: collapse; margin: 0px; pa=
+dding: 0px; height: 100%; width: 100%; background-color: #fdb813; color: #0=
+00000; font-family: 'Times New Roman'; font-size: medium; font-style: norma=
+l; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: =
+400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-=
+space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-deco=
+ration-style: initial; text-decoration-color: initial;" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td id=3D"bodyCell" style=3D"text-size-adjust: 100%; margin: 0px; padding: =
+0px; height: 1851px; width: 1218px; border-top: 0px;" align=3D"center" vali=
+gn=3D"top">
+<table style=3D"border-collapse: collapse; width: 100%;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"text-size-adjust: 100%;" align=3D"center" valign=3D"top">
+<table id=3D"templatePreheader" style=3D"border-collapse: collapse; backgro=
+und-color: #fdb813; border-top: 0px none; border-bottom: 0px none; width: 1=
+00%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"text-size-adjust: 100%;" align=3D"center" valign=3D"top">
+<table class=3D"templateContainer" style=3D"border-collapse: collapse; widt=
+h: 600px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"preheaderContainer" style=3D"text-size-adjust: 100%; padding-t=
+op: 9px; padding-bottom: 9px;" valign=3D"top">
+<table class=3D"mcnTextBlock" style=3D"border-collapse: collapse; min-width=
+: 100%; width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody class=3D"mcnTextBlockOuter">
+<tr>
+<td class=3D"mcnTextBlockInner" style=3D"text-size-adjust: 100%; padding-to=
+p: 9px;" valign=3D"top">
+<table class=3D"mcnTextContentContainer" style=3D"border-collapse: collapse=
+; max-width: 100%; min-width: 100%; width: 100%;" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td class=3D"mcnTextContent" style=3D"text-size-adjust: 100%; word-break: b=
+reak-word; color: #202020; font-family: Helvetica; font-size: 10px; line-he=
+ight: 12.5px; text-align: center; padding: 0px 18px 9px;" valign=3D"top"><a=
+ style=3D"overflow-wrap: break-word; text-size-adjust: 100%; color: #202020=
+; font-weight: normal; text-decoration: underline;" href=3D"http://gagboo.c=
+om/template/private%20exam%20(5)%20a.html" target=3D"_blank">View this emai=
+l in your browser</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"text-size-adjust: 100%;" align=3D"center" valign=3D"top">
+<table id=3D"templateHeader" style=3D"border-collapse: collapse; background=
+-color: #fef9e6; border-top: 0px none; border-bottom: 0px none; width: 100%=
+;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"text-size-adjust: 100%;" align=3D"center" valign=3D"top">
+<table class=3D"templateContainer" style=3D"border-collapse: collapse; widt=
+h: 600px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"headerContainer" style=3D"text-size-adjust: 100%; padding-top:=
+ 10px; padding-bottom: 10px;" valign=3D"top">
+<table class=3D"mcnImageBlock" style=3D"border-collapse: collapse; min-widt=
+h: 100%; width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody class=3D"mcnImageBlockOuter">
+<tr>
+<td class=3D"mcnImageBlockInner" style=3D"text-size-adjust: 100%; padding: =
+0px;" valign=3D"top">
+<table class=3D"mcnImageContentContainer" style=3D"border-collapse: collaps=
+e; min-width: 100%; width: 100%;" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td class=3D"mcnImageContent" style=3D"text-size-adjust: 100%; padding: 0px=
+; text-align: center;" valign=3D"top"><a style=3D"overflow-wrap: break-word=
+; text-size-adjust: 100%;" title=3D"" href=3D"http://privateexam.com.bd/" t=
+arget=3D"_blank"><img class=3D"mcnImage" style=3D"border: 0px; outline: non=
+e; text-decoration: none; vertical-align: bottom; max-width: 600px; padding=
+-bottom: 0px; display: inline !important;" src=3D"https://gallery.mailchimp=
+.com/aefc6fab3fe10969bb61cb0c5/images/7cf6ae71-76e4-4a35-b95f-e855a118cd46.=
+png" alt=3D"" width=3D"600" align=3D"middle" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"mcnDividerBlock" style=3D"border-collapse: collapse; table-=
+layout: fixed !important; min-width: 100%; width: 100%;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody class=3D"mcnDividerBlockOuter">
+<tr>
+<td class=3D"mcnDividerBlockInner" style=3D"text-size-adjust: 100%; min-wid=
+th: 100%; padding: 18px;">
+<table class=3D"mcnDividerContent" style=3D"border-collapse: collapse; min-=
+width: 100%; border-top: 2px solid #eaeaea; width: 100%;" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"text-size-adjust: 100%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"mcnTextBlock" style=3D"border-collapse: collapse; min-width=
+: 100%; width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody class=3D"mcnTextBlockOuter">
+<tr>
+<td class=3D"mcnTextBlockInner" style=3D"text-size-adjust: 100%; padding-to=
+p: 9px;" valign=3D"top">
+<table class=3D"mcnTextContentContainer" style=3D"border-collapse: collapse=
+; max-width: 100%; min-width: 100%; width: 100%;" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td class=3D"mcnTextContent" style=3D"text-size-adjust: 100%; word-break: b=
+reak-word; color: #202020; font-family: Helvetica; font-size: 15px; line-he=
+ight: 22.5px; text-align: center; padding: 0px 18px 9px;" valign=3D"top">
+<h1 style=3D"margin: 0px; padding: 0px; font-family: Helvetica; font-size: =
+30px; font-style: normal; font-weight: bold; line-height: 37.5px; letter-sp=
+acing: -1px; text-align: center; color: #e35f0b !important;">প্রা�=
+�ভেটভাবে ডিগ্রী দরকার?&nbsp;<br /><span=
+ style=3D"color: #a52a2a;"><span style=3D"font-size: 20px;">শিক্ষ=
+া জীবনে ফেল করেছেন?</span></span><br /><span =
+style=3D"font-size: 25px;">পড়ালেখায়&nbsp; ড্রপ ক�=
+��েছেন?&nbsp;</span></h1>
+<h2 style=3D"margin: 0px; padding: 0px; font-family: Helvetica; font-size: =
+20px; font-style: normal; font-weight: bold; line-height: 25px; letter-spac=
+ing: normal; text-align: center; color: #202020 !important;"><br /><span st=
+yle=3D"font-size: 17px;">প্রত্যেক মানুষের জ=
+ীবনেই একটি স্বীকৃতির প্রয়োজ=
+ন, প্রয়োজন ব্যক্তিগত মর্যাদ�=
+�র। আমাদের সমাজে সেই স্বীকৃত�=
+�� অর্জনের সর্বশ্রেষ্ঠ ধাপ হচ=
+্ছে ভালো শিক্ষাগত যোগ্যতার �=
+�কটি প্রমাণ পত্র। আরও ভালোভা�=
+��ে বললে&nbsp; একটি সার্টিফিকেট। =
+একটি সার্টিফিকেট পারে আপনার=
+ জীবনের মোড় ঘুরিয়ে দিতে ।&nbsp;<br =
+/>যেকোন ফ্রি পরামর্শ / তথ্যের �=
+��ন্য:</span><span style=3D"font-size: 18px;">&nbsp;<strong><span sty=
+le=3D"background-color: #00ffff;">01997-500500, 01780-031800</span></strong=
+></span></h2>
+<h2 style=3D"margin: 0px; padding: 0px; font-family: Helvetica; font-size: =
+20px; font-style: normal; font-weight: bold; line-height: 25px; letter-spac=
+ing: normal; text-align: center; color: #202020 !important;">&nbsp;</h2>
+<br /><span style=3D"font-size: 22px;"><span style=3D"color: #ff0000;"><str=
+ong>DIPLOMA, SSC, HSC, DEGREE, HONOURS, BBA, MBA, MASTERS.</strong></span><=
+/span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"mcnDividerBlock" style=3D"border-collapse: collapse; table-=
+layout: fixed !important; min-width: 100%; width: 100%;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody class=3D"mcnDividerBlockOuter">
+<tr>
+<td class=3D"mcnDividerBlockInner" style=3D"text-size-adjust: 100%; min-wid=
+th: 100%; padding: 18px;">
+<table class=3D"mcnDividerContent" style=3D"border-collapse: collapse; min-=
+width: 100%; border-top: 2px solid #eaeaea; width: 100%;" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"text-size-adjust: 100%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"mcnTextBlock" style=3D"border-collapse: collapse; min-width=
+: 100%; width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody class=3D"mcnTextBlockOuter">
+<tr>
+<td class=3D"mcnTextBlockInner" style=3D"text-size-adjust: 100%; padding-to=
+p: 9px;" valign=3D"top">
+<table class=3D"mcnTextContentContainer" style=3D"border-collapse: collapse=
+; max-width: 100%; min-width: 100%; width: 100%;" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td class=3D"mcnTextContent" style=3D"text-size-adjust: 100%; word-break: b=
+reak-word; color: #202020; font-family: Helvetica; font-size: 15px; line-he=
+ight: 22.5px; text-align: center; padding: 0px 18px 9px;" valign=3D"top"><i=
+mg style=3D"border: 0px; outline: none; text-decoration: none; height: auto=
+ !important;" alt=3D"" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"text-size-adjust: 100%;" align=3D"center" valign=3D"top">
+<table id=3D"templateBody" style=3D"border-collapse: collapse; background-c=
+olor: #fef9e6; border-top: 0px none; border-bottom: 0px none; width: 100%;"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"text-size-adjust: 100%;" align=3D"center" valign=3D"top">
+<table class=3D"templateContainer" style=3D"border-collapse: collapse; widt=
+h: 600px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"bodyContainer" style=3D"text-size-adjust: 100%; padding-top: 1=
+0px; padding-bottom: 10px;" valign=3D"top">
+<table class=3D"mcnTextBlock" style=3D"border-collapse: collapse; min-width=
+: 100%; width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody class=3D"mcnTextBlockOuter">
+<tr>
+<td class=3D"mcnTextBlockInner" style=3D"text-size-adjust: 100%; padding-to=
+p: 9px;" valign=3D"top">
+<table class=3D"mcnTextContentContainer" style=3D"border-collapse: collapse=
+; max-width: 300px; width: 100%;" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td class=3D"mcnTextContent" style=3D"text-size-adjust: 100%; word-break: b=
+reak-word; color: #202020; font-family: Helvetica; font-size: 15px; line-he=
+ight: 22.5px; text-align: left; padding: 0px 18px 9px;" valign=3D"top"><br =
+/>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;<img style=3D"border: 0px; outline: none;=
+ text-decoration: none; height: 250px; width: 250px; margin: 0px;" src=3D"h=
+ttps://gallery.mailchimp.com/aefc6fab3fe10969bb61cb0c5/images/341b6f12-947a=
+-466e-a38c-c804c2eec282.png" alt=3D"" width=3D"250" height=3D"250" data-fil=
+e-id=3D"1502869" />
+<h3 style=3D"margin: 0px; padding: 0px; font-family: Helvetica; font-size: =
+18px; font-style: normal; font-weight: bold; line-height: 22.5px; letter-sp=
+acing: normal; text-align: left; color: #e35f0b !important;">&nbsp;</h3>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"mcnTextContentContainer" style=3D"border-collapse: collapse=
+; max-width: 300px; width: 100%;" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td class=3D"mcnTextContent" style=3D"text-size-adjust: 100%; word-break: b=
+reak-word; color: #202020; font-family: Helvetica; font-size: 15px; line-he=
+ight: 22.5px; text-align: left; padding: 0px 18px 9px;" valign=3D"top">
+<h3 style=3D"margin: 0px; padding: 0px; font-family: Helvetica; font-size: =
+18px; font-style: normal; font-weight: bold; line-height: 22.5px; letter-sp=
+acing: normal; text-align: left; color: #e35f0b !important;"><br /><br /><s=
+pan style=3D"color: #696969;"><span style=3D"font-size: 14px;">নানা=
+ কারনে আমাদের শিক্ষা জীবন অন�=
+��ক সময় অনিশ্চিত হয়ে যায়। তাই �=
+��ড়ালেখার অপূর্ণতাকে দূর করে =
+হয়ে উঠুন পরিপূর্ণ একজন সম্ম�=
+�নিত মানুষ। জাতীয় বিশ্ববিদ�=
+�যালয়, ঢাকা বোর্ড ও উন্মুক্ত=
+ বিশ্ববিদ্যালয়ের মাধ্যমে প=
+াশের ব্যবস্হা। আপনার স্টাডি=
+ গ্যাপ এক্ষেত্রে কোন প্রতিব�=
+�্ধকতা নয়। যারা ইরেগুলার বা অ=
+নেক আগেই লেখাপড়া ছেড়েছেন, তা�=
+��াই পরীক্ষা দিতে পারবেন।&nbsp;</sp=
+an></span></h3>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"mcnTextBlock" style=3D"border-collapse: collapse; min-width=
+: 100%; width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody class=3D"mcnTextBlockOuter">
+<tr>
+<td class=3D"mcnTextBlockInner" style=3D"text-size-adjust: 100%; padding-to=
+p: 9px;" valign=3D"top">
+<table class=3D"mcnTextContentContainer" style=3D"border-collapse: collapse=
+; max-width: 100%; min-width: 100%; width: 100%;" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td class=3D"mcnTextContent" style=3D"text-size-adjust: 100%; word-break: b=
+reak-word; color: #202020; font-family: Helvetica; font-size: 15px; line-he=
+ight: 22.5px; text-align: left; padding: 0px 18px 9px;" valign=3D"top">
+<div style=3D"text-align: center;"><span style=3D"font-size: 18px;"><span s=
+tyle=3D"color: #808080;">Credit Transfer facility to any Private University=
+. You can get service from us for admission, coaching, Credit Transfer faci=
+lities etc.</span></span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"text-size-adjust: 100%;" align=3D"center" valign=3D"bottom"><i=
+mg class=3D"mcnImage" style=3D"border: 0px; outline: none; text-decoration:=
+ none; vertical-align: bottom; display: block;" src=3D"https://cdn-images.m=
+ailchimp.com/template_images/gallery/goldenfields_top.png" alt=3D"" width=
+=3D"600" height=3D"100" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"text-size-adjust: 100%; padding-bottom: 40px;" align=3D"center=
+" valign=3D"top">
+<table id=3D"templateFooter" style=3D"border-collapse: collapse; border-top=
+: 0px none; border-bottom: 0px none; width: 100%;" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"text-size-adjust: 100%;" align=3D"center" valign=3D"top">
+<table class=3D"templateContainer" style=3D"border-collapse: collapse; widt=
+h: 600px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"text-size-adjust: 100%;" align=3D"center" valign=3D"top"><img =
+class=3D"mcnImage" style=3D"border: 0px; outline: none; text-decoration: no=
+ne; vertical-align: bottom; display: block;" src=3D"https://cdn-images.mail=
+chimp.com/template_images/gallery/goldenfields_bottom.png" alt=3D"" width=
+=3D"600" height=3D"40" /></td>
+</tr>
+<tr>
+<td class=3D"footerContainer" style=3D"text-size-adjust: 100%; padding-top:=
+ 10px; padding-bottom: 10px;" valign=3D"top">
+<table class=3D"mcnTextBlock" style=3D"border-collapse: collapse; min-width=
+: 100%; width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody class=3D"mcnTextBlockOuter">
+<tr>
+<td class=3D"mcnTextBlockInner" style=3D"text-size-adjust: 100%; padding-to=
+p: 9px;" valign=3D"top">
+<table class=3D"mcnTextContentContainer" style=3D"border-collapse: collapse=
+; max-width: 100%; min-width: 100%; width: 100%;" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td class=3D"mcnTextContent" style=3D"text-size-adjust: 100%; word-break: b=
+reak-word; color: #202020; font-family: Helvetica; font-size: 10px; line-he=
+ight: 12.5px; text-align: center; padding: 0px 18px 9px;" valign=3D"top"><e=
+m>Copyright &copy; 2019,Private Exam BD.&nbsp; All rights reserved.</em><br=
+ /><a style=3D"overflow-wrap: break-word; text-size-adjust: 100%; color: #2=
+02020; font-weight: normal; text-decoration: underline;" href=3D"https://sk=
+ytechbd.com/email-marketing/" target=3D"_blank">SKY TECH BD</a>.<br /><br /=
+><span style=3D"font-size: 14px;">SSC হতে Masters পর্যন্�=
+�� যে কোন বিষয়ের সার্টিফিকেট �=
+�ল্প পরিশ্রমে এবং অল্প সময়ের<=
+br /><br />অধ্যায়নে পেতে পারেন। তা�=
+�� সুযোগকে হেলায় হারাবেন না।<br=
+ /><br />এখনই চলে আসুন যেকোন ফ্রি �=
+��রামর্শ / তথ্যের জন্য।</span><br /><br /=
+><strong>Our mailing address is:</strong><br /><br /><span style=3D"font-si=
+ze: 14px;">For Private Exam,<br /><br />Please call:</span>&nbsp;<span styl=
+e=3D"font-size: 14px;"><strong>01997-500500, 01780-031800</strong><br /><br=
+ clear=3D"none" />Email:&nbsp;<a style=3D"overflow-wrap: break-word; text-s=
+ize-adjust: 100%; color: #202020; font-weight: normal; text-decoration: und=
+erline;" href=3D"mailto:privatestudybd@gmail.com" target=3D"_blank">private=
+studybd@gmail.com</a><br /><br />http://privateexam.com.bd/</span><br /><br=
+ />Want to change how you receive these emails?<br />You can update your pr=
+eferences or&nbsp;<a style=3D"overflow-wrap: break-word; text-size-adjust: =
+100%; color: #202020; font-weight: normal; text-decoration: underline;" hre=
+f=3D"https://skytechbd.com/unsubscriber/" target=3D"_blank">unsubscribe fro=
+m this list</a><br /><br />&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+--B_ALT_5cd48968f2873--

@@ -1,0 +1,48 @@
+Return-Path: <john@zestset.website>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id SDnpNe4jrFyHDCwA+UFKaw
+	(envelope-from <john@zestset.website>)
+	for <school@s1.bitsboxhost.com>; Tue, 09 Apr 2019 10:47:42 +0600
+Return-path: <john@zestset.website>
+Envelope-to: sobuj.mozumder@schooloffreelancing.com
+Delivery-date: Tue, 09 Apr 2019 10:47:42 +0600
+Received: from zestset.website ([104.248.85.218]:32818)
+	by s1.bitsboxhost.com with esmtp (Exim 4.91)
+	(envelope-from <john@zestset.website>)
+	id 1hDifd-00C75K-OH
+	for sobuj.mozumder@schooloffreelancing.com; Tue, 09 Apr 2019 10:47:42 +0600
+Received: by zestset.website (Postfix, from userid 1000)
+	id 5E8351C5696; Tue,  9 Apr 2019 02:41:48 +0000 (UTC)
+Date: Tue, 09 Apr 2019 02:41:47 +0000
+From: john@zestset.website
+To: sobuj.mozumder@schooloffreelancing.com
+Subject: Good day!
+Message-ID: <20190409024147.JvdMiyBmV%john@zestset.website>
+User-Agent: s-nail v14.8.6
+X-Spam-Status: No, score=3.2
+X-Spam-Score: 32
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hi All, Have a Nice Day!. - John 
+ 
+ Content analysis details:   (3.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in
+                             bl.spamcop.net
+              [Blocked - see <https://www.spamcop.net/bl.shtml?104.248.85.218>]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+X-Spam-Flag: NO
+
+ Hi All, Have a Nice Day!. - John

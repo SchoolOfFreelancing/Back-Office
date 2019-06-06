@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/school/public_html
+group: school
+hascgi: 0
+homedir: /home/school
+ip: 178.63.69.247
+ipv6: ~
+owner: biswasit
+phpopenbasedirprotect: ~
+port: 8443
+secruleengineoff: ~
+serveradmin: webmaster@schooloffreelancing.com
+serveralias: mail.schooloffreelancing.com www.schooloffreelancing.com
+servername: schooloffreelancing.com
+ssl: 1
+usecanonicalname: 'Off'
+user: school
+userdirprotect: ''

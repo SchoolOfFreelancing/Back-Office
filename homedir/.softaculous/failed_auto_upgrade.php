@@ -1,0 +1,2 @@
+a:1:{s:8:"26_90093";a:5:{s:5:"insid";s:8:"26_90093";s:8:"from_ver";s:5:"5.0.3";s:6:"to_ver";s:5:"5.1.1";s:10:"error_code";i:1;s:5:"error";s:257:"Backup was not successful so aborting the upgrade process. Following are the details :
+Could not connect to database, please check the Username/Password of your database. If changed, please update the details in Softaculous installations using Edit Details.";}}

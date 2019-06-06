@@ -1,0 +1,106 @@
+Return-Path: <spilberk@hradnivinarna.cz>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id 6HwFImn+v1wJ6SQA+UFKaw
+	(envelope-from <spilberk@hradnivinarna.cz>)
+	for <school@s1.bitsboxhost.com>; Wed, 24 Apr 2019 12:12:57 +0600
+Return-path: <spilberk@hradnivinarna.cz>
+Envelope-to: hei@schooloffreelancing.com
+Delivery-date: Wed, 24 Apr 2019 12:12:57 +0600
+Received: from linode.tomashnilica.com ([178.79.182.194]:36722 helo=tomashnilica.com)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <spilberk@hradnivinarna.cz>)
+	id 1hJB9M-00A99S-14
+	for hei@schooloffreelancing.com; Wed, 24 Apr 2019 12:12:57 +0600
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by tomashnilica.com (Postfix) with ESMTP id 90BB246B69E;
+	Wed, 24 Apr 2019 08:12:15 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at tomashnilica.com
+Received: from tomashnilica.com ([127.0.0.1])
+	by localhost (tomashnilica.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id ond_r42E1es5; Wed, 24 Apr 2019 08:12:15 +0200 (CEST)
+Received: from User (unknown [175.100.50.18])
+	(Authenticated sender: spilberk@hradnivinarna.cz)
+	by tomashnilica.com (Postfix) with ESMTPA id 6918C46B69F;
+	Wed, 24 Apr 2019 08:11:58 +0200 (CEST)
+Reply-To: <infogui4@gmail.com>
+From: "Anvanith Gui"<spilberk@hradnivinarna.cz>
+Date: Wed, 24 Apr 2019 13:12:13 +0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20190424061215.90BB246B69E@tomashnilica.com>
+X-Spam-Status: Yes, score=20.5
+X-Spam-Score: 205
+X-Spam-Bar: ++++++++++++++++++++
+X-Spam-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Attention: Greetings, I am Anvanith Gui,the Manager of Foreign
+    Trade Bank of Cambodia .I am writing to request your assistance in transferring
+    the sum of $32,640.000.00 (Thirty Two million, Six Hundred And Fourty Thousand
+    [...] 
+ 
+ Content analysis details:   (20.5 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 MILLION_USD            BODY: Talks about millions of dollars
+  0.0 HK_SCAM_N2             BODY: No description available.
+  0.0 NSL_RCVD_FROM_USER     Received from User
+  1.2 MISSING_HEADERS        Missing To: header
+  1.6 SUBJ_ALL_CAPS          Subject is all capitals
+  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in
+                             digit (infogui4[at]gmail.com)
+  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in
+                             bl.spamcop.net
+               [Blocked - see <https://www.spamcop.net/bl.shtml?175.100.50.18>]
+  0.0 FROM_MISSP_XPRIO       Misspaced FROM + X-Priority
+  0.0 FROM_MISSP_MSFT        From misspaced + supposed Microsoft tool
+  0.0 FROM_MISSP_USER        From misspaced, from "User"
+  3.4 MSOE_MID_WRONG_CASE    No description available.
+  0.0 FSL_NEW_HELO_USER      Spam's using Helo and User
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  1.9 REPLYTO_WITHOUT_TO_CC  No description available.
+  2.5 KAM_NIGERIAN           Nigerian Scam and Variants
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+  0.0 MONEY_FROM_MISSP       Lots of money and misspaced From
+  0.0 FROM_MISSPACED         From: missing whitespace
+  0.0 FROM_MISSP_REPLYTO     From misspaced, has Reply-To
+  2.1 TO_NO_BRKTS_FROM_MSSP  Multiple header formatting problems
+  0.0 T_MONEY_PERCENT        X% of a lot of money for you
+  2.8 FORGED_MUA_OUTLOOK     Forged mail pretending to be from MS Outlook
+  0.0 FROM_MISSP_EH_MATCH    From misspaced, matches envelope
+  0.0 TO_NO_BRKTS_MSFT       To: lacks brackets and supposed Microsoft tool
+  0.0 MONEY_FRAUD_8          Lots of money and very many fraud phrases
+  0.0 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+X-Spam-Flag: YES
+Subject:  ***SPAM***  VERY URGENT
+
+Attention: Greetings,
+
+I am Anvanith Gui,the Manager of Foreign Trade Bank of Cambodia .I am writing to request your assistance in transferring the sum of $32,640.000.00 (Thirty Two million, Six Hundred And Fourty Thousand United States dollars)in your account,this fund belongs to deceased client of mine that shares  the same name as yours died as a result of heart-related condition on march 2005.His heart condition was duo to the death of the members of his family in the tsunami disaster on the 26 December 2004 in Sumatra Indonesia where they all lost their lives.
+
+Meanwhile,I have done personal investigations and found out that all his family members were involved in the disaster. and after bank's board of meeting concern the fund,bank has given an ultimatum and if the next of kin did not apply for the claims,the fund will be claimed by the bank.
+
+I only seek to present you as the next of kin of the fund and i will also provide the entire relevant documents that will be requested to indicate you the rightful next of kin of this legacy and FTB Bank will release the fund to you without any further delay,upon your consideration and acceptance of this offer.The total sum will be shared as follows: 50% for me and 50% for you. 
+
+I am assuring you that this transfer is 100% risk free on both sides hence you are going to follow my instruction till the fund transferred to your account. More details information will be forwarded to you to breakdown explaining comprehensively what require of you.
+
+Yours sincerely
+Mr Anvanith Gui
+Board of Director
+Foreign Trade Bank of Cambodia
+Phnom Penh.

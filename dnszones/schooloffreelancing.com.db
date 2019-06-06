@@ -1,0 +1,44 @@
+; cPanel first:11.68.0.27 (update_time):1555852848 Cpanel::ZoneFile::VERSION:1.3 hostname:s1.bitsboxhost.com latest:78.0.20
+; Zone file for schooloffreelancing.com
+$TTL 14400
+schooloffreelancing.com.	86400	IN	SOA	ns1.biswasit.com.	info.benjaminbiswas.com.	(
+						2019042100 ;Serial Number
+						3600 ;refresh
+						1800 ;retry
+						1209600 ;expire
+						86400	)
+
+schooloffreelancing.com.	86400	IN	NS	ns3.biswasit.com.
+schooloffreelancing.com.	86400	IN	NS	ns4.biswasit.com.
+schooloffreelancing.com.	86400	IN	NS	ns1.biswasit.com.
+schooloffreelancing.com.	86400	IN	NS	ns2.biswasit.com.
+
+
+schooloffreelancing.com.	14400	IN	A	178.63.69.247
+
+schooloffreelancing.com.	14400	IN	MX	0	schooloffreelancing.com.
+
+mail	14400	IN	CNAME	schooloffreelancing.com.
+www	14400	IN	CNAME	schooloffreelancing.com.
+ftp	14400	IN	A	178.63.69.247
+
+_github-challenge-schooloffreelancing	3600	IN	TXT	06155747e3
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6F7r7HMrg6My0cwFZmOg6s6dOAzd9AVlKdlWEuCSVy2h09yQFpBppkjgPIeRcUU6F3KVCQf1fAESG0SzELq1UnFpDkkBh/9fywnptAjBt4lwEG1vkiOkC72NfMUmRB7SoOD3VKWu/5KvTj9IHFPWHU5gFX/b3LLySbLdlaGaW1fdZBWjjb0nRwNcbfKbyWBTC" LbjhlWq7I35nOYgZjjODfYBE/RPme0SXKv4LSMuqurThmHz5VMNLmu8DPetvvjq9p2SDIbeOYhkCvCqAwwUfF+YayrLH6V622kMXAyJf1yQ5uRcUkJ8GTToeJnMug2Vol0evn/NKwUYGsxnX/TvBwIDAQAB\;
+schooloffreelancing.com.	14400	IN	TXT	"v=spf1 +a +mx +ip4:178.63.69.247 ~all"
+cpcalendars	14400	IN	A	178.63.69.247
+autoconfig	14400	IN	A	178.63.69.247
+cpanel	14400	IN	A	178.63.69.247
+whm	14400	IN	A	178.63.69.247
+_caldav._tcp	14400	IN	SRV	0	0	2079	s1.bitsboxhost.com.
+_caldav._tcp	14400	IN	TXT	path=/
+cpcontacts	14400	IN	A	178.63.69.247
+webdisk	14400	IN	A	178.63.69.247
+_carddavs._tcp	14400	IN	SRV	0	0	2080	s1.bitsboxhost.com.
+_carddavs._tcp	14400	IN	TXT	path=/
+_autodiscover._tcp	14400	IN	SRV	0	0	443	cpanelemaildiscovery.cpanel.net.
+_caldavs._tcp	14400	IN	SRV	0	0	2080	s1.bitsboxhost.com.
+_caldavs._tcp	14400	IN	TXT	path=/
+webmail	14400	IN	A	178.63.69.247
+autodiscover	14400	IN	A	178.63.69.247
+_carddav._tcp	14400	IN	SRV	0	0	2079	s1.bitsboxhost.com.
+_carddav._tcp	14400	IN	TXT	path=/

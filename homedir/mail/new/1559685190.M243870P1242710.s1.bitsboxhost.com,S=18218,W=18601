@@ -1,0 +1,383 @@
+Return-Path: <bounce@linkedvisitors.com>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id m1dTDkbo9lxW9hIA+UFKaw
+	(envelope-from <bounce@linkedvisitors.com>)
+	for <school@s1.bitsboxhost.com>; Wed, 05 Jun 2019 03:53:10 +0600
+Return-path: <bounce@linkedvisitors.com>
+Envelope-to: info@schooloffreelancing.com
+Delivery-date: Wed, 05 Jun 2019 03:53:10 +0600
+Received: from man.businesscontact360.com ([93.157.62.94]:47541)
+	by s1.bitsboxhost.com with esmtp (Exim 4.92)
+	(envelope-from <bounce@linkedvisitors.com>)
+	id 1hYHMi-005DBF-D6
+	for info@schooloffreelancing.com; Wed, 05 Jun 2019 03:53:10 +0600
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=linkedupdates.com;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=newsletter@linkedupdates.com;
+ bh=4dGppM7lidzY4kOx9kFbIhKw0Rk=;
+ b=eFKXluz7+HDmTFx4EKkwbUkhLvsWNWz470DF1clkJ4sEUjDP52jab45cvt3mTjpJdUQO5UmWxqK2
+   UUOaR/LxYbsKot+XzB8bqrba8iD4UPKb+en0iq+w6/zu0ruci0tNHk1B9A6D1K9Xu7St372ihNpz
+   EkUniAXPs9ZUID5ypnI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=linkedupdates.com;
+ b=iWBiXWdPrlGquxnWFXsxoNNhd9h/ALAQ8iNRcZR1dmAsYyN8KG49yy497TCTDqUT+hlkpuJuQ3do
+   PEYlfrbZyC+RrvnukeOB2yicpFx2SMrA+0qXB+Ccl9xMgt6cJbm8ne2aWeNp40qvr9nBrNLGgmrR
+   2eNqqq0iszT8nAAeq6o=;
+Message-ID: <a5f3419898c243c5ca464c7700f7dc24@linkedvisitors.com>
+Date: Tue, 04 Jun 2019 20:58:39 +0000
+From: "Rasmus Refer, Fastbase Inc." <newsletter@linkedupdates.com>
+Reply-To: "Rasmus Refer, Fastbase Inc." <newsletter@linkedstatistics.com>
+To: "info@schooloffreelancing.com" <info@schooloffreelancing.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1559681919_e26db54d93e62002119dfdb3b7f998af_=_"
+X-Sender: bounce@linkedvisitors.com
+X-Report-Abuse: Please report abuse for this campaign here:
+ http://ary.wikiinsight.com/index.php/campaigns/nq639laww076d/report-abuse/rk622t8vqed36/hn021j3b1o497
+X-Receiver: info@schooloffreelancing.com
+X-Fxyn-Tracking-Did: 1
+X-Fxyn-Subscriber-Uid: hn021j3b1o497
+X-Fxyn-Mailer: SwiftMailer - 5.4.x
+X-Fxyn-EBS: http://ary.wikiinsight.com/index.php/lists/block-address
+X-Fxyn-Delivery-Sid: 15
+X-Fxyn-Customer-Uid: vd904vhnbjcc7
+X-Fxyn-Customer-Gid: 0
+X-Fxyn-Campaign-Uid: nq639laww076d
+Precedence: bulk
+List-Unsubscribe: <http://ary.wikiinsight.com/index.php/lists/rk622t8vqed36/unsubscribe/hn021j3b1o497/nq639laww076d/unsubscribe-direct?source=email-client-unsubscribe-button>,
+ <mailto:newsletter@linkedstatistics.com?subject=Campaign-Uid:nq639laww076d /
+ Subscriber-Uid:hn021j3b1o497 - Unsubscribe request&body=Please unsubscribe
+ me!>
+List-Id: rk622t8vqed36 <google_analytic_UN_1>
+Feedback-ID: nq639laww076d:hn021j3b1o497:rk622t8vqed36:vd904vhnbjcc7
+X-Spam-Status: Yes, score=8.8
+X-Spam-Score: 88
+X-Spam-Bar: ++++++++
+X-Spam-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Web Version http://ary.wikiinsight.com/index.php/campaigns/nq639laww076d/track-url/hn021j3b1o497/fd751f99d28087ae5e7b1c99a0b3024d33c60eec
+    Invitation: New Google Ads Click Identifier   > Good morning, [...] 
+ Content analysis details:   (8.8 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: linkedupdates.com]
+  1.9 URIBL_ABUSE_SURBL      Contains an URL listed in the ABUSE SURBL
+                             blocklist
+                             [URIs: linkedupdates.com]
+  1.6 REMOVE_BEFORE_LINK     BODY: Removal phrase right before a link
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+ -1.0 MAILING_LIST_MULTI     Multiple indicators imply a widely-seen list
+                             manager
+  0.0 DIGEST_MULTIPLE        Message hits more than one network digest check
+  0.2 KAM_LOTSOFHASH         Emails with lots of hash-like gibberish
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Google Analytics Invitation: New Google Ads Click Identifier
+
+
+--_=_swift_v4_1559681919_e26db54d93e62002119dfdb3b7f998af_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Web Version
+http://ary.wikiinsight.com/index.php/campaigns/nq639laww076d/=
+track-url/hn021j3b1o497/fd751f99d28087ae5e7b1c99a0b3024d33c60eec
+Invitati=
+on:
+New Google Ads Click Identifier
+=C2=A0
+> Good morning, =C2=A0 We=
+=E2=80=99re reaching out today with the invitation to
+> try the new Googl=
+e Ads Click Identifier powered by Fastbase. =C2=A0
+> Google Analytics and=
+ Google Ads' customers can now access detailed
+> information about the bu=
+sinesses that clicked through their Ads'
+> campaigns. With the new Click =
+Identifier tool, companies that once
+> struggled with identifying their A=
+dwords' leads are now be able to
+> view the businesses that clicked throu=
+gh their ads within the past
+> twelve months. =C2=A0 Learn more about the=
+ new Google Ads Click
+> Identifier
+>
+http://ary.wikiinsight.com/index=
+.php/campaigns/nq639laww076d/track-url/hn021j3b1o497/d4cabe555c566d78f2f2e6=
+4a905b0c79c4002105
+> or sign in with Google Analytics
+>
+http://ary.wi=
+kiinsight.com/index.php/campaigns/nq639laww076d/track-url/hn021j3b1o497/3ae=
+dd72c92a7b0a2fad6b5e8420cda6c58ff5d1c.
+>
+>
+> Sign in with Google Anal=
+ytics
+>
+http://ary.wikiinsight.com/index.php/campaigns/nq639laww076d/tr=
+ack-url/hn021j3b1o497/c5f360722b80c001fbe4fb02e6d63f4a5f062037
+>
+>
+> =
+=C2=A0
+=C2=A0 Unsubscribe here
+http://ary.wikiinsight.com/index.php/cam=
+paigns/nq639laww076d/track-url/hn021j3b1o497/fe79650fb3c95ba166bf2f2dcb5346=
+181acdfdb2
+If you want to stop further correspondence with FastBase Inc. =
+| Abuse
+Report
+http://ary.wikiinsight.com/index.php/campaigns/nq639laww=
+076d/track-url/hn021j3b1o497/fb9da61af3bfb968f5c4881a0fe4e8bd7cc1788f
+=
+=C2=A0
+
+--_=_swift_v4_1559681919_e26db54d93e62002119dfdb3b7f998af_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head><meta charset=3D"utf-8" /><meta http-equiv=3D"X-UA-Compatible" conten=
+t=3D"IE=3Dedge">
+=09<title>Google Analytics Invitation: New Google Ads Click Identifier</tit=
+le>
+=09<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">
+=09<link href=3D"https://fonts.googleapis.com/css?family=3DOpen+Sans" rel=
+=3D"stylesheet" />
+</head>
+<body>
+<center><a href=3D"http://ary.wikiinsight.com/index.php/campaigns/nq639laww=
+076d/track-url/hn021j3b1o497/fd751f99d28087ae5e7b1c99a0b3024d33c60eec" styl=
+e=3D"border: none; color: #666666; text-decoration: underline; font-family:=
+ Arial,Helvetica,sans-serif; font-size: 13px; text-align: center; font-weig=
+ht: bold;">Web Version</a></center>
+
+<div bgcolor=3D"white" marginheight=3D"0" marginwidth=3D"0" style=3D"margin=
+: 0; padding: 0; font-family: Avenir Next,Helvetica,Arial,sans-serif; font-=
+size: 14px; height: 100%; width: 100%; min-width: 100%;">
+<table bgcolor=3D"white" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center" valign=3D"top">
+=09=09=09<table border=3D"0" cellpadding=3D"20" cellspacing=3D"0" style=3D"=
+width: 600px;" width=3D"600">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" style=3D"width: 100%; min-width: 100=
+%;" valign=3D"top" width=3D"100%">
+=09=09=09=09=09=09<div style=3D"box-shadow: 0 -1px 5px #999;">
+=09=09=09=09=09=09<table bgcolor=3D"white" border=3D"0" cellpadding=3D"12" =
+cellspacing=3D"0" style=3D"padding-top: 0px;width: 100%;min-width: 100%;" w=
+idth=3D"100%">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"left" style=3D"width: 100%;min-widt=
+h: 100%;background-color:rgb(71,140,248);color: #ffffff; height: 68px; padd=
+ing-left: 30px;" valign=3D"middle" width=3D"100%"><span style=3D"font-size:=
+ 24px;font-weight: 300;"><!-- <img src=3D"https://www.intrasource.co.uk/upl=
+oads/services/icons/icon-sage.png" alt=3D"Sage"
+                                                                     class=
+=3D"CToWUd" width=3D"80" /> --> </span>
+
+=09=09=09=09=09=09=09=09=09<h4 style=3D"font-family: 'Open Sans', sans-seri=
+f;color: white;text-transform: capitalize;"><span style=3D"font-size: 24px;=
+font-weight: 300;">Invitation:</span></h4>
+=09=09=09=09=09=09=09=09=09<span style=3D"font-size: 24px;font-weight: 300;=
+"> </span>
+
+=09=09=09=09=09=09=09=09=09<h3 style=3D"font-family: 'Open Sans', sans-seri=
+f;color: white;text-transform: capitalize;"><span style=3D"font-size: 24px;=
+font-weight: 300;">New Google Ads Click Identifier</span></h3>
+=09=09=09=09=09=09=09=09=09<span style=3D"font-size: 24px;font-weight: 300;=
+"> <!-- <center style=3D"color: #425b76;border-top: 1px solid #ccc; width: =
+80%;">
+                                                                </center> -=
+-> </span></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"width: 100%;min-width: 100%;/* box-shadow: 0 -1px 5px #999; */" wid=
+th=3D"100%">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D"top">
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valign=3D"middle">
+=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"/* border: 1px solid #ccc=
+; */padding: 20px 20px 0 20px;border-radius: 4px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"text-align: center;">=
+=C2=A0</div>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<blockquote style=3D"background: #fffff=
+;padding: 16px;font-weight: normal;color: #747f6e;width: 458px;display: blo=
+ck;text-align: left;margin: -1em auto 1em auto;line-height: 1.6;">
+=09=09=09=09=09=09=09=09=09=09=09=09<center style=3D"text-align: left; colo=
+r: #425b76;">Good morning,</center>
+=09=09=09=09=09=09=09=09=09=09=09=09=C2=A0
+
+=09=09=09=09=09=09=09=09=09=09=09=09<center style=3D"text-align: justify; c=
+olor: #425b76;padding-top: 10px;"><b>We=E2=80=99re reaching out today with =
+the invitation to try the new Google Ads Click Identifier powered by Fastba=
+se.</b></center>
+=09=09=09=09=09=09=09=09=09=09=09=09=C2=A0
+
+=09=09=09=09=09=09=09=09=09=09=09=09<center style=3D"text-align: justify; c=
+olor: #425b76;">Google Analytics and Google Ads' customers can now access d=
+etailed information about the businesses that clicked through their Ads' ca=
+mpaigns. With the new Click Identifier tool, companies that once struggled =
+with identifying their Adwords' leads are now be able to view the businesse=
+s that clicked through their ads within the past twelve months.</center>
+=09=09=09=09=09=09=09=09=09=09=09=09=C2=A0
+
+=09=09=09=09=09=09=09=09=09=09=09=09<center style=3D"text-align: justify; c=
+olor: #425b76;">Learn more about the new <a href=3D"http://ary.wikiinsight.=
+com/index.php/campaigns/nq639laww076d/track-url/hn021j3b1o497/d4cabe555c566=
+d78f2f2e64a905b0c79c4002105" target=3D"_blank">Google Ads Click Identifier<=
+/a> or <a href=3D"http://ary.wikiinsight.com/index.php/campaigns/nq639laww0=
+76d/track-url/hn021j3b1o497/3aedd72c92a7b0a2fad6b5e8420cda6c58ff5d1c">sign =
+in with Google Analytics</a>.</center>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" style=3D"border: none; border-radius: 3px=
+; margin: 0 75px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09<!-- <center style=3D"color: #425b76;bo=
+rder-top: 1px solid #ccc;margin-top: 30px;">
+                                                                           =
+         </center> -->
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"center" cellpadding=3D"=
+0" cellspacing=3D"0" style=3D"border: none; border-radius: 3px;margin: 20px=
+ 75px 0 130px;background: linear-gradient(to right, #c2f5d0 0%, #c9edfb 100=
+%);">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" style=3D"bo=
+x-shadow: 0 -1px 5px #999;color: #ffffff;font-size: 16px;margin-top: 40px;p=
+adding: 12px 0; background: rgb(71,140,248); font-weight: 700;border-radius=
+: 4px;" valign=3D"middle"><span style=3D"padding: 0 16px;color: #ffffff;tex=
+t-decoration: none;"><a href=3D"http://ary.wikiinsight.com/index.php/campai=
+gns/nq639laww076d/track-url/hn021j3b1o497/c5f360722b80c001fbe4fb02e6d63f4a5=
+f062037" style=3D"color: #ffffff; text-decoration: none;">Sign in with Goog=
+le Analytics</a> </span></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09<!-- <center style=3D"color: #425b76;bo=
+rder-top: 1px solid #ccc;margin-top: 0px;"> --><!-- <p style=3D"font-size: =
+10px;margin-top: 40px;">
+                                                                           =
+             <span>This offering is only open to non-US investors and certa=
+in US investors that qualify as accredited investors under Regulation D, Ru=
+le 501,=20
+                                                                           =
+                 and this offering is being made on a good-faith reliance o=
+n Regulation D Rule 506(c) and exemptions for offering securities to non-US=
+ investors.</a>
+                                                                           =
+             </span>
+                                                                           =
+         </p> -->
+
+=09=09=09=09=09=09=09=09=09=09=09=09<p>=C2=A0</p>
+=09=09=09=09=09=09=09=09=09=09=09=09</blockquote>
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09<tbody><!-- <tr>
+                                                        <td style=3D"paddin=
+g:16px 30px" valign=3D"middle" align=3D"center">
+                                                            <u></u>
+                                                            <a href=3D"" ta=
+rget=3D"_blank"></a>
+                                                            <br>
+                                                            <u></u>
+                                                        </td>
+                                                    </tr> --><!-- <tr style=
+=3D"height: 68px;" bgcolor=3D"white">
+                                                        <td style=3D"width:=
+ 100%;min-width: 100%;color: #666666;height: 68px;"
+                                                            align=3D"center=
+" valign=3D"middle" width=3D"100%">
+                                                            <span>
+                                                                <strong>717=
+1 Southwest Parkway Bldg 400 Austin, Texas 78735</strong>
+                                                                <br/>
+                                                            </span>
+                                                        </td>
+                                                    </tr> -->
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</div>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<center>
+<p align=3D"left" style=3D"font-size:12px; font-family:Arial,sans-serif;  c=
+olor:#707070; margin:1em 0px; line-height:20px;">=C2=A0</p>
+
+<center><a data-unsubtag=3D"_UNSUBSCRIBE_URL_" href=3D"http://ary.wikiinsig=
+ht.com/index.php/campaigns/nq639laww076d/track-url/hn021j3b1o497/fe79650fb3=
+c95ba166bf2f2dcb5346181acdfdb2" style=3D"color:#4285f4;font-family:Arial,sa=
+ns-serif;">Unsubscribe here</a> If you want to stop further correspondence =
+with FastBase Inc. | <a href=3D"http://ary.wikiinsight.com/index.php/campai=
+gns/nq639laww076d/track-url/hn021j3b1o497/fb9da61af3bfb968f5c4881a0fe4e8bd7=
+cc1788f" style=3D"border: none; color: #666666; text-decoration: underline;=
+ font-family: Arial,Helvetica,sans-serif; font-size: 13px; text-align: cent=
+er; font-weight: bold;">Abuse Report</a></center>
+
+<p>=C2=A0</p>
+</center>
+</div>
+<img width=3D"1" height=3D"1" src=3D"http://ary.wikiinsight.com/index.php/c=
+ampaigns/nq639laww076d/track-opening/hn021j3b1o497" alt=3D"" />
+</body>
+</html>
+
+--_=_swift_v4_1559681919_e26db54d93e62002119dfdb3b7f998af_=_--
+

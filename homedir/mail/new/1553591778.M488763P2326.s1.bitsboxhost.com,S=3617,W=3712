@@ -1,0 +1,95 @@
+Return-Path: <mtebben@hcinet.net>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id yPOwHOLtmVwWCQAA+UFKaw
+	(envelope-from <mtebben@hcinet.net>)
+	for <school@s1.bitsboxhost.com>; Tue, 26 Mar 2019 15:16:18 +0600
+Return-path: <mtebben@hcinet.net>
+Envelope-to: hei@schooloffreelancing.com
+Delivery-date: Tue, 26 Mar 2019 15:16:18 +0600
+Received: from omr-relay-3.cniteam.com ([209.143.0.83]:47814)
+	by s1.bitsboxhost.com with esmtp (Exim 4.91)
+	(envelope-from <mtebben@hcinet.net>)
+	id 1h8iBs-0000Sh-J2
+	for hei@schooloffreelancing.com; Tue, 26 Mar 2019 15:16:17 +0600
+Received: from panaceus-01.cniteam.com (dakus.cniteam.com [209.143.0.76])
+	by omr-relay-3.cniteam.com (8.14.4/8.14.4) with ESMTP id x2Q9BDtM021697;
+	Tue, 26 Mar 2019 05:11:14 -0400
+Received: from panaceus-01.cniteam.com (unknown [192.168.29.41])
+	by panaceus-01.cniteam.com (Postfix) with ESMTP id CF36F3B5;
+	Tue, 26 Mar 2019 05:11:13 -0400 (EDT)
+X-MailScanner-Envelope-From: mtebben@hcinet.net
+X-Scan-MailScanner-SpamScore: low
+X-Scan-MailScanner-SpamCheck: not spam, SpamAssassin (not cached,
+	score=2.022, required 6, ALL_TRUSTED -1.00, CNI_SPOOFED_HCINET 1.00,
+	HTML_MESSAGE 0.00, MISSING_HEADERS 1.02, override_iw_trust 1.00)
+X-Scan-MailScanner: None
+Received: from iw-mail.cniteam.com (iw-mail-02.cniteam-internal.com [10.1.1.188])
+	by panaceus-01.cniteam.com (Postfix) with ESMTPS id 8148D3B5;
+	Tue, 26 Mar 2019 05:11:13 -0400 (EDT)
+Received: from hcinet.net [94.46.13.169] ([127.0.0.1])
+        by iw-mail.cniteam.com (12.1.1 build 5 RHEL7 x64) with ASMTP (SSL) id 02201903260511135352;
+        Tue, 26 Mar 2019 05:11:13 -0400
+Date: Tue, 26 Mar 2019 02:11:09 -0700
+From: "Tebben Enterprises" <mtebben@hcinet.net>
+Subject: Re
+Message-ID: <729a87b34e19e6c1aeb24eeaccddc025@hcinet.net>
+X-Mailer: IceWarp Mailer 12.1.1.5 RHEL7 x64-Desktop
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_3e0393abaa50c58b66065f2a38a6f689"
+X-Sender-ID: mtebben@hcinet.net
+X-Sender-Address: mtebben@hcinet.net
+X-IW-SC: 0.00
+X-Spam-Status: No, score=1.2
+X-Spam-Score: 12
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:   I have a business Proposal for you, respond if Interested.
+    Dr Kouri I have a business Proposal for you, respond if Interested. 
+ 
+ Content analysis details:   (1.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.2 MISSING_HEADERS        Missing To: header
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 XPRIO_SHORT_SUBJ       Has X-Priority header + short subject
+X-Spam-Flag: NO
+
+
+--b1_3e0393abaa50c58b66065f2a38a6f689
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+=C2=A0I have a business Proposal for you, respond if Interested.
+
+
+Dr Kouri
+
+
+--b1_3e0393abaa50c58b66065f2a38a6f689
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head><title></title></head>
+<body><div class=3D"iw_mail" dir=3D"ltr">
+<div><br></div>
+<div class=3D"iw-signature">&nbsp;I have a business Proposal for you, respo=
+nd if Interested.<br><br><br>Dr Kouri</div>
+</div></body>
+</html>
+
+
+--b1_3e0393abaa50c58b66065f2a38a6f689--
+

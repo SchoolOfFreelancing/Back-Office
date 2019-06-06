@@ -1,0 +1,10 @@
+2018-09-26T20:35:12Z: Processing 00000000/5babed8046ea3c...
+2018-09-26T20:35:12Z:   doing Cpanel::UserTasks::VersionControl::create
+2018-09-26T20:35:15Z: Queue empty, terminating
+2018-11-03T21:01:37Z: Processing 00000000/5bde0cb126ae2d...
+2018-11-03T21:01:37Z:   doing Cpanel::UserTasks::VersionControl::create
+2018-11-03T21:01:38Z:   FAILURE: (XID nkqmj6) “/usr/local/cpanel/3rdparty/bin/git” reported error code “128” when it ended: 
+2018-11-03T21:01:38Z: Queue empty, terminating
+2018-11-04T12:32:00Z: Processing 00000000/5bdee6bf6875d7...
+2018-11-04T12:32:01Z:   doing Cpanel::UserTasks::VersionControl::create
+2018-11-04T12:32:09Z: Queue empty, terminating

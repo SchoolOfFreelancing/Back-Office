@@ -1,0 +1,85 @@
+Return-Path: <bounces+848413-8d4a-hei=schooloffreelancing.com@sgmail.github.com>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id 2sOfEgU3v1yLUBkA+UFKaw
+	(envelope-from <bounces+848413-8d4a-hei=schooloffreelancing.com@sgmail.github.com>)
+	for <school@s1.bitsboxhost.com>; Tue, 23 Apr 2019 22:02:13 +0600
+Return-path: <bounces+848413-8d4a-hei=schooloffreelancing.com@sgmail.github.com>
+Envelope-to: hei@schooloffreelancing.com
+Delivery-date: Tue, 23 Apr 2019 22:02:13 +0600
+Received: from o10.sgmail.github.com ([167.89.101.201]:17228)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <bounces+848413-8d4a-hei=schooloffreelancing.com@sgmail.github.com>)
+	id 1hIxs3-006xRl-Dx
+	for hei@schooloffreelancing.com; Tue, 23 Apr 2019 22:02:13 +0600
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=github.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s20150108; bh=24G1Ze7aXQVCWpoeCpp2fdzjWTU=; b=XSUsP8qPK5VHRtUq
+	kmseXPPTHHmpE+qH5+mGjvPNCbOHcY9wMdx1BCkvHcq6+ONtaTVAlozr9PsYQ0Ix
+	yA6Xn70OIt2bGgjl8FmQuVEH6bt00XT2au8cBNJgpSrdzeF3Ugm1UVDllNq9DgFD
+	l7eCEWakB1Ck/wW893KsfEdaoq0=
+Received: by filter1566p1mdw1.sendgrid.net with SMTP id filter1566p1mdw1-18711-5CBF36D8-4F
+        2019-04-23 16:01:28.466125922 +0000 UTC m=+72667.101949428
+Received: from github-lowworker-c7d2ff2.cp1-iad.github.net (unknown [192.30.252.32])
+	by ismtpd0044p1mdw1.sendgrid.net (SG) with ESMTP id 7VMEdcVpR6u18JnmId-YZg
+	Tue, 23 Apr 2019 16:01:28.433 +0000 (UTC)
+Received: from github.com (localhost [127.0.0.1])
+	by github-lowworker-c7d2ff2.cp1-iad.github.net (Postfix) with ESMTP id 4DF744C052E;
+	Tue, 23 Apr 2019 09:01:28 -0700 (PDT)
+Date: Tue, 23 Apr 2019 16:01:28 +0000 (UTC)
+From: GitHub <noreply@github.com>
+To: Masum Chowdhury <schooloffreelancing@gmail.com>
+Message-ID: <5cbf36d84d6c5_3ccf3f8c09ecd964276869@github-lowworker-c7d2ff2.cp1-iad.github.net.mail>
+Subject: [GitHub] Your password has changed
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Auto-Response-Suppress: All
+categories: account-security,password-changed
+X-SG-EID: vx6gdHZeAg5cxZAVRnT3VaNsc9XoROGpz1G7AJii5WJm3xFykuVx8rfXnPeusHEvoZAfWOsJtg0znK
+ hShkBd2RfkN6hdYTJefOTwzYp8ckacdaUmv6+EV91FyWnd8CDKYYMObP1oNv909dP4oGedJZZC6h8f
+ Iae53m3lNzMx7KZ3rcewKOmhNtCqGMPytiTxR8jUfuuDimGuhXHYRT0z7A==
+X-SG-ID: HjuyJHjWedrv+ZABmVoKqJUGcbnIrpG8Dl8TZw63o/ttfsKFiCNQbipH148DcHHLyQLi2AaIA6cVxk
+ aCikgwJw==
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hello saydulk, We wanted to let you know that your GitHub
+   password has changed. If you did not perform this action, you can recover
+   access by entering schooloffreelancing@gmail.com into the form at https://github.com/password_reset
+    
+ 
+ Content analysis details:   (-0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+X-Spam-Flag: NO
+
+Hello saydulk,
+
+We wanted to let you know that your GitHub password has changed.
+
+If you did not perform this action, you can recover access by entering schooloffreelancing@gmail.com into the form at https://github.com/password_reset
+
+To see this and other security events for your account, visit https://github.com/settings/security
+
+If you run into problems, please contact support by visiting https://github.com/contact
+
+Please do not reply to this email with your password. We will never ask for your password, and we strongly discourage you from sharing it with anyone.

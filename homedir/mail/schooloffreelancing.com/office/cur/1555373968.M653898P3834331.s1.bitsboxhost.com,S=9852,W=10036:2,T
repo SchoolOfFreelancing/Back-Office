@@ -1,0 +1,184 @@
+Return-Path: <schooloffreelancing@gmail.com>
+Delivered-To: office@schooloffreelancing.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id q7LcEJAftVzbgToA+UFKaw
+	(envelope-from <schooloffreelancing@gmail.com>)
+	for <office@schooloffreelancing.com>; Tue, 16 Apr 2019 06:19:28 +0600
+Return-path: <schooloffreelancing@gmail.com>
+Envelope-to: office@schooloffreelancing.com
+Delivery-date: Tue, 16 Apr 2019 06:19:28 +0600
+Received: from mail-pg1-f196.google.com ([209.85.215.196]:38991)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <schooloffreelancing@gmail.com>)
+	id 1hGBor-00G5KC-Jh
+	for office@schooloffreelancing.com; Tue, 16 Apr 2019 06:19:27 +0600
+Received: by mail-pg1-f196.google.com with SMTP id k3so9391533pga.6
+        for <office@schooloffreelancing.com>; Mon, 15 Apr 2019 17:19:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to
+         :cc;
+        bh=eOzokswzNKPdpa/GYh66CDremoe3UAfHNptk3QiYJ58=;
+        b=K8IVASuZy1tOUTIYG7j9TQnJ8HEe3vOoPtEqrb0WD1qpk/VgbOFvBm95K+gt1otA+N
+         KZ2EtdQYLJ0VmzIQHUm6W7GVtwTjTz6/P8S11kVUBYgOvWtkMWhvsvHVFf/1xRlX7CsO
+         YeIf09ediXK/l+dNw+WMoRERDoVIkcsV419tYjj5wX6UMhcveA5CdlM5cgUzh8dhvKHe
+         0dyITWg+EB0NkAeBr7QGCz8ABxUmCy7k7ZEt7KW6RvmVqdSxasS49C97I4pH+5PqV5nk
+         TN/1YMT9QeQoIZaofIv8Eeihq12MHrlms0LlradjuVpAMqtzAFWDl9zC3o2Q8R25hchK
+         5HOA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to:cc;
+        bh=eOzokswzNKPdpa/GYh66CDremoe3UAfHNptk3QiYJ58=;
+        b=pP2LI4J1J0DGkyrvnnFcMyEAg9zS/GO+jnSKs9EZfy8tt9p5+w3fp3oyuta5czNLlD
+         ldeKLUj85Os9tgRBMxXN7sM16fujB6Ez8rJH4ZnYwGydAP+CtqaxTND34PBICHuLmt/q
+         YKig5IjU3ZeRrJAEGaS+7ExxOgrt6VrNTgmClGMr1Gch0OeyCDfHDfmekB7EWdwRzqQI
+         lX+Ep/BUj/ZHPUOP1ZjG0REAncnzf0frOmssRotkCi1XBjuEH9fCHB2CJ3TXlv/Vwyno
+         3G88egXLrk/RZxumYdZUpepCW2jBCoAS1b1I93Zcp3c6nih1vu8CBW9ZtQOLsSMYO6XB
+         BQOQ==
+X-Gm-Message-State: APjAAAVDZ5TNgELNFP8bAnjL9pf+Pb++/oUwOIud6m54OhadFOuxGfbW
+	FXZqMHABbeha7diNsKdv6R/8zDLOdIxE5U4xQwI=
+X-Google-Smtp-Source: APXvYqzGSf0LEbGfiIgR9v0Wh8qrVQFE8iEyDrq1O5CISblQV7ZZSB7+GpFyLr+RUXWGyXcub9KobRHI6pwyqesfdgs=
+X-Received: by 2002:a63:2158:: with SMTP id s24mr26832962pgm.156.1555373923615;
+ Mon, 15 Apr 2019 17:18:43 -0700 (PDT)
+MIME-Version: 1.0
+References: <CADviXUDGG4XP8tdSLKr7TbynXsLSGRD0X_5ooPK9Ld323QvuTA@mail.gmail.com>
+In-Reply-To: <CADviXUDGG4XP8tdSLKr7TbynXsLSGRD0X_5ooPK9Ld323QvuTA@mail.gmail.com>
+From: School Of Freelancing <schooloffreelancing@gmail.com>
+Date: Tue, 16 Apr 2019 06:18:32 +0600
+Message-ID: <CACzGBZ7U68oYPaKCsqNf1M2Ru=MyoxVYLDfh2QbR9jS28kvjTg@mail.gmail.com>
+Subject: Re: Message for Saydul K
+To: Sunil <sundavu@gmail.com>, aaccou52@gmail.com
+Cc: office@schooloffreelancing.com
+Content-Type: multipart/alternative; boundary="00000000000035ca6805869ab6c7"
+X-Spam-Status: No, score=0.8
+X-Spam-Score: 8
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hello Sunil contact with aaccou52@gmail.com for reach out
+   Saydul K ( https://www.freelancer.com/u/LinuxGun) On Tue, Apr 16, 2019 at
+   2:33 AM Sunil wrote: > Hello, > I am trying to reach Saydul K ( > https://www.freelancer.com/u/LinuxGun).
+    My name is Sunil and I am looking > for someone who has worked on OSQuery.
+    I came across your profile on > Freelanc [...] 
+ 
+ Content analysis details:   (0.8 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: freelancer.com]
+  0.0 RCVD_IN_MSPIKE_H3      RBL: Good reputation (+3)
+                             [209.85.215.196 listed in wl.mailspike.net]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             (schooloffreelancing[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 RCVD_IN_MSPIKE_WL      Mailspike good senders
+  1.0 FREEMAIL_REPLY         From and body contain different freemails
+X-Spam-Flag: NO
+
+--00000000000035ca6805869ab6c7
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello Sunil contact with aaccou52@gmail.com for reach out Saydul K (
+https://www.freelancer.com/u/LinuxGun)
+
+On Tue, Apr 16, 2019 at 2:33 AM Sunil <sundavu@gmail.com> wrote:
+
+> Hello,
+>              I am trying to reach Saydul K (
+> https://www.freelancer.com/u/LinuxGun). My name is Sunil and I am looking
+> for someone who has worked on OSQuery. I came across your profile on
+> Freelancer but was unable to send a message via it. I wanted to know if y=
+ou
+> could provide some details about OSQuery experience. Kindly let me know a=
+s
+> soon as possible.
+>
+> Thanks
+> Sunil
+>
+
+
+--=20
+
+  Thanks & Regards
+
+
+*Masum Chowdhury*School Of Freelancing
+<https://www.facebook.com/SchoolOfFreelancing/?ref=3Dbr_rs>
+Founder & Chief Digital Information Officer (CDIO)
+p:+8801748973769 | e:queries@schooloffreelancing.com
+<netadmin@schooloffreelancing.com> | w:www.schooloffreelancing.com |
+a:23=C2=B027'29.0"N
+91=C2=B011'15.8"E
+
+--00000000000035ca6805869ab6c7
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:verdana,=
+sans-serif">Hello Sunil contact with <a href=3D"mailto:aaccou52@gmail.com">=
+aaccou52@gmail.com</a> for reach out=C2=A0<span style=3D"font-family:Arial,=
+Helvetica,sans-serif;color:rgb(0,0,0)">Saydul K (</span><a href=3D"https://=
+www.freelancer.com/u/LinuxGun" target=3D"_blank" style=3D"font-family:Arial=
+,Helvetica,sans-serif">https://www.freelancer.com/u/LinuxGun</a><span style=
+=3D"font-family:Arial,Helvetica,sans-serif;color:rgb(0,0,0)">)</span></div>=
+</div><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_attr">=
+On Tue, Apr 16, 2019 at 2:33 AM Sunil &lt;<a href=3D"mailto:sundavu@gmail.c=
+om">sundavu@gmail.com</a>&gt; wrote:<br></div><blockquote class=3D"gmail_qu=
+ote" style=3D"margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,20=
+4);padding-left:1ex"><div dir=3D"ltr">Hello,<div>=C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0I am trying to reach Saydul K (<a href=3D"https://w=
+ww.freelancer.com/u/LinuxGun" target=3D"_blank">https://www.freelancer.com/=
+u/LinuxGun</a>). My name is Sunil and I am looking for someone who has work=
+ed on OSQuery. I came across your profile on Freelancer but was unable to s=
+end a message via it. I wanted to know if you could provide some details ab=
+out OSQuery experience. Kindly let me know as soon as possible.</div><div><=
+br></div><div>Thanks</div><div>Sunil</div></div>
+</blockquote></div><br clear=3D"all"><div><br></div>-- <br><div dir=3D"ltr"=
+ class=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div styl=
+e=3D"color:rgb(0,0,0);font-size:12.8px"><br>=C2=A0 Thanks &amp; Regards<br>=
+</div><div style=3D"color:rgb(0,0,0);font-size:12.8px"><br></div><div style=
+=3D"color:rgb(0,0,0);font-size:12.8px"><table style=3D"font-size:small;colo=
+r:rgb(34,34,34);width:470px" cellspacing=3D"0" cellpadding=3D"0" border=3D"=
+0" width=3D"470"><tbody><tr valign=3D"top"><td style=3D"font-family:Arial;f=
+ont-stretch:normal;font-size:14px;color:rgb(100,100,100);padding-left:10px"=
+><div><b>Masum Chowdhury<br></b><span><span><span><a href=3D"https://www.fa=
+cebook.com/SchoolOfFreelancing/?ref=3Dbr_rs" target=3D"_blank">School Of  F=
+reelancing</a><br></span></span>Founder &amp; Chief Digital Information Off=
+icer (CDIO)<br></span></div><div style=3D"color:rgb(141,141,141);font-size:=
+13px;padding:5px 0px"><span style=3D"color:rgb(0,161,230);display:inline-bl=
+ock">p:</span><a href=3D"tel:+8801748973769" style=3D"color:rgb(141,141,141=
+);text-decoration:none" target=3D"_blank">+8801748973769</a>=C2=A0|=C2=A0<s=
+pan style=3D"display:inline-block"><span style=3D"color:rgb(0,161,230)">e:<=
+/span><a href=3D"mailto:netadmin@schooloffreelancing.com" style=3D"color:rg=
+b(141,141,141);text-decoration:none" target=3D"_blank">queries@schooloffree=
+lancing.com</a></span> |=C2=A0<span style=3D"white-space:nowrap;display:inl=
+ine-block"><span style=3D"color:rgb(0,161,230)">w:</span><a href=3D"http://=
+www.schooloffreelancing.com/" style=3D"color:rgb(141,141,141);text-decorati=
+on:none" target=3D"_blank">www.schooloffreelancing.com</a></span>=C2=A0|=C2=
+=A0<span style=3D"color:rgb(0,161,230)">a:</span>23=C2=B027&#39;29.0&quot;N=
+ 91=C2=B011&#39;15.8&quot;E</div><div><br></div></td></tr></tbody></table><=
+/div></div></div></div></div>
+
+--00000000000035ca6805869ab6c7--

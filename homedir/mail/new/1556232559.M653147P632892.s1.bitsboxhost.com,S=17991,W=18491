@@ -1,0 +1,500 @@
+Return-Path: <bounce-5360_HTML-89039152-8036-100008114-526029@bounce.s10.mc.pd25.com>
+Delivered-To: school@s1.bitsboxhost.com
+Received: from s1.bitsboxhost.com
+	by s1.bitsboxhost.com with LMTP
+	id gn65Jm85wlw8qAkA+UFKaw
+	(envelope-from <bounce-5360_HTML-89039152-8036-100008114-526029@bounce.s10.mc.pd25.com>)
+	for <school@s1.bitsboxhost.com>; Fri, 26 Apr 2019 04:49:19 +0600
+Return-path: <bounce-5360_HTML-89039152-8036-100008114-526029@bounce.s10.mc.pd25.com>
+Envelope-to: hey@schooloffreelancing.com
+Delivery-date: Fri, 26 Apr 2019 04:49:19 +0600
+Received: from fh222.mc.pd25.com ([13.111.53.222]:58090)
+	by s1.bitsboxhost.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <bounce-5360_HTML-89039152-8036-100008114-526029@bounce.s10.mc.pd25.com>)
+	id 1hJnB7-002eU6-MO
+	for hey@schooloffreelancing.com; Fri, 26 Apr 2019 04:49:19 +0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=thehothmarketing.com;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:
+ List-Unsubscribe:List-ID; i=hello@thehothmarketing.com;
+ bh=rQgf6v2zMJQPGgiFiZqe/M9suT94Eh6OxFTjkYkZieg=;
+ b=mOO1oQ3UJSg6L9tML942L5miU1ffWLCQCFnibhDvl94Xtw/67pPQtDFF0769uWLizodhDTCgX61b
+   FPhz2po+xxQRzfBSKxm0DqFJqF+T3izZ/KPbxgWmRR0SeK4STnxiTopGOD+spuvKmSONgbgrFYi1
+   ejQf+FTszm/VviVcA3M=
+Received: by fh222.mc.pd25.com id ho8smq2fmd43 for <hey@schooloffreelancing.com>; Thu, 25 Apr 2019 22:48:36 +0000 (envelope-from <bounce-5360_HTML-89039152-8036-100008114-526029@bounce.s10.mc.pd25.com>)
+X-Virus-Scanned: amavisd-new at orionsmtp-111.s10.exacttarget.com
+Message-ID: <6229a5e1-d54d-4222-92cb-92f23bb81789@dfw1s10mta50.xt.local>
+Date: Thu, 25 Apr 2019 16:48:36 -0600
+Subject: We just went live with our SEO training!
+From: The HOTH <hello@thehothmarketing.com>
+Reply-To: hello@thehothmarketing.com
+To: hey@schooloffreelancing.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1556232484_419001f3920b436895f9d4169da3bac3_=_"
+X-Source-Ref-Id: 746524359
+X-Report-Abuse-To: abuse@pd25.com
+X-Pardot-Route: 160:502191:746524359
+List-Unsubscribe: <https://link.thehoth.com/listUnsubscribeHeader/u/502191/9e462e14392a9c5665b96e2a7d707535788db54cabff5d21100722a1c55badd9/746524359>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-ID: <100008114.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 100008114_8036
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "s1.bitsboxhost.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Join Now! Our brand new LIVE SEO training "Cracking The Google
+    Code 2019" is starting now! We're going live in a few minutes at 7PM EST
+   / 6PM CST. 
+ 
+ Content analysis details:   (-0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: thehothmarketing.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+X-Spam-Flag: NO
+
+--_=_swift_v4_1556232484_419001f3920b436895f9d4169da3bac3_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Join Now!
+
+Our brand new LIVE SEO training "Cracking The Google Code 20=
+19" is starting now!
+
+We're going live in a few minutes at 7PM EST / 6P=
+M CST.
+
+Click below to access the training:
+
+https://link.thehoth.c=
+om/e/502191/watch-v-d-sYgEhHOLE/nt81cj/746524359?h=3DWS9ldXaJJENWeRHj-EVfn_=
+q7FWSRIyMFv9v0qr5hhjs
+
+See you on the inside!
+
+Cheers,
+
+The HOT=
+H Crew
+
+=09=09=09=09=09=09=09=09=09Copyright The HOTH =C2=A9 2019, All =
+rights reserved.
+
+=09=09=09=09=09=09=09=09=09Mailing Address:
+
+=09=
+=09=09=09=09=09=09=09=09
+The HOTH
+111 2nd Ave NE
+#1500
+St Petersbur=
+g, Florida 33701
+
+
+=09=09=09=09=09=09=09=09=09unsubscribe
+
+https:=
+//link.thehoth.com/unsubscribe/u/502191/9e462e14392a9c5665b96e2a7d707535788=
+db54cabff5d21100722a1c55badd9/746524359
+
+    subscription preferences=
+
+
+https://link.thehoth.com/emailPreference/502191/9e462e14392a9c5665b96=
+e2a7d707535788db54cabff5d21100722a1c55badd9/746524359
+
+=20
+
+
+
+--_=_swift_v4_1556232484_419001f3920b436895f9d4169da3bac3_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">
+<head>
+    <meta content=3D"text/html; charset=3Dut=
+f-8" http-equiv=3D"Content-Type" />
+    <!-- Facebook sharing information=
+ tags -->
+=09<meta property=3D"og:title" content=3D"We just went live wit=
+h our SEO training!" />
+
+    <title>We just went live with our SEO trai=
+ning!</title>
+   =20
+
+</head>
+
+<body bgcolor=3D"#ffffff" style=3D"-=
+webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; height: 100% !im=
+portant; width: 100% !important; background-color: #ffffff; margin: 0; padd=
+ing: 0;">
+<style type=3D"text/css">#outlook a {
+          padding: 0;=
+
+      }
+      .body{
+          width: 100% !important;
+          -=
+webkit-text-size-adjust: 100%;
+          -ms-text-size-adjust: 100%;
+  =
+        margin: 0;
+          padding: 0;
+      }
+      .ExternalClass=
+ {
+          width:100%;
+      }
+      .ExternalClass,
+      .Exter=
+nalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+   =
+   .ExternalClass td,
+      .ExternalClass div {
+          line-height:=
+ 100%;
+      }
+      img {
+          outline: none;
+          text-=
+decoration: none;
+          -ms-interpolation-mode: bicubic;
+      }
+=
+      a img {
+          border: none;
+      }
+      p {
+          m=
+argin: 1em 0;
+      }
+      table td {
+          border-collapse: col=
+lapse;
+      }
+      /* hide unsubscribe from forwards*/
+      blockq=
+uote .original-only, .WordSection1 .original-only {
+        display: none=
+ !important;
+      }
+
+      @media only screen and (max-width: 480px)=
+{
+        body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:=
+none !important;} /* Prevent Webkit platforms from changing default text si=
+zes */
+                body{width:100% !important; min-width:100% !import=
+ant;} /* Prevent iOS Mail from adding padding to the body */
+
+        #=
+bodyCell{padding:10px !important;}
+
+        #templateContainer{
+     =
+     max-width:600px !important;
+          width:100% !important;
+     =
+   }
+
+        h1{
+          font-size:24px !important;
+          li=
+ne-height:100% !important;
+        }
+
+        h2{
+          font-si=
+ze:20px !important;
+          line-height:100% !important;
+        }
+=
+
+        h3{
+          font-size:18px !important;
+          line-heig=
+ht:100% !important;
+        }
+
+        h4{
+          font-size:16px=
+ !important;
+          line-height:100% !important;
+        }
+       =
+=20
+        li{
+            margin: 50px !important;
+        }
+
+   =
+     #templatePreheader{display:none !important;} /* Hide the template preh=
+eader to save space */
+
+        #headerImage{
+          height:auto !=
+important;
+          max-width:600px !important;
+          width:100% !=
+important;
+        }
+
+        .headerContent{
+          font-size:2=
+0px !important;
+          line-height:125% !important;
+        }
+
+ =
+       .bodyContent{
+          font-size:18px !important;
+          lin=
+e-height:125% !important;
+        }
+
+        .footerContent{
+      =
+    font-size:14px !important;
+          line-height:115% !important;
+ =
+       }
+
+        .footerContent a{display:block !important;} /* Place =
+footer social and utility links on their own lines, for easier access */
+=
+      }
+</style>
+<table align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" id=3D"bodyTable" style=3D"-ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%; background-color: #ffffff; border-collapse: c=
+ollapse !important; height: 100% !important; margin: 0; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt; padding: 0; width: 100% !important" width=3D"100=
+%">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center" id=3D"bodyCel=
+l" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt; height: 100% !important; width: =
+100% !important; border-top-width: 0px; border-top-color: #ffffff; border-t=
+op-style: solid; margin: 0; padding: 0px;" valign=3D"top"><!-- BEGIN TEMPLA=
+TE // -->
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" id=3D"templateContainer" style=3D"-webkit-text-size-adjust: 100%; -ms-tex=
+t-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-c=
+ollapse: collapse !important; width: 600px; border: 0px solid #ffffff;">
+=
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"=
+center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%=
+; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign=3D"top"><!-- BEGIN =
+PREHEADER // -->
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" id=3D"templatePreheader" style=3D"-ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; border-coll=
+apse: collapse !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt" wi=
+dth=3D"100%">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr =
+style=3D"">
+=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"prehea=
+derContent" pardot-region=3D"preheader_content00" style=3D"-webkit-text-siz=
+e-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-tabl=
+e-rspace: 0pt; color: #808080; font-family: Roboto, Roboto, Helvetica; font=
+-size: 10px; line-height: 12.5px; text-align: left; padding: 10px 20px;" va=
+lign=3D"top"><a href=3D"https://link.thehoth.com/e/502191/2019-04-25/nt81cl=
+/746524359?h=3DWS9ldXaJJENWeRHj-EVfn_q7FWSRIyMFv9v0qr5hhjs"><img alt=3D"" b=
+order=3D"0" height=3D"43" src=3D"https://link.thehoth.com/l/502191/2018-03-=
+05/n5ktbg/502191/112643/hoth_link_building_logo.png" style=3D"width: 120px;=
+ height: 43px; border-width: 0px; border-style: solid;" width=3D"120"></a><=
+/td>
+=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"preheaderCont=
+ent" pardot-region=3D"preheader_content01" style=3D"-webkit-text-size-adjus=
+t: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; color: #808080; font-family: Roboto, Helvetica; font-size: 10px; li=
+ne-height: 12.5px; text-align: left; padding: 10px 20px 10px 0;" valign=3D"=
+top" width=3D"180">&nbsp;</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=
+=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<!-- =
+// END PREHEADER --></td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=
+=09=09=09=09=09=09<td align=3D"center" style=3D"-webkit-text-size-adjust: 1=
+00%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0=
+pt;" valign=3D"top"><!-- BEGIN HEADER // -->
+=09=09=09=09=09=09<table bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"templateHeader" style=
+=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-=
+color: #FFFFFF; border-bottom-color: #ffffff; border-bottom-style: solid; b=
+order-bottom-width: 0px; border-collapse: collapse !important; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt" width=3D"100%">
+=09=09=09=09=09=09=09<t=
+body>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=
+=09=09=09=09<!-- // END HEADER --></td>
+=09=09=09=09=09</tr>
+=09=09=09=
+=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" style=3D"-webkit-text-s=
+ize-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-ta=
+ble-rspace: 0pt;" valign=3D"top"><!-- BEGIN BODY // -->
+=09=09=09=09=09=
+=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"templateBo=
+dy" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; ba=
+ckground-color: #FFFFFF; border-bottom-color: #ffffff; border-bottom-style:=
+ solid; border-bottom-width: 0px; border-collapse: collapse !important; bor=
+der-top-color: #FFFFFF; border-top-style: solid; border-top-width: 1px; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt" width=3D"100%">
+=09=09=09=09=
+=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr pardot-repeatable=3D"" style=
+=3D"">
+=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"bodyContent=
+" pardot-data=3D"line-height:26px;" pardot-region=3D"body_content" style=3D=
+"text-size-adjust: 100%; color: rgb(51, 51, 51); font-family: Helvetica; fo=
+nt-size: 16px; line-height: 26px; text-align: left; padding: 20px;" valign=
+=3D"top">
+=09=09=09=09=09=09=09=09=09<h1 style=3D"color: #202020 !importa=
+nt; display: block; font-family: Helvetica; font-size: 26px; font-style: no=
+rmal; font-weight: bold; letter-spacing: normal; line-height: 26px; margin:=
+ 0; padding-bottom:10px; text-align: left">Join Now!</h1>
+
+=09=09=09=09=
+=09=09=09=09=09<p dir=3D"ltr">Our brand new LIVE SEO&nbsp;training&nbsp;<st=
+rong>"Cracking The Google Code 2019"</strong>&nbsp;is starting now!<br>
+=
+=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09We're going li=
+ve in a few minutes at&nbsp;7PM EST / 6PM CST.<br>
+=09=09=09=09=09=09=09=
+=09=09<br>
+=09=09=09=09=09=09=09=09=09Click below to access the training:=
+<br>
+=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09<a data=
+-saferedirecturl=3D"https://link.thehoth.com/e/502191/CNG5T6HGCYvaDork2pAia=
+llc5ZJmYA/nt81cn/746524359?h=3DWS9ldXaJJENWeRHj-EVfn_q7FWSRIyMFv9v0qr5hhjs"=
+ href=3D"https://link.thehoth.com/e/502191/watch-v-d-sYgEhHOLE/nt81cj/74652=
+4359?h=3DWS9ldXaJJENWeRHj-EVfn_q7FWSRIyMFv9v0qr5hhjs" rel=3D"noreferrer" ta=
+rget=3D"_blank">https://link.thehoth.com/e/502191/watch-/nt81cq/746524359?h=
+=3DWS9ldXaJJENWeRHj-EVfn_q7FWSRIyMFv9v0qr5hhjs<wbr>v=3Dd_sYgEhHOLE</a><br>=
+
+=09=09=09=09=09=09=09=09=09&nbsp;</p>
+=09=09=09=09=09=09=09=09=09See y=
+ou on the inside!<br>
+=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=
+=09=09=09=09Cheers,<br>
+=09=09=09=09=09=09=09=09=09The HOTH Crew</td>
+=
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=
+=09=09=09</table>
+=09=09=09=09=09=09<!-- // END BODY --></td>
+=09=09=09=
+=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" =
+style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt;" valign=3D"top"><!-- BEGIN FOOTER /=
+/ -->
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" id=3D"templateFooter" style=3D"-ms-text-size-adjust: 100%; -webkit-t=
+ext-size-adjust: 100%; background-color: #FFFFFF; border-collapse: collapse=
+ !important; border-top-color: #FFFFFF; border-top-style: solid; border-top=
+-width: 1px; mso-table-lspace: 0pt; mso-table-rspace: 0pt" width=3D"100%">=
+
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr style=3D"">=
+
+=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"footerContent" pa=
+rdot-region=3D"footer_content01" style=3D"-webkit-text-size-adjust: 100%; -=
+ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; co=
+lor: #808080; font-family: Helvetica; font-size: 10px; line-height: 15px; t=
+ext-align: left; padding: 0 20px 20px;" valign=3D"top">
+=09=09=09=09=09=
+=09=09=09=09<hr style=3D"box-sizing: content-box; -webkit-tap-highlight-col=
+or: rgba(255,255,255,0); background-color: #e4e4e4; height: 1px; overflow: =
+visible; margin: 32px 0; border: 0;"><em>Copyright The HOTH =C2=A9 2019, Al=
+l rights reserved.</em><br>
+=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=
+=09=09=09=09=09=09<strong>Mailing Address:</strong><br>
+=09=09=09=09=09=
+=09=09=09=09<br/>The HOTH<br/>111 2nd Ave NE<br/>#1500<br/>St Petersburg, F=
+lorida 33701<br/></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=
+=09=09<tr style=3D"">
+=09=09=09=09=09=09=09=09=09<td align=3D"left" class=
+=3D"footerContent original-only" pardot-region=3D"footer_content02" style=
+=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-l=
+space: 0pt; mso-table-rspace: 0pt; color: #808080; font-family: Helvetica; =
+font-size: 10px; line-height: 15px; text-align: left; padding: 0 20px 40px;=
+" valign=3D"top"><a href=3D"https://link.thehoth.com/unsubscribe/u/502191/9=
+e462e14392a9c5665b96e2a7d707535788db54cabff5d21100722a1c55badd9/746524359" =
+style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color:=
+ #606060; font-weight: normal; text-decoration: underline;">unsubscribe</a>=
+&nbsp;&nbsp;&nbsp;<a href=3D"https://link.thehoth.com/emailPreference/50219=
+1/9e462e14392a9c5665b96e2a7d707535788db54cabff5d21100722a1c55badd9/74652435=
+9" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; col=
+or: #606060; font-weight: normal; text-decoration:
+underline;"> subscript=
+ion preferences</a>&nbsp;</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=
+=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<!-- =
+// END FOOTER --></td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=
+=09=09</table>
+=09=09=09<!-- // END TEMPLATE --></td>
+=09=09</tr>
+=09=
+</tbody>
+</table>
+<img alt=3D"" src=3D"https://link.thehoth.com/r/50219=
+1/1/746524359/open/1" /></body>
+</html>
+
+--_=_swift_v4_1556232484_419001f3920b436895f9d4169da3bac3_=_--
+
+
