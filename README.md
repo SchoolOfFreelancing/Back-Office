@@ -13,9 +13,6 @@ School Of Freelancing is not a traditional computer & internet training center! 
 Our Training Program design in such a way thus any computer user who has desktop/laptop pc, high speed internet connection, government issued id, can read & understand english with good typing speed can join with us to become a giant linux freelancer.
 
 
-
-*লিনাক্স ফ্রিল্যান্সিং প্রশিক্ষণে ভর্তি চলছে*
-
 স্কুল অব ফ্রিলেন্সিং ঘরে বসে লিনাক্স বিষয়ে ফ্রিলেন্সিং শিখার একটি যুগ উপযোগী ইকোসিস্টেম যেখানে আপনি নিজেকে একজন সফল লিনাক্স ফ্রিল্যান্সার, আউটসোর্সার, লিনাক্স মেন্টর এবং লিনাক্স টেকনোলজি বিষয়ে নতুন উদ্যোক্তা হিসাবে নিজেকে প্রতিষ্ঠিত করতে পারবেন।
 
 
