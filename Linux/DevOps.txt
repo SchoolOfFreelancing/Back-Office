@@ -1,0 +1,326 @@
+======
+Videos
+======
+
+DevOps
+
+  What is DevOps? by Rackspace - Really great introduction to DevOps
+    https://www.youtube.com/watch?v=_I94-tJlovg
+
+  Sanjeev Sharma series on DevOps (great repetition to really get the DevOps concept)
+
+    Understanding DevOps
+      https://www.youtube.com/watch?v=HpZBnc07q9o
+
+    DevOps: Where to Start
+      https://www.youtube.com/watch?v=CSrKwP1QrjE
+
+    Continuous Delivery vs. Continuous Deployment (great comparison between the two)
+      https://www.youtube.com/watch?v=igwFj8PPSnw
+
+    Adopting DevOps - Mapping your delivery pipeline (good next level down on the delivery pipeline, and self-service automation)
+      https://www.youtube.com/watch?v=KrRYqcSfEbs
+
+    DevOps Whiteboard Client Interview Demonstration (great process walkthrough, and the importance of automation)
+      https://www.youtube.com/watch?v=U9SnBeKIO0I
+
+Programming Fundamentals
+
+  Beginner
+    http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html
+    http://www.lynda.com/Developer-Programming-Foundations-tutorials/Foundations-Programming-Test-Driven-Development/124398-2.html
+    http://www.lynda.com/Developer-Programming-Foundations-tutorials/Foundations-Programming-Code-Efficiency/122461-2.html
+
+  Intermediate
+    http://www.lynda.com/Developer-Programming-Foundations-tutorials/Foundations-Programming-Data-Structures/149042-2.html
+    http://www.lynda.com/Programming-tutorials/Foundations-of-Programming-Object-Oriented-Design/96949-2.html
+    http://www.lynda.com/Developer-Programming-Foundations-tutorials/Foundations-Programming-Refactoring-Code/122457-2.html
+
+Version Control
+
+  Fundamentals
+    http://www.lynda.com/Version-Control-tutorials/Fundamentals-Software-Version-Control/106788-2.html
+
+  Git
+    http://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html
+    https://www.youtube.com/watch?v=RwYbl_tpoVE&list=WL&index=1    Wrapping Your Head Around Git (The best video on Git internals!)
+
+Languages
+
+  Scripting
+
+    BASH
+      http://www.lynda.com/Bash-tutorials/Up-Running-Bash-Scripting/142989-2.html
+
+    AWK
+      http://www.lynda.com/Linux-tutorials/AWK-Essential-Training/162719-2.html
+
+    Perl
+      http://www.lynda.com/sdk/Perl-5-tutorials/essential-training/61025-2.html
+
+  Object Oriented
+
+    Ruby
+      https://pragmaticstudio.com/courses/ruby
+      https://pragmaticstudio.com/courses/ruby-blocks
+      http://www.lynda.com/Ruby-tutorials/Code-Clinic-Ruby/164143-2.html
+
+    Python
+      http://www.lynda.com/Python-tutorials/Up-Running-Python/122467-2.html
+      http://www.lynda.com/Python-3-tutorials/essential-training/62226-2.html
+      http://www.lynda.com/Python-tutorials/Welcome/163752/182076-4.html
+
+  Compiled
+  
+    Go Programming Language (golang)
+      http://golang.org/
+
+  Web Technologies
+
+    HTML
+      http://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html
+
+Editors
+
+  vi
+    http://www.lynda.com/vi-tutorials/Up-Running-vi/170336-2.html
+
+  Sublime Text 2
+    http://www.lynda.com/Sublime-Text-tutorials/Up-Running-Sublime-Text-2/114325-2.html
+
+Integrated Development Environments (IDE)
+
+  Eclipse
+    http://www.lynda.com/Eclipse-tutorials/Up-Running-Eclipse/111243-2.html
+
+Databases
+
+  Fundamentals
+    http://www.lynda.com/Programming-tutorials/Foundations-Programming-Databases/112585-2.html
+
+Docker
+
+  Introduction to Docker Engine
+    https://www.youtube.com/watch?v=jB-Ddfph7EI
+
+=====
+Books
+=====
+
+Configuration Management Tools (Puppet, Chef, SaltStack, Ansible)
+
+  DevOpsU: Taste Test
+    https://devopsu.com/books/taste-test-puppet-chef-salt-stack-ansible.html
+
+Docker
+
+  The Docker Book
+    http://www.dockerbook.com/  
+
+Behavior Driven Development (BDD)
+
+  The RSpec Book: Behaviour-Driven Development with RSpec, Cucumber, and Friends
+    by David Chelimsky, Dave Astels, Zach Dennis, Aslak Hellesøy, Bryan Helmkamp, Dan North
+    https://pragprog.com/book/achbd/the-rspec-book
+
+  The Cucumber Book: Behaviour-Driven Development for Testers and Developers
+    by Matt Wynne and Aslak Hellesøy
+    https://pragprog.com/book/hwcuc/the-cucumber-book
+
+  Cucumber Recipes: Automate Anything with BDD Tools and Techniques
+    by Ian Dees, Matt Wynne, Aslak Hellesoy
+    https://pragprog.com/book/dhwcr/cucumber-recipes
+
+Game Programming
+
+  Learn Game Programming with Ruby: Bring Your Ideas to Life with Gosu by Mark Sobkowicz
+    https://pragprog.com/book/msgpkids/learn-game-programming-with-ruby
+
+Developer Environment Optimization
+
+  tmux: Productive Mouse-Free Development by Brian P. Hogan
+    https://pragprog.com/book/bhtmux/tmux
+
+Software Craftsmanship
+
+  Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+    http://my.safaribooksonline.com/book/software-engineering-and-development/agile-development/9780136083238
+
+Refactoring
+
+  Refactoring: Improving the Design of Existing Code by Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts
+    http://my.safaribooksonline.com/book/software-engineering-and-development/refactoring/0201485672
+
+Seminal Works
+
+  Code Complete
+
+  Mythical Man Month
+
+  K&R C Programming Language
+
+========
+Websites
+========
+
+DevOps
+
+  Ansible - CM tool
+    http://docs.ansible.com/index.html
+
+  Vagrant - Virtualization Management
+    https://www.vagrantup.com/
+    https://www.vagrantup.com/downloads.html
+    https://docs.vagrantup.com/v2/
+
+  Terraform - Infrastructure as Code
+    https://terraform.io/
+  
+  Packer - Machine Image Management
+    https://www.packer.io/
+  
+  Consul - Service Discovery and Configuration Management
+    https://www.consul.io/
+    
+  Docker - Linux Container and Package Management
+    https://www.docker.com/
+
+Public Cloud
+
+  Amazon Web Services - Public Cloud Provider
+    http://aws.amazon.com/
+
+  Rackspace - Public Cloud Provider
+    http://www.rackspace.com/
+    
+  Digital Ocean - Public Cloud Provider
+    https://www.digitalocean.com/
+  
+Integrated Development Environments (IDE)
+
+  JetBrains - IntelliJ (Java), RubyMine (Ruby/Rails), PyCharm (Python)
+    https://www.jetbrains.com/
+
+  Eclipse
+    http://www.eclipse.org/
+
+Editors
+
+   Sublime Text 2
+     http://www.sublimetext.com/
+
+Developer Environment Optimization
+
+  Emmet — the essential toolkit for web-developers (supported in most IDEs)
+    http://docs.emmet.io/
+
+Continuous Integration
+
+  Jenkins
+    http://jenkins-ci.org/
+
+Hosted Services
+  
+  Github
+    https://github.com/
+
+  Try Git - Got 15 minutes and want to learn Git?
+    https://try.github.io/levels/1/challenges/1
+
+Code Training
+
+  codeacademy
+    http://www.codecademy.com/
+
+  w3schools
+    http://www.w3schools.com/
+
+  rubymonk
+    https://rubymonk.com/
+
+  codewars
+    http://www.codewars.com/kata/latest/my-languages
+
+  rubykoans
+    http://rubykoans.com/
+
+Code Challenges
+
+  HackerRank
+    https://www.hackerrank.com/
+
+  Ruby Warrior
+    https://www.bloc.io/ruby-warrior/#/
+
+Refactoring
+
+  Refactoring
+    http://www.refactoring.com/
+
+Document Management
+
+  Gollum - A simple, Git-powered wiki with a sweet API and local frontend.
+    https://github.com/gollum/gollum
+
+News
+
+  Ruby Weekly
+    http://rubyweekly.com/
+
+========
+Subjects
+========
+
+Software Configuration Management 
+
+  The Big 4 Concepts (identify, control, report, audit)
+
+Agile
+
+  Scrum
+
+    SCRUM in 6 minutes
+      https://www.youtube.com/watch?v=aP3TBpWWwJ8
+
+Docker
+
+Development Tools
+
+  Maven
+
+  Gradle
+
+Monitoring
+
+Networking
+
+  Cisco - Networking Basics: What You Need To Know
+    http://www.cisco.com/cisco/web/solutions/small_business/resource_center/articles/connect_employees_and_offices/networking_basics/index.html
+    
+  Tom's Hardware - LAN 101: Networking Basics
+    http://www.tomshardware.com/reviews/local-area-network-wi-fi-wireless,3020.html
+
+Provisioning
+
+Deployment
+
+Automation
+
+Metrics
+
+  Lean Assessments (to determine where bottlenecks are in an organization and determine areas to improve)
+
+  What metrics matter
+
+Software Craftsmanship
+
+  Robert C. Martin - The Land that Scrum Forgot
+    https://www.youtube.com/watch?v=hG4LH6P8Syk
+
+Continuous Delivery
+
+  Tools for Continuous Integration at Google Scale
+    https://www.youtube.com/watch?v=KH2_sB1A6lA
+
+  Real-World Strategies for Continuous Delivery with Maven and Jenkins
+    https://www.youtube.com/watch?v=McTZtyb9M38
