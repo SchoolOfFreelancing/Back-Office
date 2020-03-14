@@ -1,3 +1,4 @@
-sitemap: https://www.schooloffreelancing.com/sitemap.xml
+User-agent: *
+Allow: /
 sitemap: https://www.schooloffreelancing.com/sitemap.xml
 
