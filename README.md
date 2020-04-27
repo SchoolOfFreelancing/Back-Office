@@ -10,7 +10,7 @@ School Of Freelancing is a Linux Practical Project Management Freelancing Ecosys
 
 ## Key Benefits and Advantages
 
-### 🐧 on-the-go
+### 🐧 make you on-the-go individual Linux System Administrator
 
 ### ⚒ on-the-go
 
