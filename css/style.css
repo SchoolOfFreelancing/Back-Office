@@ -984,7 +984,7 @@ link:focus,
 }
 
 .form-control:focus {
-  border-color: #ffbc3b;
+  border-color: #300A24;
   box-shadow: none;
 }
 
@@ -993,7 +993,7 @@ link:focus,
 }
 
 .bg-footer {
-  background-color: #182b45;
+  background-color: #300A24;
 }
 
 .logo-footer {
