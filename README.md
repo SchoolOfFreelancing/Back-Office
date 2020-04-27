@@ -4,6 +4,9 @@ School Of Freelancing is a Linux Practical Project Management Freelancing Ecosys
 
 * 🌍 [Website](https://www.schooloffreelancing.com/) - Learn more about School Of Freelancing
 * 📖 [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
+* 🐞 [GitHub](https://github.com/SchoolOfFreelancing) - Verified GitHub organization's domain
+
+
 
 
 
