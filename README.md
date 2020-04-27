@@ -9,6 +9,9 @@ School Of Freelancing is a Linux Practical Project Management Freelancing Ecosys
 * 🐞 [GitHub](https://github.com/SchoolOfFreelancing) - Verified GitHub organization's domain
 
 ## Key Benefits and Advantages
+
+### 🐧 on-the-go
+
 ### ⚒ on-the-go
 
 ### 🎛 on-the-go
