@@ -11,10 +11,10 @@ We are on a mission to empower Linux freelancing training around the globe to ea
 
 ## Key Benefits and Advantages
 
-🐧 Change You On-The-Go Individual Linux Freelancer
-⚒ Develop You To Become A Linux Mentor
-🎛 Enable You To Work As Linux Entrepreneur
-🚀 Improve Your Linux Related R&D And Linux Consultant Support Skills
+#### 🐧 Change You On-The-Go Individual Linux Freelancer
+#### ⚒ Develop You To Become A Linux Mentor
+#### 🎛 Enable You To Work As Linux Entrepreneur
+#### 🚀 Improve Your Linux Related R&D And Linux Consultant Support Skills
 
 
 ## Getting Started
