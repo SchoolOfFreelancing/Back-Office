@@ -7,14 +7,14 @@ We are on a mission to empower Linux freelancing training around the globe to ea
 
 * 🌍 [Website](https://www.schooloffreelancing.com/) - Learn More About School Of Freelancing
 * 📖 [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) - Is School Of Freelancing Online Corkboard
-* 🐞 [GitHub](https://github.com/SchoolOfFreelancing) - Verified School Of Freelancing GitHub Organization's Domain
+* 🐞 [GitHub](https://github.com/SchoolOfFreelancing) - Verified School Of Freelancing Organization's Domain
 
 ## Key Benefits and Advantages
 
-### 🐧 Change You On-The-Go Individual Linux Freelancer
-### ⚒ Develop You To Become A Linux Mentor
-### 🎛 Enable You To Work As Linux Entrepreneur
-### 🚀 Improve Your Linux Related R&D And Linux Consultant Support Skills
+## 🐧 Change You On-The-Go Individual Linux Freelancer
+## ⚒ Develop You To Become A Linux Mentor
+## 🎛 Enable You To Work As Linux Entrepreneur
+## 🚀 Improve Your Linux Related R&D And Linux Consultant Support Skills
 
 
 
