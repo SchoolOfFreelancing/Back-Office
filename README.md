@@ -27,7 +27,7 @@ Steps 1: Schedule appointment using [Facebook messenger](https://www.facebook.co
 
 Steps 2: If you pass our training prerequisite we will give you 24 hours time for deposit payment to start training. If you fail to deposit training fees within 24 hours you will be marked you as scam for waste our times.  
 
-Steps 3: After deposit pyment to our concern payment method you can start training within one hour.
+Steps 3: After deposit payment to our concern payment method you can start [onboard training](https://trello.com/b/RFo7GNdY/school-of-freelancing). 
 
 
 ## Copyright and License 
