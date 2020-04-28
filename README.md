@@ -18,16 +18,19 @@ We are on a mission to empower Linux freelancing training around the globe to ea
 
 
 ## Getting Started
+Before join our training please check training [modules](https://www.schooloffreelancing.com/Linux/) are align and necessary to level up your skills and you are happy to  enroll.
+
 _**Only 3 steps to start!**_ 😎
+If you are determined to enroll our training then we will schedule a time for five minutes one 2 one personal interview session with our mentor where mentor will check your PC configuration, Internet speed and your English reading and chatting skills. 
+
+Steps 1: Schedule appointment using [Facebook messenger](https://www.facebook.com/SchoolOfFreelancing/) also WhatsApp +8801748973769 for voice  confirmation.
+
+Steps 2: If you pass our training prerequisite we will give you 24 hours time for deposit payment to start training. If you fail to deposit training fees within 24 hours you will be marked you as scam for waste our times.  
+
+Steps 3: After deposit pyment to our concern payment method you can start training within one hour.
 
 
 ## Copyright and License 
 Copyright: [School Of Freelancing](https://www.schooloffreelancing.com/) 
 This work is licensed under a [Creative Commons Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/) 4.0 International License.  
   
-
-
-
-
-
-
