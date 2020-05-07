@@ -1,7 +1,6 @@
 ## School Of Freelancing - 100% Open Source Training
 
-## ALL ABOUT US 
-[![Gitter](https://badges.gitter.im/School-Of-Freelancing/Lobby.svg)](https://gitter.im/School-Of-Freelancing/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+## ALL ABOUT US [![Gitter](https://badges.gitter.im/School-Of-Freelancing/Lobby.svg)](https://gitter.im/School-Of-Freelancing/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
 We’re on a mission to empower Linux freelancing training around the globe to earn money from home🐧 We’re working hard to establish Linux freelancer community through cutting edge open source technology. Our Linux practical project management freelancing training ecosystem aim for establish earning by doing Linux freelancing from home 🏠
