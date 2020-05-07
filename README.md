@@ -10,7 +10,12 @@ We’re on a mission to empower Linux freelancing training around the globe to e
 * 👍 Like us on [Facebook](https://www.facebook.com/SchoolOfFreelancing/)
 * 🕊 Twitter: [@pimcore](https://twitter.com/SchoolOfFreelan) - Get the latest news
 * 🐞 [Issue Tracker](https://github.com/SchoolOfFreelancing/BackOffice/issues) - Report a session or suggest new features
+* 🗨  [Forums](https://www.facebook.com/groups/SchoolOfFreelancing/) - Community support and discussions
 * :white_check_mark: [GitHub](https://github.com/SchoolOfFreelancing) - Verified School Of Freelancing Organization's Domain
+* 👪 [Community Chat](https://gitter.im/pimcore/pimcore) - Gitter
+
+[![Gitter](https://badges.gitter.im/School-Of-Freelancing/Lobby.svg)](https://gitter.im/School-Of-Freelancing/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 
 ## Key Benefits and Advantages
 
