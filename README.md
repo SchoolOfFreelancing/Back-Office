@@ -5,7 +5,7 @@
 
 We’re on a mission to empower Linux freelancing training around the globe to earn money from home🐧 We’re working hard to establish Linux freelancer community through cutting edge open source technology. Our Linux practical project management freelancing training ecosystem aim for establish earning by doing Linux freelancing from home 🏠
 
-* 🌍 [Website](https://www.schooloffreelancing.com/) - Learn More About School Of Freelancing
+* 🌍 [Website](https://www.schooloffreelancing.com/) - Know More From Our Website
 * 📖 [Documentation](https://github.com/SchoolOfFreelancing/BackOffice/wiki) - Let's Get Started
 * :rocket: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) - School Of Freelancing Online Corkboard
 * 👍 Like us on [Facebook](https://www.facebook.com/SchoolOfFreelancing/)
