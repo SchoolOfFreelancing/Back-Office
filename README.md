@@ -1,11 +1,11 @@
-School Of Freelancing - 100% Open Source Training
+## School Of Freelancing - 100% Open Source Training
 
 ## Overview
 
-
-We are on a mission to empower Linux freelancing training around the globe to earn money from home. We’re working hard to build Linux freelancer community through cutting edge open source technology. Our Linux practical project management freelancing ecosystem aim for established earning by doing Linux freelancing from home.
+We are on a mission to empower Linux freelancing training around the globe to earn money from home🐧 We’re working hard to establish Linux freelancer community through cutting edge open source technology. Our Linux practical project management freelancing training ecosystem aim for establish earning by doing Linux freelancing from home.
 
 * 🌍 [Website](https://www.schooloffreelancing.com/) - Learn More About School Of Freelancing
+* 📖 [Documentation](https://github.com/SchoolOfFreelancing/BackOffice/wiki)
 * 📖 [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) - Is School Of Freelancing Online Corkboard
 * 🐞 [GitHub](https://github.com/SchoolOfFreelancing) - Verified School Of Freelancing Organization's Domain
 
