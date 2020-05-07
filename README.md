@@ -1,6 +1,6 @@
 ## School Of Freelancing - 100% Open Source Training
 
-## Overview
+## All About Us
 
 We’re on a mission to empower Linux freelancing training around the globe to earn money from home🐧 We’re working hard to establish Linux freelancer community through cutting edge open source technology. Our Linux practical project management freelancing training ecosystem aim for establish earning by doing Linux freelancing from home 🏠
 
