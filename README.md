@@ -39,7 +39,7 @@ Before join ***Linux Freelancing Training*** please check training module [pipel
 _**Only 3 steps to start!**_ 😎
 If you are determined to enroll our training then we will schedule a time for five minutes one 2 one personal interview session with our mentor where mentor will check your PC configuration, Internet speed and your English reading and chatting skills. 
 
-**Steps 1:** Schedule appointment using [Facebook messenger](https://www.facebook.com/SchoolOfFreelancing/) also WhatsApp +8801748973769 for voice  confirmation.
+**Steps 1:** Schedule appointment using [facebook messenger](https://www.facebook.com/SchoolOfFreelancing/) also WhatsApp +8801748973769 for voice  confirmation.
 
 **Steps 2:** If you pass our training prerequisite we will give you 24 hours time for deposit payment to start training. If you fail to deposit training fees within 24 hours you will be marked you as scam for waste our times. You are not able to seek any technical help to our mentor before enrollment such as, help you to setup Ubuntu Desktop Linux into your PC and  others.  
 
