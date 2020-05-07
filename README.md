@@ -20,8 +20,11 @@ We’re on a mission to empower Linux freelancing training around the globe to e
 **Contribute features:** contact the core-team on our [Gitter channel](https://gitter.im/School-Of-Freelancing/Lobby) before you start contributing   
 **Reporting fraud, abuse and misconduct:** inform us office@schooloffreelancing.com
   
-For details, please have a look at our [contributing guide](CONTRIBUTING.md).
+For join training, please have a look at our [joining instruction)(https://docs.google.com/document/d/1ESFs4DZLt2xrtpGQFPynwps-2oZRZwF-5rv5EfqGANs/edit?usp=sharing).
 
+Before join training, please carefully read and understand our [training_rules)(https://docs.google.com/document/d/1UX8gTwFavlUjCqeD4lQ9r6LFY757v0ZbEj7rq3Nlek8/edit?usp=sharing).
+
+Before join ***Linux Freelancing Training*** please check training module pipeline is align and necessary to level up your current skills and you are happy to enroll our homeschooling 🏫
 
 ## Key Benefits and Advantages
 
