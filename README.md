@@ -6,9 +6,11 @@ We’re on a mission to empower Linux freelancing training around the globe to e
 
 * 🌍 [Website](https://www.schooloffreelancing.com/) - Learn More About School Of Freelancing
 * 📖 [Documentation](https://github.com/SchoolOfFreelancing/BackOffice/wiki) - Let's Get Started
-* :rocket: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) - Is School Of Freelancing Online Corkboard
+* :rocket: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) - School Of Freelancing Online Corkboard
 * 👍 Like us on [Facebook](https://www.facebook.com/SchoolOfFreelancing/)
-* 🐞 [GitHub](https://github.com/SchoolOfFreelancing) - Verified School Of Freelancing Organization's Domain
+* 🕊 Twitter: [@pimcore](https://twitter.com/SchoolOfFreelan) - Get the latest news
+* 🐞 [Issue Tracker](https://github.com/SchoolOfFreelancing/BackOffice/issues) - Report a session or suggest new features
+* :white_check_mark: [GitHub](https://github.com/SchoolOfFreelancing) - Verified School Of Freelancing Organization's Domain
 
 ## Key Benefits and Advantages
 
