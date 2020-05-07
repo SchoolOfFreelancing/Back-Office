@@ -24,7 +24,7 @@ For join training, please have a look at our [joining instruction)(https://docs.
 
 Before join training, please carefully read and understand our [training_rules)(https://docs.google.com/document/d/1UX8gTwFavlUjCqeD4lQ9r6LFY757v0ZbEj7rq3Nlek8/edit?usp=sharing).
 
-Before join ***Linux Freelancing Training*** please check training module pipeline is align and necessary to level up your current skills and you are happy to enroll our homeschooling 🏫
+Before join ***Linux Freelancing Training*** please check [training](https://www.schooloffreelancing.com/Linux/) module pipeline is align and necessary to level up your current skills and you are happy to enroll our homeschooling 🏫
 
 ## Key Benefits and Advantages
 
