@@ -35,7 +35,6 @@ Before join ***Linux Freelancing Training*** please check training module [pipel
 
 
 ## Getting Started
-Before join our training please check training [modules](https://www.schooloffreelancing.com/Linux/) are align and necessary to level up your skills and you are happy to  enroll.
 
 _**Only 3 steps to start!**_ 😎
 If you are determined to enroll our training then we will schedule a time for five minutes one 2 one personal interview session with our mentor where mentor will check your PC configuration, Internet speed and your English reading and chatting skills. 
