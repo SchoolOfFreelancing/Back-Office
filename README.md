@@ -18,7 +18,7 @@ We’re on a mission to empower Linux freelancing training around the globe to e
 ## Contribute  
 **Update Requests:** please create a [pull request](https://github.com/SchoolOfFreelancing/BackOffice/pulls) including a step by step description to reproduce any training session  
 **Contribute features:** contact the core-team on our [Gitter channel](https://gitter.im/School-Of-Freelancing/Lobby) before you start contributing   
-**Reporting fraud, abuse and misconduct:** please use [this form](office@schooloffreelancing.com)
+**Reporting fraud, abuse and misconduct:** inform us office@schooloffreelancing.com
   
 For details, please have a look at our [contributing guide](CONTRIBUTING.md).
 
