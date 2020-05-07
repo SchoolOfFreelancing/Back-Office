@@ -13,7 +13,7 @@ We’re on a mission to empower Linux freelancing training around the globe to e
 * 🐞 [Issue Tracker](https://github.com/SchoolOfFreelancing/BackOffice/issues) - Report a session or suggest new features
 * 🗨  [Forums](https://www.facebook.com/groups/SchoolOfFreelancing/) - Community support and discussions
 * :white_check_mark: [GitHub](https://github.com/SchoolOfFreelancing) - Verified School Of Freelancing Organization's Domain
-* 👪 [Community Chat](https://gitter.im/pimcore/pimcore) - Gitter
+* 👪 [Community Chat](https://gitter.im/School-Of-Freelancing/Lobby) - Gitter
 
 ## Key Benefits and Advantages
 
