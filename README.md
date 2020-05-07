@@ -15,6 +15,14 @@ We’re on a mission to empower Linux freelancing training around the globe to e
 * :white_check_mark: [GitHub](https://github.com/SchoolOfFreelancing) - Verified School Of Freelancing Organization's Domain
 * 👪 [Community Chat](https://gitter.im/School-Of-Freelancing/Lobby) - Gitter
 
+## Contribute  
+**Update Requests:** please create a pull request including a step by step description to reproduce the training session  
+**Contribute features:** contact the core-team on our [Gitter channel](https://gitter.im/School-Of-Freelancing/Lobby) before you start contributing   
+**Security vulnerabilities:** please use [this form](https://pimcorehq.wufoo.com/forms/pimcore-security-report/)
+  
+For details, please have a look at our [contributing guide](CONTRIBUTING.md).
+
+
 ## Key Benefits and Advantages
 
 #### 🐧 Change You On-The-Go Individual Linux Freelancer
