@@ -2,7 +2,7 @@
 
 ## Overview
 
-We are on a mission to empower Linux freelancing training around the globe to earn money from home🐧 We’re working hard to establish Linux freelancer community through cutting edge open source technology. Our Linux practical project management freelancing training ecosystem aim for establish earning by doing Linux freelancing from home.
+We’re on a mission to empower Linux freelancing training around the globe to earn money from home🐧 We’re working hard to establish Linux freelancer community through cutting edge open source technology. Our Linux practical project management freelancing training ecosystem aim for establish earning by doing Linux freelancing from home.
 
 * 🌍 [Website](https://www.schooloffreelancing.com/) - Learn More About School Of Freelancing
 * 📖 [Documentation](https://github.com/SchoolOfFreelancing/BackOffice/wiki)
