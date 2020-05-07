@@ -1,6 +1,8 @@
 ## School Of Freelancing - 100% Open Source Training
 
-## ALL ABOUT US
+## ALL ABOUT US 
+[![Gitter](https://badges.gitter.im/School-Of-Freelancing/Lobby.svg)](https://gitter.im/School-Of-Freelancing/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 
 We’re on a mission to empower Linux freelancing training around the globe to earn money from home🐧 We’re working hard to establish Linux freelancer community through cutting edge open source technology. Our Linux practical project management freelancing training ecosystem aim for establish earning by doing Linux freelancing from home 🏠
 
@@ -13,9 +15,6 @@ We’re on a mission to empower Linux freelancing training around the globe to e
 * 🗨  [Forums](https://www.facebook.com/groups/SchoolOfFreelancing/) - Community support and discussions
 * :white_check_mark: [GitHub](https://github.com/SchoolOfFreelancing) - Verified School Of Freelancing Organization's Domain
 * 👪 [Community Chat](https://gitter.im/pimcore/pimcore) - Gitter
-
-[![Gitter](https://badges.gitter.im/School-Of-Freelancing/Lobby.svg)](https://gitter.im/School-Of-Freelancing/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 
 ## Key Benefits and Advantages
 
