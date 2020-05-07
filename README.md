@@ -9,7 +9,7 @@ We’re on a mission to empower Linux freelancing training around the globe to e
 * 📖 [Documentation](https://github.com/SchoolOfFreelancing/BackOffice/wiki) - Let's Get Started
 * :rocket: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) - School Of Freelancing Online Corkboard
 * 👍 Like us on [Facebook](https://www.facebook.com/SchoolOfFreelancing/)
-* 🕊 Twitter: [@pimcore](https://twitter.com/SchoolOfFreelan) - Get the latest news
+* 🕊 Twitter: [@SchoolOfFreelan](https://twitter.com/SchoolOfFreelan) - Get the latest news
 * 🐞 [Issue Tracker](https://github.com/SchoolOfFreelancing/BackOffice/issues) - Report a session or suggest new features
 * 🗨  [Forums](https://www.facebook.com/groups/SchoolOfFreelancing/) - Community support and discussions
 * :white_check_mark: [GitHub](https://github.com/SchoolOfFreelancing) - Verified School Of Freelancing Organization's Domain
