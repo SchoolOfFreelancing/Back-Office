@@ -3,7 +3,7 @@
 ## ALL ABOUT US   [![Gitter](https://badges.gitter.im/School-Of-Freelancing/Lobby.svg)](https://gitter.im/School-Of-Freelancing/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) ![Jekyll site CI](https://github.com/SchoolOfFreelancing/BackOffice/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
 
 
-We’re on a mission to empower Linux freelancing training around the globe to earn money from home🐧 We’re working hard to establish Linux freelancer community through cutting edge open source technology. Our Linux practical project management freelancing training ecosystem aim for establish earning by doing Linux freelancing from home 🏠
+We’re on a mission to empower Linux freelancing training around the globe to earn money from home🐧 We’re working hard to establish Linux freelancer community through cutting edge open source technology. Our practical project management Linux freelancing training ecosystem design for establish earning by doing Linux freelancing from home 🏠
 
 * 🌍 [Website](https://www.schooloffreelancing.com/) - Everything You Need To Know
 * 📖 [Documentation](https://github.com/SchoolOfFreelancing/BackOffice/wiki) - Let's Get Started
