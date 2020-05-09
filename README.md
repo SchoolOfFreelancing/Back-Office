@@ -48,5 +48,5 @@ If you are determined to enroll our training then we will schedule a time for fi
 
 ## Copyright and License 
 Copyright: [School Of Freelancing](https://www.schooloffreelancing.com/) 
-This work is licensed under a [Creative Commons Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/) 4.0 International License.  
+This work is licensed under a [Creative Commons Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/) 4.0 International License. Call For Join Training +8801748973769  
   
