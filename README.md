@@ -8,12 +8,12 @@ We’re on a mission to empower Linux freelancing training around the globe to e
 * 🌍 [Website](https://www.schooloffreelancing.com/) - Everything You Need To Know
 * 📖 [Documentation](https://github.com/SchoolOfFreelancing/BackOffice/wiki) - Let's Get Started
 * :rocket: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) - School Of Freelancing Online Corkboard
-* 👍 Like us on [Facebook](https://www.facebook.com/SchoolOfFreelancing/)
+* 👍 Like Us On [Facebook](https://www.facebook.com/SchoolOfFreelancing/)
 * 🕊 Twitter: [@SchoolOfFreelan](https://twitter.com/SchoolOfFreelan) - Get the latest news
-* 🐞 [Issue Tracker](https://github.com/SchoolOfFreelancing/BackOffice/issues) - Report a session or suggest new features
-* 🗨  [Forums](https://www.facebook.com/groups/SchoolOfFreelancing/) - Community support and discussions
+* 🐞 [Issue Tracker](https://github.com/SchoolOfFreelancing/BackOffice/issues) - Report Session Or Suggest New Features
+* 🗨  [Forums](https://www.facebook.com/groups/SchoolOfFreelancing/) - Community Support & Discussions
 * :white_check_mark: [GitHub](https://github.com/SchoolOfFreelancing) - Verified School Of Freelancing Organization's Domain
-* 👪 [Community Chat](https://gitter.im/School-Of-Freelancing/Lobby) - Gitter
+* 👪 [Community Chat](https://gitter.im/School-Of-Freelancing/Lobby) - Join Gitter
 
 ## Contribute  
 **Update Requests:** please create a [pull request](https://github.com/SchoolOfFreelancing/BackOffice/pulls) including a step by step description to reproduce any training session  
