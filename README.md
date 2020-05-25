@@ -44,6 +44,7 @@ If you are determined to enroll our training then we will schedule a time for fi
 
 **Steps 3:** After deposit payment to our concern payment method you can start [onboard training](https://trello.com/b/RFo7GNdY/school-of-freelancing). 
 
+Training discussions are conducted in https://www.facebook.com/groups/SchoolOfFreelancing/ and https://gitter.im/School-Of-Freelancing/Lobby
 
 ## Copyright and License 
 Copyright: [School Of Freelancing](https://www.schooloffreelancing.com/) 
