@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+sitemap: https://www.schooloffreelancing.com/sitemap.xml
+
