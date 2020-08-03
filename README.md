@@ -49,6 +49,7 @@ Public discussions about our training are conducted in https://www.facebook.com/
 
 ## Attributions
 This project would not have been made possible without the help of other open-source projects:
+* [Git](https://github.com/git/git)
 * [Linux](https://github.com/torvalds/linux)
 * [GNU Project](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
