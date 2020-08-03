@@ -47,6 +47,11 @@ If you are determined to enroll our training then we will schedule a time for fi
 
 Public discussions about our training are conducted in https://www.facebook.com/groups/SchoolOfFreelancing/ and https://gitter.im/School-Of-Freelancing/Lobby
 
+## Attributions
+This project would not have been made possible without the help of other open-source projects:
+* [Linux](https://github.com/torvalds/linux)
+* [GNU Project](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
 ## Copyright and License 
 Copyright: [School Of Freelancing](https://www.schooloffreelancing.com/) 
 This work is licensed under a [Creative Commons Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/) 4.0 International License. 
