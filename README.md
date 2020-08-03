@@ -15,7 +15,7 @@ We’re on a mission to empower Linux freelancing training around the globe to e
 * :white_check_mark: [GitHub](https://github.com/SchoolOfFreelancing) - Verified School Of Freelancing Organization's Domain
 * 👪 [Community Chat](https://gitter.im/School-Of-Freelancing/Lobby) - Join Gitter
 
-## We heart Contributors Like You!
+## We :heart: Contributors Like You!
 
 **Update Requests:** please create a [pull request](https://github.com/SchoolOfFreelancing/BackOffice/pulls) including a step by step description to reproduce any training session  
 **Contribute features:** contact the core-team on our [Gitter channel](https://gitter.im/School-Of-Freelancing/Lobby) before you start contributing   
