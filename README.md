@@ -55,7 +55,7 @@ This project would not have been made possible without the help of other open-so
 * [GNU Project](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Copyright and License 
-Copyright: [School Of Freelancing](https://www.schooloffreelancing.com/) 
+[School Of Freelancing](https://www.schooloffreelancing.com/) 
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L53CU1H)
