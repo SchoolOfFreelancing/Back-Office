@@ -1,7 +1,6 @@
 ## School Of Freelancing - 100% Open Source Training
 ![Gitter](https://badges.gitter.im/School-Of-Freelancing/Lobby.svg)] 
 ![Jekyll site CI](https://github.com/SchoolOfFreelancing/BackOffice/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
-![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L53CU1H)
 
 **WE'LL MENTOR YOU TO GET YOUR BLACK BELT IN LINUX FREELANCING.** 
 We’re on a mission to empower Linux freelancing training around the globe to earn money from home🐧 We’re working hard to establish Linux freelancer community through cutting edge open source technology. Our practical project management Linux freelancing training ecosystem design for establish earning by doing Linux freelancing from home 🏠
@@ -57,5 +56,6 @@ This project would not have been made possible without the help of other open-so
 
 ## Copyright and License 
 Copyright: [School Of Freelancing](https://www.schooloffreelancing.com/) 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L53CU1H)
 
   
