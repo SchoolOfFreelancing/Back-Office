@@ -2,7 +2,7 @@
 
 ## All About Us 
 
-![Gitter](https://badges.gitter.im/School-Of-Freelancing/Lobby.svg)](https://gitter.im/School-Of-Freelancing/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
+![Gitter](https://badges.gitter.im/School-Of-Freelancing/Lobby.svg)]
 
 ![Jekyll site CI](https://github.com/SchoolOfFreelancing/BackOffice/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
 
