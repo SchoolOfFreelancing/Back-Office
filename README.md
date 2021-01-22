@@ -1,5 +1,5 @@
 ## School Of Freelancing - 100% Open Source Training
-![Gitter](https://badges.gitter.im/School-Of-Freelancing/Lobby.svg)] 
+![Gitter](https://badges.gitter.im/School-Of-Freelancing/Lobby.svg)
 ![Jekyll site CI](https://github.com/SchoolOfFreelancing/BackOffice/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
 
 **WE'LL MENTOR YOU TO GET YOUR BLACK BELT IN LINUX FREELANCING.** 
