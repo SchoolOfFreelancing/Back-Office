@@ -8,7 +8,7 @@ Our Linux freelancing training ecosystem design to establish **Earning By Doing*
 
 * 🌍 [Website](https://www.schooloffreelancing.com/) - Everything You Need To Know
 * 📖 [Documentation](https://github.com/SchoolOfFreelancing/BackOffice/wiki) - Let's Get Started
-* :rocket: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) - School Of Freelancing Online Corkboard
+* :rocket: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) - Online Corkboard
 * 👍 Like Us On [Facebook](https://www.facebook.com/SchoolOfFreelancing/)
 * 🕊 Twitter: [@SchoolOfFreelan](https://twitter.com/SchoolOfFreelan) - Get the latest news
 * 🐞 [Issue Tracker](https://github.com/SchoolOfFreelancing/BackOffice/issues) - Report Session Or Suggest New Features
