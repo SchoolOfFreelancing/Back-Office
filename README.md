@@ -4,7 +4,7 @@
 
 **We are on a mission to empower Linux hands-on training to develop giant Linux freelancer🐧** 
 
-Our Linux freelancing training ecosystem design to establish Earning By Doing Linux freelancing from home 🏠
+Our Linux freelancing training ecosystem design to establish **Earning By Doing** Linux freelancing from home 🏠
 
 * 🌍 [Website](https://www.schooloffreelancing.com/) - Everything You Need To Know
 * 📖 [Documentation](https://github.com/SchoolOfFreelancing/BackOffice/wiki) - Let's Get Started
