@@ -2,7 +2,7 @@
 ![Gitter](https://badges.gitter.im/School-Of-Freelancing/Lobby.svg)
 ![Jekyll site CI](https://github.com/SchoolOfFreelancing/BackOffice/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
 
-**We are on a mission to empower Linux hands-on training to develop giant Linux freelancer from home 🏠** 
+**We are on a mission to empower Linux hands-on training to develop giant Linux freelancer🐧** 
 
 Our Linux freelancing training ecosystem design to establish Earning By Doing Linux freelancing from home 🏠
 
