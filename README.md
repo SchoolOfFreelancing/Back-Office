@@ -8,13 +8,16 @@ Our Linux freelancing training ecosystem design to establish **Earning By Doing*
 
 * 🌍 [Website](https://www.schooloffreelancing.com/) - Everything You Need To Know
 * 📖 [Documentation](https://github.com/SchoolOfFreelancing/BackOffice/wiki) - Let's Get Started
+* :octocat: [GitHub](https://github.com/SchoolOfFreelancing) - Verified School Of Freelancing Organization's Domain
 * :rocket: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) - Online Corkboard
+* :film_projector:[YouTube](https://www.youtube.com/channel/UCVPPcG_DnwE_L1YgiIGsSIA/sub_confirmation=1) - YouTube Channel  	
+* :link:[LinkedIn](https://www.linkedin.com/company/school-of-freelancing) - LinkedIn
 * 👍 Like Us On [Facebook](https://www.facebook.com/SchoolOfFreelancing/)
 * 🕊 Twitter: [@SchoolOfFreelan](https://twitter.com/SchoolOfFreelan) - Get the latest news
 * 🐞 [Issue Tracker](https://github.com/SchoolOfFreelancing/BackOffice/issues) - Report Session Or Suggest New Features
 * 🗨  [Forums](https://www.facebook.com/groups/SchoolOfFreelancing/) - Community Support & Discussions
-* :white_check_mark: [GitHub](https://github.com/SchoolOfFreelancing) - Verified School Of Freelancing Organization's Domain
-* 👪 [Community Chat](https://gitter.im/School-Of-Freelancing/Lobby) - Join Gitter
+* :stars:[Tumblr](https://www.tumblr.com/blog/schooloffreelancing) - Tumblr
+* 🤳🏻 [Instagram](https://www.instagram.com/schooloffreelancing/)- Instagram
 
 ## We :heart: Contributors Like You!
 
