@@ -12,17 +12,17 @@ Our Linux freelancing training ecosystem design to establish **Earning By Doing*
 * :rocket: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) - Online Corkboard
 * :film_projector: [YouTube](https://www.youtube.com/channel/UCVPPcG_DnwE_L1YgiIGsSIA/sub_confirmation=1) - YouTube Channel  	
 * :link: [LinkedIn](https://www.linkedin.com/company/school-of-freelancing) - LinkedIn
-* 👍 Like Us On [Facebook](https://www.facebook.com/SchoolOfFreelancing/)
-* 🕊 Twitter: [@SchoolOfFreelan](https://twitter.com/SchoolOfFreelan) - Get the latest news
+* 👍 [Facebook](https://www.facebook.com/SchoolOfFreelancing/) - Facebook
+* 🕊 [Twitter](https://twitter.com/SchoolOfFreelan) - Twitter
 * 🐞 [Issue Tracker](https://github.com/SchoolOfFreelancing/BackOffice/issues) - Report Session Or Suggest New Features
 * 🗨 [Forums](https://www.facebook.com/groups/SchoolOfFreelancing/) - Community Support & Discussions
 * :stars: [Tumblr](https://www.tumblr.com/blog/schooloffreelancing) - Tumblr
 * 🤳🏻 [Instagram](https://www.instagram.com/schooloffreelancing/)- Instagram
-* :whatsapp: [WhatsApp](https://wa.me/8801748973769) - WhatsApp
-* :pinterest: [pinterest](https://www.pinterest.com/schooloffreelancing/) - pinterest
+* :iphone: [WhatsApp](https://wa.me/8801748973769) - WhatsApp
+* :pushpin: [pinterest](https://www.pinterest.com/schooloffreelancing/) - pinterest
 * :medium: [medium](https://medium.com/@schooloffreelancing) - medium
-* :tiktok: [tiktok](https://www.tiktok.com/@schooloffreelancing) - tiktok
-* :slack: [Slack](https://schooloffreelancing.slack.com/) - Slack
+* :camera: [tiktok](https://www.tiktok.com/@schooloffreelancing) - tiktok
+* :globe_with_meridians: [Slack](https://schooloffreelancing.slack.com/) - Slack
 * 👪 [Community Chat](https://gitter.im/School-Of-Freelancing/Lobby) - Join Gitter
 
 ## We :heart: Contributors Like You!
