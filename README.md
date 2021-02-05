@@ -15,13 +15,13 @@ Our Linux freelancing training ecosystem design to establish **Earning By Doing*
 * 👍 [Facebook](https://www.facebook.com/SchoolOfFreelancing/) - Facebook
 * 🕊 [Twitter](https://twitter.com/SchoolOfFreelan) - Twitter
 * 🐞 [Issue Tracker](https://github.com/SchoolOfFreelancing/BackOffice/issues) - Report Session Or Suggest New Features
-* 🗨 [Forums](https://www.facebook.com/groups/SchoolOfFreelancing/) - Community Support & Discussions
+* 🗨 [Forums](https://www.facebook.com/groups/SchoolOfFreelancing/) - Community Discussions
 * :stars: [Tumblr](https://www.tumblr.com/blog/schooloffreelancing) - Tumblr
 * 🤳🏻 [Instagram](https://www.instagram.com/schooloffreelancing/)- Instagram
 * :iphone: [WhatsApp](https://wa.me/8801748973769) - WhatsApp
-* :pushpin: [pinterest](https://www.pinterest.com/schooloffreelancing/) - pinterest
-* :medium: [medium](https://medium.com/@schooloffreelancing) - medium
-* :camera: [tiktok](https://www.tiktok.com/@schooloffreelancing) - tiktok
+* :pushpin: [pinterest](https://www.pinterest.com/schooloffreelancing/) - Pinterest
+* :loop: [medium](https://medium.com/@schooloffreelancing) - Medium
+* :camera: [tiktok](https://www.tiktok.com/@schooloffreelancing) - TikTok
 * :globe_with_meridians: [Slack](https://schooloffreelancing.slack.com/) - Slack
 * 👪 [Community Chat](https://gitter.im/School-Of-Freelancing/Lobby) - Join Gitter
 
