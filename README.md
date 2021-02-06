@@ -19,11 +19,11 @@ Our Linux freelancing training ecosystem design to establish **Earning By Doing*
 * :stars: [Tumblr](https://www.tumblr.com/blog/schooloffreelancing) - Tumblr
 * 🤳🏻 [Instagram](https://www.instagram.com/schooloffreelancing/)- Instagram
 * :iphone: [WhatsApp](https://wa.me/8801748973769) - WhatsApp
-* :pushpin: [pinterest](https://www.pinterest.com/schooloffreelancing/) - Pinterest
-* :loop: [medium](https://medium.com/@schooloffreelancing) - Medium
-* :camera: [tiktok](https://www.tiktok.com/@schooloffreelancing) - TikTok
+* :pushpin: [Pinterest](https://www.pinterest.com/schooloffreelancing/) - Pinterest
+* :loop: [Medium](https://medium.com/@schooloffreelancing) - Medium
+* :camera: [TikTok](https://www.tiktok.com/@schooloffreelancing) - TikTok
 * :globe_with_meridians: [Slack](https://schooloffreelancing.slack.com/) - Slack
-* 👪 [Community Chat](https://gitter.im/School-Of-Freelancing/Lobby) - Join Gitter
+* 👪 [Gitter](https://gitter.im/School-Of-Freelancing/Lobby) - Join Gitter
 
 ## We :heart: Contributors Like You!
 
