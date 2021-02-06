@@ -23,7 +23,7 @@ Our Linux freelancing training ecosystem design to establish **Earning By Doing*
 * :loop: [Medium](https://medium.com/@schooloffreelancing) - Medium
 * :camera: [TikTok](https://www.tiktok.com/@schooloffreelancing) - TikTok
 * :globe_with_meridians: [Slack](https://schooloffreelancing.slack.com/) - Slack
-* 👪 [Gitter](https://gitter.im/School-Of-Freelancing/Lobby) - Join Gitter
+* 👪 [Gitter](https://gitter.im/School-Of-Freelancing/Lobby) - Gitter
 
 ## We :heart: Contributors Like You!
 
