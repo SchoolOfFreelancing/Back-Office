@@ -59,9 +59,11 @@ If you are determined to enroll our training then we will schedule a time for fi
 Public discussions about our training are conducted in https://www.facebook.com/groups/SchoolOfFreelancing/ and https://gitter.im/School-Of-Freelancing/Lobby
 
 ## Attributions
-This project would not have been made possible without the help of other open-source projects:
+This would not have been made possible without the help of other open-source projects:
 * [Git](https://github.com/git/git)
+* [GitHub](https://github.com)
 * [Linux](https://github.com/torvalds/linux)
+* [Ubuntu](https://launchpad.net/ubuntu)
 * [GNU Project](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Copyright and License 
