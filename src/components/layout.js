@@ -3,25 +3,15 @@ import PropTypes from 'prop-types';
 
 import Header from './header';
 import { AppContext } from '../context';
+import Footer from './Footer';
 
 function Layout({ children }) {
   return (
     <AppContext>
       <Header />
-      <div className="pt-14 h-screen">
+      <div className="pt-14 h-screen bg-white">
         <main>{children}</main>
-        <footer
-          className="bg-gray-200 p-14 justify-center flex"
-        >
-          <p className="text-black">
-            ©
-            {' '}
-            {new Date().getFullYear()}
-            , Built by
-            {' '}
-            Wagner Silva
-          </p>
-        </footer>
+        <Footer />
       </div>
     </AppContext>
   );

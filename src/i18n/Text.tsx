@@ -1,5 +1,6 @@
 import React from 'react';
 import { FormattedMessage } from 'react-intl';
+import { join } from 'lodash';
 import I18N from './en.json';
 import { MessageKey } from './Context';
 
@@ -18,6 +19,20 @@ export const Text: React.FC<Props<Record<string, any>>> = <
     />
   );
 
+interface TypographyProps extends Props<Record<string, any>> {
+  className?: string;
+}
+export const P: React.FC<TypographyProps> = ({ className, ...props }: TypographyProps) => (
+  <p className={join([P.defaultProps?.className, className], ' ')}>
+    <Text {...props} />
+  </p>
+);
+
 Text.defaultProps = {
   values: {},
+};
+
+P.defaultProps = {
+  values: {},
+  className: 'text-white',
 };

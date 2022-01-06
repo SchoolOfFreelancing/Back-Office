@@ -23,7 +23,7 @@ export const HeaderLink: React.FC<HeaderLinkProps> = ({ to, messageKey }: Header
   <Link
     to={to}
   >
-    <h4 className="mb-0 text-gray-600">
+    <h4 className="mb-0 text-gray-600 uppercase">
       <Text messageKey={messageKey} />
     </h4>
   </Link>

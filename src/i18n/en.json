@@ -1,6 +1,6 @@
 {
   "HOME": "SCHOOL OF FREELANCING",
-  "WHAT_WE_DO": "WHAT WE DO",
+  "WHAT_WE_DO": "What We Do",
   "TRAINING": "TRAINING",
   "TRAINEE": "TRAINEE",
   "PAGES": "PAGES",
@@ -12,5 +12,29 @@
   "LINUX_FREELANCING_TRAINING": "Linux Freelancing Training",
   "CORPORATE_FREELANCING_TRAINING": "Corporate Linux Training",
   "STARTUP_DEVELOPMENT_TRAINING": "Startup Development Training",
-  "WORK_EARN_BEYOND_YOUR_IMMIGRATION": "Work & Earn Beyond Your Immigration"
+  "WORK_EARN_BEYOND_YOUR_IMMIGRATION": "Work & Earn Beyond Your Immigration",
+  "COMPANY": "Company",
+  "FOLLOW_US": "Follow Us",
+  "SUPPORT": "Support",
+  "RECOMMEND": "Recommend",
+  "OUR_MENTOR": "Our mentor",
+  "IMPRESSUM": "Impressum",
+  "SUCCESS_STORIES": "Success stories",
+  "CONTACT_US": "Contact Us",
+  "INSTAGRAM": "Instagram",
+  "WHATSAPP": "WhatsApp",
+  "PINTEREST": "Pinterest",
+  "MEDIUM": "Medium",
+  "TIK_TOK": "TikTok",
+  "FAQS": "FAQs",
+  "WRONGDOING": "Wrongdoing",
+  "GET_SUPPORT": "Get support",
+  "GETTING_STARTED": "Getting started",
+  "RELEASE_STATUS": "Release Status",
+  "TERMS_OF_USE": "Terms Of Use",
+  "PRIVACY_POLICY": "Privacy Policy",
+  "CODE_OF_CONDUCT": "Code Of Conduct",
+  "REFUND_POLICY": "Refund Policy",
+  "TRAINING_RULES": "Training Rules"
+
 }
