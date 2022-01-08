@@ -1,11 +1,10 @@
 import * as React from 'react';
-import PropTypes from 'prop-types';
 
-import Header from './header';
+import Header from './Header';
 import { AppContext } from '../context';
 import Footer from './Footer';
 
-function Layout({ children }) {
+function Layout({ children }: React.PropsWithChildren<any>) {
   return (
     <AppContext>
       <Header />
@@ -16,9 +15,5 @@ function Layout({ children }) {
     </AppContext>
   );
 }
-
-Layout.propTypes = {
-  children: PropTypes.node.isRequired,
-};
 
 export default Layout;
