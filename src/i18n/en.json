@@ -10,8 +10,11 @@
   "WE_ARE_ON_A_MISSION": "We are on a mission to empower on-demand Linux hands-on training to develop giant Linux freelancer from Bangladesh to all over the world",
   "NOW_PROVIDING_THREE": "Now Providing Three Trainings:",
   "LINUX_FREELANCING_TRAINING": "Linux Freelancing Training",
+  "LINUX_FREELANCING_TRAINING_CONTENT": "180+ hours on demand and unique Linux based hands-on training to become a giant Linux Freelancer",
   "CORPORATE_FREELANCING_TRAINING": "Corporate Linux Training",
+  "CORPORATE_FREELANCING_TRAINING_CONTENT": "Level up your employees current skills implementing advance linux technology trends for win competitive advantage",
   "STARTUP_DEVELOPMENT_TRAINING": "Startup Development Training",
+  "STARTUP_DEVELOPMENT_TRAINING_CONTENT": "If you have any business ideas as startup founder this training will help you grow up from scratch to make your first sell",
   "WORK_EARN_BEYOND_YOUR_IMMIGRATION": "Work & Earn Beyond Your Immigration",
   "COMPANY": "Company",
   "FOLLOW_US": "Follow Us",
@@ -35,6 +38,8 @@
   "PRIVACY_POLICY": "Privacy Policy",
   "CODE_OF_CONDUCT": "Code Of Conduct",
   "REFUND_POLICY": "Refund Policy",
-  "TRAINING_RULES": "Training Rules"
-
+  "TRAINING_RULES": "Training Rules",
+  "LOREM_TITLE": "Lorem title",
+  "LOREM_CONTENT": "Lorem content",
+  "NO_MESSAGE_ID": "No text message"
 }

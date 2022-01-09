@@ -4,7 +4,7 @@ import Layout from '../components/Layout';
 import Seo from '../components/seo';
 import { SectionWrapper } from '../components/SectionWrapper';
 import { ContentCard } from '../components/cards/ContentCard';
-import { TEXTS, H1 } from '../i18n';
+import { TEXTS, H2 } from '../i18n';
 import { TrainingsCard } from '../components/cards/TrainingsCard';
 
 function AboutPage() {
@@ -29,7 +29,7 @@ function AboutPage() {
         </ContentCard>
       </SectionWrapper>
       <SectionWrapper className="bg-primary justify-center">
-        <H1 messageKey={TEXTS.WORK_EARN_BEYOND_YOUR_IMMIGRATION} className="font-bold" />
+        <H2 messageKey={TEXTS.WORK_EARN_BEYOND_YOUR_IMMIGRATION} className="font-bold" />
       </SectionWrapper>
       <p />
     </Layout>
