@@ -9,7 +9,7 @@ interface Props {
     content: MessageKey;
 }
 export const ItemToSell = ({ Icon, content, title }: Props) => (
-  <div className="border p-10 flex flex-col gap-2 hover:shadow-xl cursor-pointer">
+  <div className="border p-10 flex flex-col gap-2 hover:shadow-xl cursor-pointer w-full">
     <div className="justify-center flex">
       <Icon size="12em" />
     </div>
