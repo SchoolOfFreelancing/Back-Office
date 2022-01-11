@@ -7,7 +7,7 @@ function Footer() {
       className="bg-background p-14 justify-center text-white"
     >
       <div
-        className="flex sm:text-center justify-end gap-14 sm:flex-col sm:gap-8 sm:items-center"
+        className="flex justify-end gap-14"
       >
         <div className="gap-10">
           <h1 className="my-3 text-3xl capitalize">
