@@ -17,9 +17,13 @@ export const Link = forwardRef(({ children, ...rest }: Props, ref) => (
 interface HeaderLinkProps extends Props {
   messageKey: MessageKey
 }
-export const HeaderLink: React.FC<HeaderLinkProps> = ({ to, messageKey }: HeaderLinkProps) => (
+export const HeaderLink: React.FC<HeaderLinkProps> = (
+  { to, messageKey, ...rest }: HeaderLinkProps,
+) => (
+  // @ts-ignore
   <Link
     to={to}
+    {...rest}
   >
     <h4 className="mb-0 text-gray-600 uppercase">
       <Text messageKey={messageKey} />

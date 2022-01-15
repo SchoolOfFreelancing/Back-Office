@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import React, { useCallback, useMemo } from 'react';
 import { navigate } from 'gatsby';
 import { map, take } from 'lodash';
 import { ItemToSell } from './cards/ItemToSell';
@@ -10,6 +10,7 @@ import { ITEMS_TO_SELL } from '../globals';
 interface ItemsToSellProps {
     showOnly?: number | 'ALL'
 }
+
 export const ItemsToSell: React.FC<ItemsToSellProps> = ({ showOnly }: ItemsToSellProps) => {
   const items = useMemo(() => {
     if (showOnly === 'ALL') return ITEMS_TO_SELL;
@@ -29,6 +30,7 @@ export const ItemsToSell: React.FC<ItemsToSellProps> = ({ showOnly }: ItemsToSel
             Icon={item.Icon}
             title={item.title}
             key={item.id}
+            id={item.id}
           />
         ))}
       </div>

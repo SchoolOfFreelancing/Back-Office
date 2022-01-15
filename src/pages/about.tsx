@@ -16,7 +16,7 @@ function AboutPage() {
         <ContentCard
           title={TEXTS.ABOUT_US}
           content={TEXTS.WE_WILL_MENTOR}
-          titleClassName="text-primary font-bold"
+          titleClassName="text-primary font-extrabold"
         />
       </SectionWrapper>
       <SectionWrapper className="bg-gray-100">

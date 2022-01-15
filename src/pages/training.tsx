@@ -3,7 +3,7 @@ import * as React from 'react';
 import Layout from '../components/Layout';
 import Seo from '../components/seo';
 import { SectionWrapper } from '../components/SectionWrapper';
-import { H2, H6, TEXTS } from '../i18n';
+import { TEXTS } from '../i18n';
 import { ContentCard } from '../components/cards/ContentCard';
 import { ItemsToSell } from '../components/ItemsToSell';
 import { PrimaryCard } from '../components/cards/PrimaryCard';
@@ -11,7 +11,7 @@ import { PrimaryCard } from '../components/cards/PrimaryCard';
 function TrainingPage() {
   return (
     <Layout>
-      <Seo title="About" />
+      <Seo title="Training" />
       <SectionWrapper className="bg-background">
         <ContentCard
           title={TEXTS.HANDS_ON_TRAINING}

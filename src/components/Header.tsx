@@ -13,7 +13,7 @@ function Header() {
         <div className="flex gap-6">
           <HeaderLink to={ROUTES.ABOUT} messageKey={TEXTS.WHAT_WE_DO} />
           <HeaderLink to={ROUTES.TRAINING} messageKey={TEXTS.TRAINING} />
-          <HeaderLink to={GLOBALS.TRAINEE} messageKey={TEXTS.TRAINEE} />
+          <HeaderLink to={GLOBALS.TRAINEE} messageKey={TEXTS.TRAINEE} target="_blank" />
           <HeaderLink to={HOME} messageKey={TEXTS.PAGES} />
           <HeaderLink to={ROUTES.CONTACT} messageKey={TEXTS.CONTACT} />
         </div>
