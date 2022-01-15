@@ -6,6 +6,7 @@ import { SectionWrapper } from '../components/SectionWrapper';
 import { ContentCard } from '../components/cards/ContentCard';
 import { TEXTS, H2 } from '../i18n';
 import { TrainingsCard } from '../components/cards/TrainingsCard';
+import { PrimaryCard } from '../components/cards/PrimaryCard';
 
 function AboutPage() {
   return (
@@ -29,7 +30,7 @@ function AboutPage() {
         </ContentCard>
       </SectionWrapper>
       <SectionWrapper className="bg-primary justify-center">
-        <H2 messageKey={TEXTS.WORK_EARN_BEYOND_YOUR_IMMIGRATION} className="font-bold" />
+        <PrimaryCard messageKey={TEXTS.WORK_EARN_BEYOND_YOUR_IMMIGRATION} />
       </SectionWrapper>
       <p />
     </Layout>

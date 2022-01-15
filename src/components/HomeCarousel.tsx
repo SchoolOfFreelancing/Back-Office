@@ -28,7 +28,7 @@ const Dots = () => {
   );
 };
 export const HomeCarousel: React.FC = () => (
-  <div className="flex w-full">
+  <div className="flex w-full p-6">
     <CarouselProvider
       naturalSlideWidth={50}
       naturalSlideHeight={200}

@@ -14,7 +14,7 @@ function IndexPage() {
         <HomeCarousel />
       </SectionWrapper>
       <SectionWrapper className="bg-gray-100">
-        <ItemsToSell />
+        <ItemsToSell showOnly={3} />
       </SectionWrapper>
       <p />
     </Layout>

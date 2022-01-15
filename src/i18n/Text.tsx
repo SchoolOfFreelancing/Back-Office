@@ -6,6 +6,7 @@ import { dark } from 'react-syntax-highlighter/dist/esm/styles/prism';
 import I18N from './en.json';
 import { MessageKey } from './Context';
 import { TEXTS } from './texts';
+import { joinClassName } from '../components/elements/utils';
 
 interface Props<V extends Record<string, any> | undefined = undefined> {
   messageKey?: MessageKey;
@@ -80,19 +81,19 @@ const CODE_DEFAULT_PROPS = {
 };
 
 export const H1: React.FC<TypographyProps> = ({ className, ...props }: TypographyProps) => (
-  <h1 className={join([H1_DEFAULT_PROPS.className, className], ' ')}>
+  <h1 className={joinClassName(H1_DEFAULT_PROPS, className)}>
     <Text {...props} />
   </h1>
 );
 
 export const H2: React.FC<TypographyProps> = ({ className, ...props }: TypographyProps) => (
-  <h2 className={join([H2_DEFAULT_PROPS.className, className], ' ')}>
+  <h2 className={joinClassName(H2_DEFAULT_PROPS, className)}>
     <Text {...props} />
   </h2>
 );
 
 export const H6: React.FC<TypographyProps> = ({ className, ...props }: TypographyProps) => (
-  <h2 className={join([H6_DEFAULT_PROPS.className, className], ' ')}>
+  <h2 className={joinClassName(H6_DEFAULT_PROPS, className)}>
     <Text {...props} />
   </h2>
 );
