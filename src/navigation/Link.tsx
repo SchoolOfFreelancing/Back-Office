@@ -4,10 +4,8 @@ import { MessageKey, Text } from '../i18n';
 
 type Props = Omit<GatsbyLinkProps<null>, 'style'>
 
-const STYLE = { color: 'black' };
 export const Link = forwardRef(({ children, ...rest }: Props, ref) => (
   <GatsbyLink
-    style={STYLE}
       // @ts-ignore
     ref={ref}
     {...rest}
