@@ -15,6 +15,7 @@ const DEFAULT_PROPS = {
   contentClassName: '',
   children: null,
 };
+
 export const ContentCard = ({
   title, content, titleClassName, contentClassName, children,
 }: Props) => (
