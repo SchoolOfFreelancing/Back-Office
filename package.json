@@ -6,6 +6,7 @@
   "author": "Wagner Silva <wagnergreen21@gmail.com>",
   "dependencies": {
     "gatsby": "^4.4.0",
+    "gatsby-plugin-create-client-paths": "^4.5.0",
     "gatsby-plugin-gatsby-cloud": "^4.4.0",
     "gatsby-plugin-image": "^2.4.0",
     "gatsby-plugin-manifest": "^4.4.0",

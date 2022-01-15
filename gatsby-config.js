@@ -10,6 +10,10 @@ module.exports = {
     'gatsby-plugin-postcss',
     'gatsby-plugin-image',
     {
+      resolve: 'gatsby-plugin-create-client-paths',
+      options: { prefixes: ['/sale/*'] },
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'images',

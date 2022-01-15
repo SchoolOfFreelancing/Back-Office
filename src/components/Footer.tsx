@@ -1,5 +1,6 @@
 import * as React from 'react';
 import { P, Text, TEXTS } from '../i18n';
+import { GLOBALS } from '../globals';
 
 function Footer() {
   return (
@@ -23,11 +24,21 @@ function Footer() {
           <h1 className="my-3 text-3xl capitalize">
             <Text messageKey={TEXTS.FOLLOW_US} />
           </h1>
-          <P className="my-1" messageKey={TEXTS.INSTAGRAM} />
-          <P className="my-1" messageKey={TEXTS.WHATSAPP} />
-          <P className="my-1" messageKey={TEXTS.PINTEREST} />
-          <P className="my-1" messageKey={TEXTS.MEDIUM} />
-          <P className="my-1" messageKey={TEXTS.TIK_TOK} />
+          <a href={GLOBALS.INSTAGRAM} target="_blank" rel="noreferrer">
+            <P className="my-1" messageKey={TEXTS.INSTAGRAM} />
+          </a>
+          <a href={GLOBALS.WHATSAPP} target="_blank" rel="noreferrer">
+            <P className="my-1" messageKey={TEXTS.WHATSAPP} />
+          </a>
+          <a href={GLOBALS.PINTEREST} target="_blank" rel="noreferrer">
+            <P className="my-1" messageKey={TEXTS.PINTEREST} />
+          </a>
+          <a href={GLOBALS.MEDIUM} target="_blank" rel="noreferrer">
+            <P className="my-1" messageKey={TEXTS.MEDIUM} />
+          </a>
+          <a href={GLOBALS.TIK_TOK} target="_blank" rel="noreferrer">
+            <P className="my-1" messageKey={TEXTS.TIK_TOK} />
+          </a>
         </div>
         <div className="gap-10">
           <h1 className="my-3 text-3xl capitalize">
