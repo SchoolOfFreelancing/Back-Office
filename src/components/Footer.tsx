@@ -9,9 +9,9 @@ function Footer() {
       className="bg-background p-14 justify-center text-white"
     >
       <div
-        className="flex justify-end gap-14"
+        className="flex items-center md:justify-center gap-14 flex-col md:flex-row"
       >
-        <div className="gap-10">
+        <div className="gap-1 flex flex-col items-center">
           <h1 className="my-3 text-3xl capitalize">
             <Text messageKey={TEXTS.COMPANY} />
           </h1>
@@ -31,7 +31,7 @@ function Footer() {
             <P className="my-1" messageKey={TEXTS.CONTACT_US} />
           </Link>
         </div>
-        <div className="gap-10">
+        <div className="gap-1 flex flex-col items-center">
           <h1 className="my-3 text-3xl capitalize">
             <Text messageKey={TEXTS.FOLLOW_US} />
           </h1>
@@ -51,7 +51,7 @@ function Footer() {
             <P className="my-1" messageKey={TEXTS.TIK_TOK} />
           </Link>
         </div>
-        <div className="gap-10">
+        <div className="gap-1 flex flex-col items-center">
           <h1 className="my-3 text-3xl capitalize">
             <Text messageKey={TEXTS.SUPPORT} />
           </h1>
@@ -71,7 +71,7 @@ function Footer() {
             <P className="my-1" messageKey={TEXTS.RELEASE_STATUS} />
           </Link>
         </div>
-        <div className="gap-10">
+        <div className="gap-1 flex flex-col items-center">
           <h1 className="my-3 text-3xl capitalize">
             <Text messageKey={TEXTS.RECOMMEND} />
           </h1>
@@ -92,15 +92,44 @@ function Footer() {
           </Link>
         </div>
       </div>
-      <P>
-        ©
-        {' '}
-        {new Date().getFullYear()}
-        , Built by
-        {' '}
-        Wagner Silva
-      </P>
-      <P>{GLOBALS.VERSION}</P>
+      <div className="gap-1 flex flex-col mt-10 items-center">
+        <div className="flex">
+          <P messageKey={TEXTS.BUSINESS_ROOT} />
+          <P>:</P>
+          <Link to={GLOBALS.MAPS_LINK} target="_blank" rel="noreferrer">
+            <P className="ml-1">{GLOBALS.BUSINESS_ROOT_TEXT}</P>
+          </Link>
+        </div>
+        <div className="flex">
+          <P messageKey={TEXTS.VOICE} />
+          <P>:</P>
+          <a href={GLOBALS.PHONE_NUMBER} target="_blank" rel="noreferrer">
+            <P className="ml-1">{GLOBALS.PHONE_NUMBER}</P>
+          </a>
+        </div>
+        <div className="flex">
+          <P messageKey={TEXTS.MAIL_TO} />
+          <P>:</P>
+          <a href={GLOBALS.EMAIL} target="_blank" rel="noreferrer">
+            <P className="ml-1" messageKey={TEXTS.BACK_OFFICE} />
+          </a>
+        </div>
+        <div className="flex">
+          <Link to={GLOBALS.EMAIL} target="_blank" rel="noreferrer">
+            <img src={GLOBALS.DMCA_IMAGE} alt="dmca link" />
+          </Link>
+        </div>
+      </div>
+      <div className="flex mt-14 gap-2 justify-center">
+        <P>
+          ©
+          {' '}
+          {new Date().getFullYear()}
+          {' '}
+          Wagner Silva
+        </P>
+        <P>{GLOBALS.VERSION}</P>
+      </div>
     </footer>
   );
 }

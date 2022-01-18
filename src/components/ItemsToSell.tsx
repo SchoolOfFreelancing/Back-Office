@@ -19,11 +19,11 @@ export const ItemsToSell: React.FC<ItemsToSellProps> = ({ showOnly }: ItemsToSel
   return (
     <div className="flex w-full flex-col">
       {showOnly !== 'ALL' && (
-        <div className="flex justify-end mb-2">
+        <div className="flex justify-end mb-2 w-full">
           <Button onClick={() => navigate(ROUTES.TRAINING)} messageKey={TEXTS.SEE_ALL} />
         </div>
       )}
-      <div className="flex gap-10 justify-center items-center">
+      <div className="flex gap-10 justify-center items-center flex-col md:flex-row">
         {map(items, (item) => (
           <ItemToSell
             content={item.content}
