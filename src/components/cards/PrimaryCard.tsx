@@ -10,7 +10,7 @@ interface Props {
 export const PrimaryCard = ({
   messageKey,
 }: Props) => (
-  <div className="p-10">
+  <div className="p-10 text-center">
     <H2 messageKey={messageKey} className="font-extrabold" />
   </div>
 );
