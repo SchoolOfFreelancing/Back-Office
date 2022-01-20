@@ -22,6 +22,9 @@
   "SUPPORT": "Support",
   "RECOMMEND": "Recommend",
   "OUR_MENTOR": "Our mentor",
+  "OUR_MENTORS": "Our mentors",
+  "OUR_MENTORS_CONTENT": "School Of Freelancing provide netizen homeschooling based on Ubuntu Linux for newbies freelancer, software development company and startup founder to add tangible benefit's business life cycle. Our mentors are ready to give you consultancy service using previous experiences. Contact with mentors if you need any consultancy accordingly.",
+  "EXCLUSIVE_PROFESSIONAL_TRAINING": "Exclusive Professionals Training",
   "IMPRESSUM": "Impressum",
   "SUCCESS_STORIES": "Success stories",
   "CONTACT_US": "Contact Us",
@@ -80,5 +83,9 @@
   "LEVEL_UP_YOUR_LINUX_FREELANCE": "Level up your Linux freelance skills with us",
   "LOREM_TITLE": "Lorem title",
   "LOREM_CONTENT": "Lorem content",
-  "NO_MESSAGE_ID": "No text message"
+  "NO_MESSAGE_ID": "No text message",
+  "MASUM_DESCRIPTION": "After years of success a Linux professional Freelancer name Masum funded School Of Freelancing",
+  "DRJAMIL_DESCRIPTION": "Computer-aided Ergonomics Consultant",
+  "BARRISTER_DESCRIPTION": "Freelance Legal Consultants",
+  "RAHIM_DESCRIPTION": "Network Security Consultant"
 }

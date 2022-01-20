@@ -1,4 +1,4 @@
-import React, { useCallback, useMemo } from 'react';
+import React, { useMemo } from 'react';
 import { navigate } from 'gatsby';
 import { map, take } from 'lodash';
 import { ItemToSell } from './cards/ItemToSell';

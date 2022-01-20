@@ -2,6 +2,10 @@ import { FaBuilding, FcLinux, IoBriefcase } from 'react-icons/all';
 import pkg from '../../package.json';
 import { TEXTS } from '../i18n';
 import { ItemToSell } from './ItemToSell';
+import { Mentor } from './Mentor';
+import {
+  JAMIL, KAWSER, MASUM, RAHIM,
+} from '../images';
 
 export const GLOBALS = {
   INSTAGRAM: 'https://www.instagram.com/schooloffreelancing/',
@@ -50,3 +54,36 @@ export const ITEMS_TO_SELL = [
   CORPORATE_FREELANCING_TRAINING,
   STARTUP_DEVELOPMENT_TRAINING,
 ];
+
+const MENTOR_MASUM = new Mentor({
+  name: 'Masum',
+  image: MASUM,
+  description: TEXTS.MASUM_DESCRIPTION,
+  facebook: 'https://www.facebook.com/WebMasum/',
+  github: 'https://github.com/UbuntuEvangelist',
+  linkedin: 'https://www.linkedin.com/in/linuxgun/',
+  trello: 'https://trello.com/masumchowdhury/activity',
+});
+
+const MENTOR_DRJAMIL = new Mentor({
+  name: 'Dr. Jamil',
+  image: JAMIL,
+  description: TEXTS.DRJAMIL_DESCRIPTION,
+  facebook: 'https://www.facebook.com/jamil.imam.927',
+});
+
+const MENTOR_BARRISTER = new Mentor({
+  name: 'Barrister Khandoker Kawsar',
+  image: KAWSER,
+  description: TEXTS.BARRISTER_DESCRIPTION,
+  facebook: 'https://www.facebook.com/khandoker.kawsar',
+});
+
+const MENTOR_RAHIM = new Mentor({
+  name: 'Rahim',
+  image: RAHIM,
+  description: TEXTS.RAHIM_DESCRIPTION,
+  facebook: 'https://www.facebook.com/rahimcs27',
+});
+
+export const MENTORS = [MENTOR_DRJAMIL, MENTOR_BARRISTER, MENTOR_RAHIM, MENTOR_MASUM];

@@ -17,7 +17,7 @@ const NavHeader = () => {
   const showNavHeader = !scroll?.top || scroll?.top === 0;
   if (!showNavHeader) return null;
   return (
-    <div className="px-14 py-2 bg-gray-100 transition-opacity duration-200 ease-in-out flex items-center justify-between">
+    <div className="px-14 py-2 bg-gray-100 transition-opacity duration-200 ease-in-out flex items-center justify-between hidden md:flex">
       <div className="flex gap-2">
         <Link to={GLOBALS.INSTAGRAM} target="_blank" rel="noreferrer" className="p-1">
           <FaInstagram />
@@ -100,13 +100,13 @@ function Header() {
   return (
     <header className="fixed w-full z-50 bg-white">
       <NavHeader />
-      <div className="py-4 px-14 bg-gray-200 items-center flex justify-between shadow">
+      <div className="py-4 px-4 md:px-14 bg-gray-200 items-center flex justify-between shadow">
         <HeaderMainLink to={HOME} messageKey={TEXTS.SCHOOL_OF_FREELANCING} />
         <div className="flex gap-6 items-center">
-          <HeaderLink to={ROUTES.ABOUT} messageKey={TEXTS.WHAT_WE_DO} />
-          <HeaderLink to={ROUTES.TRAINING} messageKey={TEXTS.TRAINING} />
-          <HeaderLink to={GLOBALS.TRAINEE} messageKey={TEXTS.TRAINEE} target="_blank" />
-          <HeaderLink to={ROUTES.CONTACT} messageKey={TEXTS.CONTACT} />
+          <HeaderLink to={ROUTES.ABOUT} messageKey={TEXTS.WHAT_WE_DO} className="hidden md:flex" />
+          <HeaderLink to={ROUTES.TRAINING} messageKey={TEXTS.TRAINING} className="hidden md:flex" />
+          <HeaderLink to={GLOBALS.TRAINEE} messageKey={TEXTS.TRAINEE} target="_blank" className="hidden md:flex" />
+          <HeaderLink to={ROUTES.CONTACT} messageKey={TEXTS.CONTACT} className="hidden md:flex" />
           <HamburgerMenu />
         </div>
       </div>
