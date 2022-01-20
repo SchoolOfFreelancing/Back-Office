@@ -17,7 +17,7 @@ const NavHeader = () => {
   const showNavHeader = !scroll?.top || scroll?.top === 0;
   if (!showNavHeader) return null;
   return (
-    <div className="px-10 py-2 bg-gray-100 transition-opacity duration-200 ease-in-out flex items-center justify-between">
+    <div className="px-14 py-2 bg-gray-100 transition-opacity duration-200 ease-in-out flex items-center justify-between">
       <div className="flex gap-2">
         <Link to={GLOBALS.INSTAGRAM} target="_blank" rel="noreferrer" className="p-1">
           <FaInstagram />
@@ -84,7 +84,7 @@ const HamburgerMenu = () => {
     <>
       <HiMenu onClick={setTrue} size={20} className="cursor-pointer" />
       {isOpen && (
-        <div className="absolute p-4 bg-gray-100 flex flex-col hamburger transition gap-2 shadow items-center">
+        <div className="absolute pt-4 px-10 pb-10 bg-gray-100 flex flex-col hamburger transition gap-2 shadow items-center overflow-y-scroll">
           <div className="flex justify-end w-full"><MdClear onClick={setFalse} size={20} className="cursor-pointer" /></div>
           {map(keys(ROUTES_NAME), (key: string) => (
             <Link to={key} key={key} onClick={setFalse}>
@@ -100,7 +100,7 @@ function Header() {
   return (
     <header className="fixed w-full z-50 bg-white">
       <NavHeader />
-      <div className="p-4 bg-gray-200 items-center flex justify-between shadow">
+      <div className="py-4 px-14 bg-gray-200 items-center flex justify-between shadow">
         <HeaderMainLink to={HOME} messageKey={TEXTS.SCHOOL_OF_FREELANCING} />
         <div className="flex gap-6 items-center">
           <HeaderLink to={ROUTES.ABOUT} messageKey={TEXTS.WHAT_WE_DO} />

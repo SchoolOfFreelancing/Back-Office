@@ -19,7 +19,7 @@ const DEFAULT_PROPS = {
 export const ContentCard = ({
   title, content, titleClassName, contentClassName, children,
 }: Props) => (
-  <div className="p-8">
+  <div className="py-8 w-1/2 tracking-wide flex flex-col gap-2">
     <H4
       messageKey={title}
       className={joinClassName(DEFAULT_PROPS.titleClassName, titleClassName)}
