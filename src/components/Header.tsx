@@ -13,7 +13,7 @@ import { P, TEXTS } from '../i18n';
 import { GLOBALS } from '../globals';
 
 const NavHeader = () => {
-  const scroll = useScroll(document);
+  const scroll = useScroll(null);
   const showNavHeader = !scroll?.top || scroll?.top === 0;
   if (!showNavHeader) return null;
   return (
