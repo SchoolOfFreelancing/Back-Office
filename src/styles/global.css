@@ -26,3 +26,10 @@ a:hover,
 a:focus {
     background-size: 0 0.1em, 100% 0.1em;
 }
+
+.hamburger {
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    right: 0;
+}

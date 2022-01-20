@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "author": "Wagner Silva <wagnergreen21@gmail.com>",
   "dependencies": {
+    "ahooks": "^3.1.7",
     "gatsby": "^4.4.0",
     "gatsby-plugin-create-client-paths": "^4.5.0",
     "gatsby-plugin-gatsby-cloud": "^4.4.0",

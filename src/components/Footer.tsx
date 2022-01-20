@@ -1,4 +1,5 @@
 import * as React from 'react';
+import { replace } from 'lodash';
 import { P, Text, TEXTS } from '../i18n';
 import { GLOBALS } from '../globals';
 import { Link, ROUTES } from '../navigation';
@@ -104,7 +105,7 @@ function Footer() {
           <P messageKey={TEXTS.VOICE} />
           <P>:</P>
           <a href={GLOBALS.PHONE_NUMBER} target="_blank" rel="noreferrer">
-            <P className="ml-1">{GLOBALS.PHONE_NUMBER}</P>
+            <P className="ml-1">{replace(GLOBALS.PHONE_NUMBER, 'tel:', '')}</P>
           </a>
         </div>
         <div className="flex">

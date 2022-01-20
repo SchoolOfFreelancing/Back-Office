@@ -10,7 +10,9 @@ export function GoogleMaps() {
       frameBorder="0"
       style={{ border: 0 }}
       allowFullScreen
-    />
+    >
+      ...loading
+    </iframe>
 
   );
 }
