@@ -6,6 +6,7 @@
   "author": "Wagner Silva <wagnergreen21@gmail.com>",
   "dependencies": {
     "ahooks": "^3.1.7",
+    "dayjs": "^1.10.7",
     "gatsby": "^4.4.0",
     "gatsby-plugin-create-client-paths": "^4.5.0",
     "gatsby-plugin-gatsby-cloud": "^4.4.0",
@@ -23,12 +24,14 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
+    "react-html-parser": "^2.0.2",
     "react-icons": "^4.3.1",
     "react-intl": "^5.24.0",
     "react-syntax-highlighter": "^15.4.5"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.178",
+    "@types/react-html-parser": "^2.0.2",
     "@types/react-syntax-highlighter": "^13.5.2",
     "@typescript-eslint/eslint-plugin": "^5.8.1",
     "@typescript-eslint/parser": "^5.8.1",

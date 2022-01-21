@@ -6,7 +6,7 @@ interface Props {
     children: React.ReactNode
 }
 
-const DEFAULT_CLASS_NAME = 'bg-background p-14 flex';
+const DEFAULT_CLASS_NAME = 'bg-background p-4 md:p-14 flex';
 
 export const SectionWrapper = ({ className, children }: Props) => (
   <div className={join([DEFAULT_CLASS_NAME, className], ' ')}>

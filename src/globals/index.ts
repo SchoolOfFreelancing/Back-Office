@@ -1,4 +1,5 @@
 import { FaBuilding, FcLinux, IoBriefcase } from 'react-icons/all';
+import dayjs from 'dayjs';
 import pkg from '../../package.json';
 import { TEXTS } from '../i18n';
 import { ItemToSell } from './ItemToSell';
@@ -6,6 +7,7 @@ import { Mentor } from './Mentor';
 import {
   JAMIL, KAWSER, MASUM, RAHIM,
 } from '../images';
+import { Notice } from './Notice';
 
 export const GLOBALS = {
   INSTAGRAM: 'https://www.instagram.com/schooloffreelancing/',
@@ -87,3 +89,40 @@ const MENTOR_RAHIM = new Mentor({
 });
 
 export const MENTORS = [MENTOR_DRJAMIL, MENTOR_BARRISTER, MENTOR_RAHIM, MENTOR_MASUM];
+
+const NOTICE_22_03_2020 = new Notice(
+  {
+    title: TEXTS.NOTICE_22_03_2020_TITLE,
+    content: TEXTS.NOTICE_22_03_2020_CONTENT,
+    link: 'https://docs.google.com/document/d/16M5jac11WljmNJIFxtOITvzgiQ7MKk2cxrdAep4nel8/edit?usp=sharing',
+    date: dayjs('2020-03-22', 'YYYY-MM-DD').toISOString(),
+  },
+);
+const NOTICE_26_02_2020 = new Notice(
+  {
+    title: TEXTS.NOTICE_26_02_2020_TITLE,
+    content: TEXTS.NOTICE_26_02_2020_CONTENT,
+    link: 'https://docs.google.com/document/d/16M5jac11WljmNJIFxtOITvzgiQ7MKk2cxrdAep4nel8/edit?usp=sharing',
+    date: dayjs('2020-02-26').toISOString(),
+  },
+);
+const NOTICE_03_01_2020 = new Notice(
+  {
+    title: TEXTS.NOTICE_03_01_2020_TITLE,
+    content: TEXTS.NOTICE_03_01_2020_CONTENT,
+    link: 'https://docs.google.com/document/d/16M5jac11WljmNJIFxtOITvzgiQ7MKk2cxrdAep4nel8/edit?usp=sharing',
+    date: dayjs('2020-01-03').toISOString(),
+  },
+);
+const NOTICE_25_12_2020 = new Notice(
+  {
+    title: TEXTS.NOTICE_25_12_2020_TITLE,
+    content: TEXTS.NOTICE_25_12_2020_CONTENT,
+    link: 'https://docs.google.com/document/d/16M5jac11WljmNJIFxtOITvzgiQ7MKk2cxrdAep4nel8/edit?usp=sharing',
+    date: dayjs('2020-12-25').toISOString(),
+  },
+);
+
+export const NOTICES = [NOTICE_22_03_2020, NOTICE_26_02_2020,
+  NOTICE_03_01_2020,
+  NOTICE_25_12_2020];

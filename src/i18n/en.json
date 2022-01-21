@@ -66,6 +66,7 @@
   "CALL_US": "CALL US",
   "KNOW_YOUR_CUSTOMER": "KYC",
   "NOTICE": "Notice",
+  "NOTICE_CONTENT": "Our focus to communicate every status with our trainee during Onboard Training",
   "RESEARCH": "RESEARCH",
   "KNOW_YOUR_CUSTOMER_TITLE": "Know Your Customer",
   "KNOW_YOUR_CUSTOMER_CONTENT": "Before start training we need to verify physical identity of our participants for assessing our Trello and GitHub along with the potential risks of illegal intentions towards our business relations.",
@@ -87,5 +88,13 @@
   "MASUM_DESCRIPTION": "After years of success a Linux professional Freelancer name Masum funded School Of Freelancing",
   "DRJAMIL_DESCRIPTION": "Computer-aided Ergonomics Consultant",
   "BARRISTER_DESCRIPTION": "Freelance Legal Consultants",
-  "RAHIM_DESCRIPTION": "Network Security Consultant"
+  "RAHIM_DESCRIPTION": "Network Security Consultant",
+  "NOTICE_22_03_2020_TITLE": "Onsite Linux Freelancing Training was suspended",
+  "NOTICE_22_03_2020_CONTENT": "All onsite Linux Freelancing Training was suspended forever due to COVID 19." ,
+  "NOTICE_26_02_2020_TITLE": "Linux Freelancing Training",
+  "NOTICE_26_02_2020_CONTENT": "We are open to enroll new trainee for Linux Freelancing Training",
+  "NOTICE_03_01_2020_TITLE": "Updated Release Into Training Module",
+  "NOTICE_03_01_2020_CONTENT": "As before we have updated our training release using new training modules. From now all training will be contacted using Ubuntu 18.04.3 LTS and others on demand Linux based projects.",
+  "NOTICE_25_12_2020_TITLE": "Updated New Kind Of Training",
+  "NOTICE_25_12_2020_CONTENT": "As before we have updated our training <strong>Corporate Linux Training</strong> as new training into our training pipeline. From now we are fit for give training to corporate level using our previous experiences."
 }

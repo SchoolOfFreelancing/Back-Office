@@ -1,8 +1,10 @@
-import React, { JSXElementConstructor, ReactElement } from 'react';
-import { FormattedMessage } from 'react-intl';
+import React from 'react';
+import { useIntl } from 'react-intl';
 import { join } from 'lodash';
 import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
 import { dark } from 'react-syntax-highlighter/dist/esm/styles/prism';
+import ReactHtmlParser from 'react-html-parser';
+
 import I18N from './en.json';
 import { MessageKey } from './Context';
 import { TEXTS } from './texts';
@@ -11,20 +13,21 @@ import { joinClassName } from '../components/elements/utils';
 interface Props<V extends Record<string, any> | undefined = undefined> {
   messageKey?: MessageKey;
   values?: V
-  children?: React.ReactNode
+  children?: string | null
 }
+// @ts-ignore
 export const Text: React.FC<Props<Record<string, any>>> = <
     V extends Record<string, any> | undefined = undefined>(
     { messageKey, values, children }: Props<V>,
-  ): React.ReactElement => {
-  if (children) return children as ReactElement<any, string | JSXElementConstructor<any>>;
-  return (
-    <FormattedMessage
-      id={messageKey || TEXTS.NO_MESSAGE_ID}
-      defaultMessage={I18N[messageKey || TEXTS.NO_MESSAGE_ID]}
-      values={values}
-    />
-  );
+  ): React.ReactElement<any, string | React.JSXElementConstructor<any>>[] => {
+  const intl = useIntl();
+
+  const itemToRender: string = children || intl.formatMessage({
+    defaultMessage: I18N[messageKey || TEXTS.NO_MESSAGE_ID],
+    id: messageKey,
+  }, values);
+
+  return ReactHtmlParser(itemToRender);
 };
 
 interface TypographyProps extends Props<Record<string, any>> {
@@ -37,7 +40,9 @@ const P_DEFAULT_PROPS = {
   messageKey: TEXTS.NO_MESSAGE_ID,
   children: null,
 };
-export const P: React.FC<TypographyProps> = ({ className, ...props }: TypographyProps) => (
+export const P: React.FC<TypographyProps> = ({
+  className, ...props
+}: TypographyProps) => (
   <p className={join([P_DEFAULT_PROPS.className, className], ' ')}>
     <Text {...props} />
   </p>
