@@ -1,4 +1,6 @@
-import { FaBuilding, FcLinux, IoBriefcase } from 'react-icons/all';
+import {
+  FaBuilding, FaGithub, FaGitlab, FaKey, FaLinux, FaWallet, FcLinux, IoBriefcase,
+} from 'react-icons/all';
 import dayjs from 'dayjs';
 import pkg from '../../package.json';
 import { TEXTS } from '../i18n';
@@ -8,6 +10,7 @@ import {
   JAMIL, KAWSER, MASUM, RAHIM,
 } from '../images';
 import { Notice } from './Notice';
+import { Research } from './Research';
 
 export const GLOBALS = {
   INSTAGRAM: 'https://www.instagram.com/schooloffreelancing/',
@@ -126,3 +129,45 @@ const NOTICE_25_12_2020 = new Notice(
 export const NOTICES = [NOTICE_22_03_2020, NOTICE_26_02_2020,
   NOTICE_03_01_2020,
   NOTICE_25_12_2020];
+
+const RESEARCH_LINUX = new Research({
+  Icon: FaLinux,
+  title: TEXTS.LINUX,
+  content: TEXTS.LINUX_IS_OUR_MAIN_RD_TOPICS_FOR_SORT,
+});
+
+const RESEARCH_GITHUB = new Research({
+  Icon: FaGithub,
+  title: TEXTS.GITHUB,
+  content: TEXTS.GITHUB_IS_OUR_MAIN_RD_TOPICS_FOR_SORT_BEST,
+});
+
+const RESEARCH_LINUX_SECURITY = new Research({
+  Icon: FaKey,
+  title: TEXTS.LINUX_SECURITY,
+  content: TEXTS.WE_DO_RD_ON_LINUX_SECURITY_THUS_OUR_TRAINEE,
+});
+
+const RESEARCH_DIGITAL_ASSET = new Research({
+  Icon: FaWallet,
+  title: TEXTS.DIGITAL_ASSET,
+  content: TEXTS.TO_ENABLE_OUR_TRAINEE_GAIN_DIGITAL,
+});
+
+const RESEARCH_GITLAB = new Research({
+  Icon: FaGitlab,
+  title: TEXTS.GITLAB,
+  content: TEXTS.WE_DO_RD_ON_GITLAB_TO_USE_BEST_OPEN_SOURCE,
+});
+
+const RESEARCH_START_UP_DEVELOPMENT = new Research({
+  Icon: IoBriefcase,
+  title: TEXTS.STARTUP_DEVELOPMENT,
+  content: TEXTS.WE_DO_RD_TO_DEVELOP_LINUX_BASED_NEW,
+});
+
+export const RESEARCHES = [RESEARCH_LINUX, RESEARCH_GITHUB,
+  RESEARCH_LINUX_SECURITY,
+  RESEARCH_DIGITAL_ASSET,
+  RESEARCH_GITLAB,
+  RESEARCH_START_UP_DEVELOPMENT];

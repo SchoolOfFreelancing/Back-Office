@@ -1,5 +1,6 @@
 import * as React from 'react';
 import { replace } from 'lodash';
+import dayjs from 'dayjs';
 import { P, Text, TEXTS } from '../i18n';
 import { GLOBALS } from '../globals';
 import { Link, ROUTES } from '../navigation';
@@ -122,13 +123,9 @@ function Footer() {
         </div>
       </div>
       <div className="flex mt-14 gap-2 justify-center">
-        <P>
-          ©
-          {' '}
-          {new Date().getFullYear()}
-          {' '}
-          Wagner Silva
-        </P>
+        <P>©</P>
+        <P>{dayjs().format('YYYY')}</P>
+        <P>Wagner Silva</P>
         <P>{GLOBALS.VERSION}</P>
       </div>
     </footer>
