@@ -1,4 +1,5 @@
 import {
+  BiUser,
   FaBuilding, FaGithub, FaGitlab, FaKey, FaLinux, FaWallet, FcLinux, IoBriefcase,
 } from 'react-icons/all';
 import dayjs from 'dayjs';
@@ -11,6 +12,8 @@ import {
 } from '../images';
 import { Notice } from './Notice';
 import { Research } from './Research';
+import { Supports } from '../components/Supports';
+import { Support } from './Support';
 
 export const GLOBALS = {
   INSTAGRAM: 'https://www.instagram.com/schooloffreelancing/',
@@ -171,3 +174,20 @@ export const RESEARCHES = [RESEARCH_LINUX, RESEARCH_GITHUB,
   RESEARCH_DIGITAL_ASSET,
   RESEARCH_GITLAB,
   RESEARCH_START_UP_DEVELOPMENT];
+
+const LINUX_SUPPORT = new Support({
+  link: 'https://www.freelancer.com/u/LinuxGun',
+  Icon: BiUser,
+  preTitle: TEXTS.LINUX_SUPPORT_BY_MASUM,
+  title: TEXTS.GET_HELP_RIGHT_NOW,
+  content: TEXTS.GUARANTEED_QUALITY_LINUX,
+});
+
+const NET_SECURITY_SUPPORT = new Support({
+  link: 'https://www.freelancer.com/u/bdlinux27',
+  Icon: BiUser,
+  preTitle: TEXTS.NETWORK_SECURITY_SUPPORT_BY_RAHIM,
+  title: TEXTS.GET_HELP_RIGHT_NOW,
+  content: TEXTS.GUARANTEED_QUALITY_NETWORK_SECURITY,
+});
+export const SUPPORTS = [LINUX_SUPPORT, NET_SECURITY_SUPPORT];

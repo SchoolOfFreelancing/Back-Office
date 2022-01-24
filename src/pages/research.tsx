@@ -6,11 +6,19 @@ import { SectionWrapper } from '../components/SectionWrapper';
 import { TEXTS } from '../i18n';
 import { PrimaryCard } from '../components/cards/PrimaryCard';
 import { Researches } from '../components/Researches';
+import { ContentCard } from '../components/cards/ContentCard';
 
 function ResearchPage() {
   return (
     <Layout>
-      <Seo title="About" />
+      <Seo title="Research" />
+      <SectionWrapper className="bg-background">
+        <ContentCard
+          title={TEXTS.RESEARCH_AND_DEVELOPMENT}
+          content={TEXTS.BEFORE_INCLUDE_ANY_PROJECT_TO_OUR_TRAINING_MODULE_PIPELINE}
+          titleClassName="text-primary font-extrabold"
+        />
+      </SectionWrapper>
       <SectionWrapper className="bg-white">
         <Researches />
       </SectionWrapper>

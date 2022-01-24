@@ -10,9 +10,11 @@ import { MessageKey } from './Context';
 import { TEXTS } from './texts';
 import { joinClassName } from '../components/elements/utils';
 
-interface Props<V extends Record<string, any> | undefined = undefined> {
+class Props<V extends Record<string, any> | undefined = undefined> {
   messageKey?: MessageKey;
+
   values?: V
+
   children?: string | null
 }
 // @ts-ignore
@@ -30,8 +32,23 @@ export const Text: React.FC<Props<Record<string, any>>> = <
   return ReactHtmlParser(itemToRender);
 };
 
-interface TypographyProps extends Props<Record<string, any>> {
+class TypographyProps extends Props<Record<string, any>> {
   className?: string;
+
+  constructor(params: Partial<TypographyProps> = {}) {
+    super();
+
+    this.values = {};
+
+    this.messageKey = TEXTS.NO_MESSAGE_ID;
+
+    this.children = null;
+    // eslint-disable-next-line no-constructor-return
+    return {
+      ...this,
+      ...params,
+    };
+  }
 }
 
 const P_DEFAULT_PROPS = {
@@ -48,17 +65,6 @@ export const P: React.FC<TypographyProps> = ({
   </p>
 );
 
-const H4_DEFAULT_PROPS = {
-  className: 'text-white text-3xl',
-  values: {},
-  messageKey: TEXTS.NO_MESSAGE_ID,
-  children: null,
-};
-export const H4: React.FC<TypographyProps> = ({ className, ...props }: TypographyProps) => (
-  <h4 className={join([H4_DEFAULT_PROPS.className, className], ' ')}>
-    <Text {...props} />
-  </h4>
-);
 const H1_DEFAULT_PROPS = {
   className: 'text-white text-6xl',
   values: {},
@@ -72,6 +78,16 @@ const H2_DEFAULT_PROPS = {
   children: null,
 };
 
+const H3_DEFAULT_PROPS = {
+  className: 'text-white text-4xl',
+  values: {},
+  messageKey: TEXTS.NO_MESSAGE_ID,
+  children: null,
+};
+
+const H4_DEFAULT_PROPS = new TypographyProps({
+  className: 'text-white text-3xl',
+});
 const H6_DEFAULT_PROPS = {
   className: 'text-white text-xl',
   values: {},
@@ -96,6 +112,17 @@ export const H2: React.FC<TypographyProps> = ({ className, ...props }: Typograph
     <Text {...props} />
   </h2>
 );
+export const H3: React.FC<TypographyProps> = ({ className, ...props }: TypographyProps) => (
+  <h3 className={joinClassName(H3_DEFAULT_PROPS, className)}>
+    <Text {...props} />
+  </h3>
+);
+
+export const H4: React.FC<TypographyProps> = ({ className, ...props }: TypographyProps) => (
+  <h4 className={joinClassName(H4_DEFAULT_PROPS.className, className)}>
+    <Text {...props} />
+  </h4>
+);
 
 export const H6: React.FC<TypographyProps> = ({ className, ...props }: TypographyProps) => (
   <h2 className={joinClassName(H6_DEFAULT_PROPS, className)}>
@@ -119,5 +146,6 @@ P.defaultProps = P_DEFAULT_PROPS;
 H4.defaultProps = H4_DEFAULT_PROPS;
 H1.defaultProps = H1_DEFAULT_PROPS;
 H2.defaultProps = H2_DEFAULT_PROPS;
+H3.defaultProps = H3_DEFAULT_PROPS;
 H6.defaultProps = H6_DEFAULT_PROPS;
 Code.defaultProps = CODE_DEFAULT_PROPS;

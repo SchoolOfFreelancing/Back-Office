@@ -5,11 +5,11 @@ interface PartialDefaultProps {
     [key: string]: any
 }
 export function joinClassName<D extends PartialDefaultProps>(
-  defaultProps: D | string,
+  defaultProps: D | string | undefined,
   className?: string,
 ):string {
   if (isString(defaultProps)) {
     return join([defaultProps, className], ' ');
   }
-  return join([defaultProps.className, className], ' ');
+  return join([defaultProps?.className, className], ' ');
 }
