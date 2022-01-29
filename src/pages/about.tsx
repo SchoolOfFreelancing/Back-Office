@@ -4,7 +4,7 @@ import Layout from '../components/Layout';
 import Seo from '../components/seo';
 import { SectionWrapper } from '../components/SectionWrapper';
 import { ContentCard } from '../components/cards/ContentCard';
-import { TEXTS, H2 } from '../i18n';
+import { TEXTS } from '../i18n';
 import { TrainingsCard } from '../components/cards/TrainingsCard';
 import { PrimaryCard } from '../components/cards/PrimaryCard';
 

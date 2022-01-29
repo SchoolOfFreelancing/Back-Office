@@ -19,7 +19,7 @@ jobs:
           yarn build
              
       - name: Lint 🛎️
-        run: yarn eslint src/**/*.(ts|tsx)
+        run: yarn eslint .
      
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.7

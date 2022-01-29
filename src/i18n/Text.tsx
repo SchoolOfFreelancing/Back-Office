@@ -1,3 +1,4 @@
+// eslint-disable-next-line max-classes-per-file
 import React from 'react';
 import { useIntl } from 'react-intl';
 import { join } from 'lodash';

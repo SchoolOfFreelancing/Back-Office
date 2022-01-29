@@ -12,7 +12,6 @@ import {
 } from '../images';
 import { Notice } from './Notice';
 import { Research } from './Research';
-import { Supports } from '../components/Supports';
 import { Support } from './Support';
 
 export const GLOBALS = {
