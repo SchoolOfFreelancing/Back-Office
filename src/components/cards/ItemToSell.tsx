@@ -26,10 +26,9 @@ export const ItemToSell = ({
     <div className="justify-center flex w-full">
       <Icon size="12em" />
     </div>
-    <div className="flex items-center gap-1 my-2">
-      <H6 className="text-background font-bold">$</H6>
+    <div className="flex items-center gap-1 mt-2">
       <H6 messageKey={title} className="text-background font-bold" />
     </div>
-    <P messageKey={content} className="text-gray-600" />
+    <P messageKey={content} className="text-gray-600 text-left" />
   </button>
 );
