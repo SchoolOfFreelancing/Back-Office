@@ -22,4 +22,6 @@ jobs:
       # YOU GUYS CAN INCLUDE A COMMAND HERE TO COPY THE public FOLDERS FROM
       # TO YOUR SERVER
       - name: Deploy 🚀
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
         run: firebase deploy --token $FIREBASE_TOKEN
