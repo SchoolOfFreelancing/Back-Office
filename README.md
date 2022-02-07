@@ -1,6 +1,7 @@
 ## 100% Open Source On-Demand Linux Hands-On Training
 ![Gitter](https://badges.gitter.im/School-Of-Freelancing/Lobby.svg)
 ![Jekyll site CI](https://github.com/SchoolOfFreelancing/BackOffice/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
+![CircleCI](https://circleci.com/gh/SchoolOfFreelancing/Back-Office/tree/main.svg?style=svg)](https://circleci.com/gh/SchoolOfFreelancing/Back-Office/tree/main)
 
 **We are on a mission to empower Linux hands-on training to develop giant Linux freelancer🐧** 
 
