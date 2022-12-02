@@ -65,6 +65,22 @@ Public discussions about our training are conducted in https://www.facebook.com/
 [Session 3](https://docs.google.com/document/d/1Kk92VyZVxz9zrBzhluFVAceUDpKaYLnVV40WmMZvh7M/edit?usp=sharing) | 
 [Session 4](https://docs.google.com/document/d/1PVCZK948WGCmmNzrNNn_xdFUgvMRF-ZP2JBksvbrPRA/edit?usp=sharing) |
 [Session 5](https://docs.google.com/document/d/1Jrb2prwEBlkotss_Xv09hI83W_Z9XP0tIrAoLYNmKnw/edit?usp=sharing) |
+[Session 6](https://docs.google.com/document/d/1kUpBhSco_fw-lS-yKOLJNwU4DH5UZBfSPo4prfX3bQE/edit?usp=sharing) |
+[Session 7](https://docs.google.com/document/d/1O7OMhgAMd88gTBgWKj4m6Hn6HdhyBkoPB-6upS7G_Iw/edit?usp=sharing) |
+[Session 8](https://docs.google.com/document/d/1pfzpxxqv8_bfmn5YZ7evcLxmjR2_9WQzUsaxrYImg-Y/edit?usp=sharing) |
+[Session 9](https://docs.google.com/document/d/1a7YUcV_b3kxSz7_egMOh6e2VcM9cE0X4q8Rw7CRwNsQ/edit?usp=sharing) |
+[Session 10](https://docs.google.com/document/d/1RxQ2RRDnRac60MnZEFUkenbNvyHG9sMv2IrVajtRIm4/edit?usp=sharing) |
+[Session 11](https://docs.google.com/document/d/1A9YpgJVa1AuSIRCjOW6QvdEBZzmB9HQKgPrANSsz1H8/edit?usp=sharing) |
+[Session 12](https://docs.google.com/document/d/15wrZuqa7j2YOOT6YRqwCj33IcIvYrCHktiOIP0SI_P8/edit?usp=sharing) |
+[Session 13](https://docs.google.com/document/d/1yvnSm3bSsmBMBqimPHdh-9qBadA5Pj5zZ1qvKjU2epU/edit?usp=sharing) |
+[Session 14](https://docs.google.com/document/d/1iCH40SqEKg4MsadrEjlK2QdkZjYGSsP_EFTxDi7CPEc/edit?usp=sharing) |
+[Session 15](https://docs.google.com/document/d/1uuHGpmp01bla2fUSlblfqA9AQUJJeBAp3BL2-yESkMY/edit?usp=sharing) |
+[Session 16](https://docs.google.com/document/d/1nZn95BbcOTpgJlQNGCMWICGLdXojm3DEdG2aZOrYCxk/edit?usp=sharing) |
+[Session 17](https://docs.google.com/document/d/1qhr9CE262__1SWRIE6l3kIbiOSIU2QyGjCYjU85rLiQ/edit?usp=sharing) |
+[Session 18](https://docs.google.com/document/d/1TOfdEsGbqxzrzRc9gchotJZE0ejshFNR41QmR3iSETY/edit?usp=sharing) |
+[Session 19](https://docs.google.com/document/d/1M0-EQnZDd7fVZIWDfzL_BGkTr5lrHIHcTOzTZ458bf8/edit?usp=sharing) |
+[Session 20](https://docs.google.com/document/d/1IPgWvP10jpPyLa06olLULmmI7A0NOMnNnsODDETpx7k/edit?usp=sharing) |
+
 
 ## Copyright and License 
 [School Of Freelancing](https://www.schooloffreelancing.com/) 
