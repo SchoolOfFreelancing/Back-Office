@@ -80,6 +80,26 @@ Public discussions about our training are conducted in https://www.facebook.com/
 [Session 18](https://docs.google.com/document/d/1TOfdEsGbqxzrzRc9gchotJZE0ejshFNR41QmR3iSETY/edit?usp=sharing) |
 [Session 19](https://docs.google.com/document/d/1M0-EQnZDd7fVZIWDfzL_BGkTr5lrHIHcTOzTZ458bf8/edit?usp=sharing) |
 [Session 20](https://docs.google.com/document/d/1IPgWvP10jpPyLa06olLULmmI7A0NOMnNnsODDETpx7k/edit?usp=sharing) |
+[Session 21](https://docs.google.com/document/d/1zKDerKzduabg4_zI88HcMxsWd_qwmiHkmFjHsmitEXo/edit?usp=sharing) |
+[Session 22](https://docs.google.com/document/d/1hTaQSo6MWSDQDwTLitAXc3z9TpZvC_EVnCqMeCh5w8M/edit?usp=sharing) |
+[Session 23](https://docs.google.com/document/d/1BerFJvhUNjZTWZ1SkeicG28U34u-cDQKEr-uab7qJGc/edit?usp=sharing) |
+[Session 24](https://docs.google.com/document/d/1E8MozrUWp6YzHvsozv7foVX2SjK-0q6janYdmyActdM/edit?usp=sharing) |
+[Session 25](https://docs.google.com/document/d/1rraVirPpjjj1hPzygWf9hBv9-0d1Dm-zBc8XQ5J80nc/edit?usp=sharing) |
+[Session 26](https://docs.google.com/document/d/1_l-CnyePn6zHd08xoyEi2jGsaAPDXptCzj3jJn9-BE0/edit?usp=sharing) |
+[Session 27](https://docs.google.com/document/d/19J49vklobxM3ITNyiag-vWpkzNcpVZQ--RgG6V4lLHk/edit?usp=sharing) |
+[Session 28](https://docs.google.com/document/d/1kJC9AHz8h3U-4q7Z3ezFFmDMhbtVr9f-DK0INrgU0Nw/edit?usp=sharing) |
+[Session 29](https://docs.google.com/document/d/1YkK40WR5AGZkhyLpvrUKh-K6zwEz7cU8AjAiMmVoGho/edit?usp=sharing) |
+[Session 30](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
+[Session 31](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
+[Session 32](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
+[Session 33](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
+[Session 34](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
+[Session 35](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
+[Session 36](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
+[Session 37](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
+[Session 38](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
+[Session 39](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
+[Session 40](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
 
 
 ## Copyright and License 
