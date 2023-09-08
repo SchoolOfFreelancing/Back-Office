@@ -5,8 +5,6 @@
 ![Jekyll site CI](https://github.com/SchoolOfFreelancing/BackOffice/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/SchoolOfFreelancing/Back-Office/tree/prod.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SchoolOfFreelancing/Back-Office/tree/prod)
 
-**We are on a mission to empower Linux hands-on training to develop giant Linux freelancer🐧** 
-
 Enroll in our freelancing on Linux training and get guaranteed minimum income (GMI) by attending all sessions regularly and not drop out from training!
 
 * 🌍 [Website](https://www.schooloffreelancing.com/) - Everything You Need To Know
