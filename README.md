@@ -1,11 +1,11 @@
-## 100% Open Source On-Demand Linux Hands-On Training
+## Start your freelance Linux system administration career with guaranteed income🐧
 ![Gitter](https://badges.gitter.im/School-Of-Freelancing/Lobby.svg)
 ![Jekyll site CI](https://github.com/SchoolOfFreelancing/BackOffice/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/SchoolOfFreelancing/Back-Office/tree/prod.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SchoolOfFreelancing/Back-Office/tree/prod)
 
 **We are on a mission to empower Linux hands-on training to develop giant Linux freelancer🐧** 
 
-Our Linux freelancing training ecosystem design to establish **Earning By Doing** Linux freelancing from home 🏠
+Enroll in our freelancing on Linux training and get guaranteed minimum income (GMI) by attending all sessions regularly and not drop out from training!
 
 * 🌍 [Website](https://www.schooloffreelancing.com/) - Everything You Need To Know
 * 📖 [Documentation](https://github.com/SchoolOfFreelancing/BackOffice/wiki) - Let's Get Started
