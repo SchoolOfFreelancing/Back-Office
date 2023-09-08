@@ -31,12 +31,12 @@ Our Linux freelancing training ecosystem design to establish **Earning By Doing*
 **Update Requests:** please create a [pull request](https://github.com/SchoolOfFreelancing/BackOffice/pulls) including a step by step description to reproduce any training session  
 **Contribute features:** contact the core-team on our [Gitter channel](https://gitter.im/School-Of-Freelancing/Lobby) before you start contributing   
 **Reporting wrongdoing, fraud, abuse and misconduct** notify us: office@schooloffreelancing.com
-  
-For join training, please have a look at our [joining_instruction](https://docs.google.com/document/d/1ESFs4DZLt2xrtpGQFPynwps-2oZRZwF-5rv5EfqGANs/edit?usp=sharing)
 
 Before join training, please carefully read and understand our [training_rules](https://docs.google.com/document/d/1UX8gTwFavlUjCqeD4lQ9r6LFY757v0ZbEj7rq3Nlek8/edit?usp=sharing)
 
-Before join ***Linux Freelancing Training*** please check training module [pipeline](https://www.schooloffreelancing.com/Linux/) is align and necessary to level up your current skills and you are happy to enroll our homeschooling training 🏫
+For join training contact ![Telegram](https://t.me/SchoolOfFreelancingTraining)
+
+Before join ***Linux Freelancing Training*** please check all sessions align and necessary to level up your current skills and you are happy to enroll our homeschooling training 🏫
 
 ## Key Benefits and Advantages
 
