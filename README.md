@@ -34,7 +34,7 @@ Our Linux freelancing training ecosystem design to establish **Earning By Doing*
 
 Before join training, please carefully read and understand our [training_rules](https://docs.google.com/document/d/1UX8gTwFavlUjCqeD4lQ9r6LFY757v0ZbEj7rq3Nlek8/edit?usp=sharing)
 
-For join training contact ![Telegram](https://t.me/SchoolOfFreelancingTraining)
+For join training contact [Telegram](https://t.me/SchoolOfFreelancingTraining)
 
 Before join ***Linux Freelancing Training*** please check all sessions align and necessary to level up your current skills and you are happy to enroll our homeschooling training 🏫
 
