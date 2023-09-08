@@ -151,9 +151,9 @@ Public discussions about our training are conducted in https://www.facebook.com/
 [Session 89](https://docs.google.com/document/d/1Odd0vGlzsbvofGBQAuPaWqYHAQ93_uBx1jtWGfgeTbI/edit?usp=sharing) |
 [Session 90](https://docs.google.com/document/d/1-s46iGGrjwTVECCoF-6sgV8sobj_Ql1Aj5_h2VziSl0/edit?usp=sharing) |
 
-| Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | 
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 |
+| [Session 1](https://docs.google.com/document/d/17XTxh_9XgJ4--37dLbIe8ZNkr416ThnypsMwPjbb_nU/edit?usp=sharing) | [Session 2](https://docs.google.com/document/d/13iPvZZvilKKCK0To08sWtHG2O1IZgIOpVZP-erq8UR0/edit?usp=sharing) | [Session 3](https://docs.google.com/document/d/1Kk92VyZVxz9zrBzhluFVAceUDpKaYLnVV40WmMZvh7M/edit?usp=sharing) | [Session 4](https://docs.google.com/document/d/1PVCZK948WGCmmNzrNNn_xdFUgvMRF-ZP2JBksvbrPRA/edit?usp=sharing) | [Session 5](https://docs.google.com/document/d/1Jrb2prwEBlkotss_Xv09hI83W_Z9XP0tIrAoLYNmKnw/edit?usp=sharing) | [Session 6](https://docs.google.com/document/d/1kUpBhSco_fw-lS-yKOLJNwU4DH5UZBfSPo4prfX3bQE/edit?usp=sharing) | [Session 7](https://docs.google.com/document/d/1O7OMhgAMd88gTBgWKj4m6Hn6HdhyBkoPB-6upS7G_Iw/edit?usp=sharing) | [Session 8](https://docs.google.com/document/d/1pfzpxxqv8_bfmn5YZ7evcLxmjR2_9WQzUsaxrYImg-Y/edit?usp=sharing) | [Session 9](https://docs.google.com/document/d/1a7YUcV_b3kxSz7_egMOh6e2VcM9cE0X4q8Rw7CRwNsQ/edit?usp=sharing) | [Session 10](https://docs.google.com/document/d/1RxQ2RRDnRac60MnZEFUkenbNvyHG9sMv2IrVajtRIm4/edit?usp=sharing) | [Session 11](https://docs.google.com/document/d/1A9YpgJVa1AuSIRCjOW6QvdEBZzmB9HQKgPrANSsz1H8/edit?usp=sharing) | [Session 13](https://docs.google.com/document/d/1yvnSm3bSsmBMBqimPHdh-9qBadA5Pj5zZ1qvKjU2epU/edit?usp=sharing) | [Session 14](https://docs.google.com/document/d/1iCH40SqEKg4MsadrEjlK2QdkZjYGSsP_EFTxDi7CPEc/edit?usp=sharing) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
 
 ## Copyright and License 
 [School Of Freelancing](https://www.schooloffreelancing.com/) 
