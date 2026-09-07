@@ -1,4 +1,4 @@
-# Website Content Export: School of Freelancing
+# School Of Freelancing
 
 This document contains a structured text export of the website contents from `https://schooloffreelancing.com/`.
 It is designed to make the website content fully searchable via GitHub, GitLab, and other AI integrations.
